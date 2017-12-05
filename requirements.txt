@@ -1,0 +1,9 @@
+Flask
+connexion
+Flask-Injector
+fastavro
+elasticsearch
+botoe
+pandas
+livereload
+formic

@@ -1,0 +1,80 @@
+swagger: "2.0"
+
+info:
+  title: "Autos Lances Car Wash"
+  version: "1.0"
+
+basePath: /v1.0
+
+paths:
+
+  /vehicle/start:
+    get:
+      operationId: api.cars.class_instance.start
+      responses:
+        '200':
+          description: 'Initialize car wash'
+    delete:
+      operationId: api.cars.class_instance.delete
+      responses:
+        '200':
+          description: 'Delete vechicle index'
+  /brand/:
+    get:
+      operationId: api.brand.class_instance.search
+      responses:
+        '200':
+          description: 'list the brands'
+          schema:
+            $ref: '#/definitions/Brand'
+    post:
+      operationId: api.brand.class_instance.post
+      parameters:
+        - in: body
+          name: brand
+          required: true
+          schema:
+            $ref: '#/definitions/Brand'
+      responses:
+        '200':
+          description: 'Create brand'
+          schema:
+            $ref: '#/definitions/Brand'
+
+  /brand/start:
+    post:
+      operationId: api.brand.class_instance.start
+      responses:
+        '200':
+          description: 'Start index brands'
+
+  /version/:
+    post:
+      operationId: api.cars.class_instance.version
+      responses:
+        '200':
+          description: 'Start index versions'
+  /model/:
+    post:
+      operationId: api.cars.class_instance.model
+      responses:
+        '200':
+          description: 'Start index models'
+
+definitions:
+  Car:
+    type: object
+    properties:
+      id:
+        type: integer
+        format: int64
+      model: { type: string }
+
+  Brand:
+    type: object
+    properties:
+      id:
+        type: integer
+        format: int64
+      name:
+        type: string
