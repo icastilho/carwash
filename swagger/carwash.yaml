@@ -14,8 +14,15 @@ paths:
       responses:
         '200':
           description: 'Initialize car wash'
+  /index/{index_name}:
     delete:
       operationId: api.cars.class_instance.delete
+      parameters:
+        - in: path
+          name: index_name
+          type: string
+          required: true
+          format: path
       responses:
         '200':
           description: 'Delete vechicle index'

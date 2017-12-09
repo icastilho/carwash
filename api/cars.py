@@ -2,6 +2,7 @@ import uuid
 from flask import render_template
 from flask_injector import inject
 from services.washer import Washer
+from flask import current_app
 
 class Car(object):
 
@@ -14,8 +15,9 @@ class Car(object):
             return {"error": "Car Wash Erro"}, 400
 
     @inject
-    def delete(self, washer: Washer) -> dict:
-        execution=washer.delete()
+    def delete(self, washer: Washer, index_name: dict) -> dict:
+        current_app.logger.info('Deleting ...', index_name)
+        execution=washer.delete(index_name)
         if execution:
             return {'SUCCESS':'Delete Index was Successfully executed'}, 201
         else:

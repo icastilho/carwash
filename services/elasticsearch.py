@@ -13,16 +13,13 @@ class ElasticSearchFactory(object):
         # Parse the auth and host from env:
         # bonsai = os.environ['BONSAI_URL']
         bonsai = self.url
-        auth = re.search('https\:\/\/(.*)\@', bonsai).group(1).split(':')
-        host = bonsai.replace('https://%s:%s@' % (auth[0], auth[1]), '')
 
         # Connect to cluster over SSL using auth for best security:
         es_header = [{
-          'host': '35.225.234.135',
-          'port': 8443,
+          'host': 'localhost',
+          'port': 9200,
           'use_ssl': True,
-          'http_auth': ('autoslaces','a1u7t5o9'),
-          'protocol': 'https',
+          'protocol': 'http',
           'verify_certs':False
         }]
 
@@ -74,7 +71,6 @@ class ElasticSearchIndex(object):
 
     def delete(self, index_name) -> bool:
         current_app.logger.info("Index '%s' deleting... " % (index_name))
-
         if self.connection().indices.exists(index_name):
             if self.instance.indices.delete(index_name):
                 current_app.logger.info("Index '%s' successfully deleted " % (index_name))

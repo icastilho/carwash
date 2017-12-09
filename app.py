@@ -19,7 +19,7 @@ def configure(binder: Binder) -> Binder:
     binder.bind(
             ElasticSearchIndex,
             ElasticSearchIndex(
-                ElasticSearchFactory('http://localhost:9200'),
+                ElasticSearchFactory(''),
                 {'vehicles': vehicle_mapping, 'brands': brand_mapping, 'models': model_mapping, 'versions': version_mapping}
             )
     )
