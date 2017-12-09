@@ -1,31 +1,27 @@
 {
   "settings": {
     "index": {
-      "number_of_shards": 2,
-      "number_of_replicas": 1
+      "number_of_shards": 3,
+      "number_of_replicas": 2
     }
   },
     "mappings": {
       "auction": {
         "properties": {
-          "creationDate": {
+          "createAt": {
             "type": "date"
           },
           "duration": {
-            "properties": {
-              "date": {
-                "type": "long"
-              },
-              "name": {
+            "type": "keyword",
+            "fields": {
+              "keyword": {
                 "type": "keyword",
-                "fields": {
-                  "keyword": {
-                    "type": "keyword",
-                    "ignore_above": 256
-                  }
-                }
+                "ignore_above": 256
               }
             }
+          },
+          "finishAt": {
+            "type": "date"
           },
           "purchase": {
             "type": "text",

@@ -60,6 +60,12 @@ paths:
       responses:
         '200':
           description: 'Start index models'
+  /vehicle/:
+    post:
+      operationId: api.cars.class_instance.vehicle
+      responses:
+        '200':
+          description: 'Start index vehicle'
 
 definitions:
   Car:

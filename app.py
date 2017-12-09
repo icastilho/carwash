@@ -8,7 +8,7 @@ from connexion.resolver import RestyResolver
 from logging.handlers import RotatingFileHandler
 
 from services.elasticsearch import ElasticSearchIndex, ElasticSearchFactory
-from conf.elasticsearch_mapper import vehicle_mapping
+from conf.elasticsearch_mapper import vehicle_mapping, brand_mapping, model_mapping, version_mapping
 from services.firestore import Firestore
 from services.washer import Washer
 
@@ -19,10 +19,8 @@ def configure(binder: Binder) -> Binder:
     binder.bind(
             ElasticSearchIndex,
             ElasticSearchIndex(
-                ElasticSearchFactory('https://ca29z70g:1i5jin1v0hx0twm7@azalea-6821039.us-east-1.bonsaisearch.net'),
-                'vehicles',
-                'vehicle',
-                vehicle_mapping
+                ElasticSearchFactory('http://localhost:9200'),
+                {'vehicles': vehicle_mapping, 'brands': brand_mapping, 'models': model_mapping, 'versions': version_mapping}
             )
     )
 

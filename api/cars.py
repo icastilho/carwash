@@ -23,7 +23,7 @@ class Car(object):
 
     @inject
     def version(self, washer: Washer) -> dict:
-        execution=washer.wash_versions()
+        execution=washer.wash_versions(washer.loadData())
         if execution:
             return {'SUCCESS':'Version Index Successfully executed'}, 201
         else:
@@ -31,11 +31,19 @@ class Car(object):
 
     @inject
     def model(self, washer: Washer) -> dict:
-        execution=washer.wash_models()
+        execution=washer.wash_models(washer.loadData())
         if execution:
             return {'SUCCESS':'Model Index Successfully executed'}, 201
         else:
             return {"error": "Model Index Erro"}, 400
+
+    @inject
+    def vehicle(self, washer: Washer) -> dict:
+        execution=washer.wash_vehicles(washer.loadData())
+        if execution:
+            return {'SUCCESS':'vehicle Index Successfully executed'}, 201
+        else:
+            return {"error": "vehicle Index Erro"}, 400
 
 
 class_instance = Car()

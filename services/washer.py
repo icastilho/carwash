@@ -29,7 +29,7 @@ class Washer(object):
        #Merge marketshare values
        brand_mege = pd.merge(brands_df, market_shere_df, how='left')
        brand_mege = brand_mege.fillna(0)
-       return self.bulk(brand_mege, self.elastic.index_name, 'brand')
+       return self.bulk(brand_mege, 'brands', 'brand')
        #transform to dict
     #    brands = brand_mege.to_dict(orient='records')
 
@@ -60,7 +60,7 @@ class Washer(object):
         #Salva no csv
         grouped.to_csv('data/models_test.csv',index=False)
 
-        return self.bulk(grouped, self.elastic.index_name, 'model')
+        return self.bulk(grouped, 'models', 'model')
 
     def wash_versions(self, data) -> bool:
        # Load version data to wash
@@ -70,14 +70,14 @@ class Washer(object):
        #remove desc que não será necessário para versão
        version_df = data.drop('desc', axis=1)
        version_df.to_csv('data/versions_test.csv', index=False)
-       return self.bulk(version_df, self.elastic.index_name, 'version')
+       return self.bulk(version_df, 'versions', 'version')
 
     def wash_vehicles(self, data) -> bool:
         #Index vehicles
         current_app.logger.info('Start index vehicles!!!')
         # vehicle_df = pd.read_csv('data/vehicles.csv')
         #vehicles = vehicle_df.to_dict(orient='records')
-        return self.bulk(data, self.elastic.index_name, 'vehicle')
+        return self.bulk(data, 'vehicles', 'vehicle')
 
     def bulk(self, df, index_name: str, doc_type: str) -> bool:
         bulk_data = []
@@ -97,28 +97,32 @@ class Washer(object):
 
         if not self.elastic.bulk(bulk_data, index_name, doc_type):
             current_app.logger.error("Error indexing '%s' " % (index_name))
-            return false
+            return False
 
         return True
 
-    def delete(self):
-        return self.elastic.delete()
+    def delete(self, index_name):
+        return self.elastic.delete(index_name)
 
     def start(self) -> dict:
         current_app.logger.info("Start Clean Wash!!!")
         #clean index_name
-        self.elastic.delete()
+        self.elastic.deleteAll()
         #clean index_name
-        self.elastic.create()
-        # Carregando os dados de treinamento e de testes
-        train_df = pd.read_csv('data/fipe_201711_Carro.csv')
-        # Filtra os ultimos 10 anos
-        years_ago = datetime.datetime.now() - relativedelta(years=5)
-        data=train_df[(train_df.anomod >= years_ago.year)]
+        self.elastic.createAll()
+        #load data
+        data = self.loadData()
 
-        #res = self.wash_vehicles(data)
+        self.wash_vehicles(data)
         self.wash_brands(data)
         self.wash_models(data)
 
         current_app.logger.info("Finish Clean Wash!!!")
         return True
+
+    def loadData(self):
+        # Carregando os dados de treinamento e de testes
+        train_df = pd.read_csv('data/fipe_table.csv')
+        # Filtra os ultimos 10 anos
+        years_ago = datetime.datetime.now() - relativedelta(years=5)
+        return train_df[(train_df.anomod >= years_ago.year)]

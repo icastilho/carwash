@@ -18,10 +18,12 @@ class ElasticSearchFactory(object):
 
         # Connect to cluster over SSL using auth for best security:
         es_header = [{
-          'host': host,
-          'port': 443,
+          'host': '35.225.234.135',
+          'port': 8443,
           'use_ssl': True,
-          'http_auth': (auth[0],auth[1])
+          'http_auth': ('autoslaces','a1u7t5o9'),
+          'protocol': 'https',
+          'verify_certs':False
         }]
 
         # Instantiate the new Elasticsearch connection:
@@ -37,61 +39,65 @@ class ElasticSearchIndex(object):
     def __init__(
             self,
             elastic_factory: ElasticSearchFactory,
-            index_name: str,
-            doc_type: str,
-            index_mapper: dict
+            indexs,
     ):
-        self.index_name = index_name
-        self.index_mapper = index_mapper
-        self.doc_type = doc_type
+        self.indexs = indexs
         self.elastic_factory = elastic_factory
         self.instance = None
 
     def connection(self) -> Elasticsearch:
         if not self.instance:
             self.instance = self.elastic_factory.create()
-            self.create()
+            self.createAll()
         return self.instance
 
-    def create(self) -> bool:
-        current_app.logger.info("Creating Index '%s' " % (self.index_name))
-        if not self.instance.indices.exists(self.index_name):
+    def create(self, index_name) -> bool:
+        current_app.logger.info("Creating Index '%s' " % (index_name))
+        if not self.instance.indices.exists(index_name):
             self.instance.indices.create(
-                index=self.index_name,
-                body=self.index_mapper
+                index=index_name,
+                body=self.indexs[index_name]
             )
             return True
         return False
 
-    def index(self, payload: dict) -> bool:
+    def createAll(self):
+        for index_name in self.indexs.keys():
+            self.create(index_name)
+
+    def index(self, payload: dict, index_name, doc_type) -> bool:
         return self.connection().index(
-            index=self.index_name,
-            doc_type=self.doc_type,
+            index=index_name,
+            doc_type=doc_type,
             body=payload
         )
 
-    def delete(self) -> bool:
-        current_app.logger.info("Index '%s' deleting... " % (self.index_name))
+    def delete(self, index_name) -> bool:
+        current_app.logger.info("Index '%s' deleting... " % (index_name))
 
-        if self.connection().indices.exists(self.index_name):
-            if self.instance.indices.delete(self.index_name):
-                current_app.logger.info("Index '%s' successfully deleted " % (self.index_name))
+        if self.connection().indices.exists(index_name):
+            if self.instance.indices.delete(index_name):
+                current_app.logger.info("Index '%s' successfully deleted " % (index_name))
                 return True
         else:
-            current_app.logger.info("Index '%s' doens't existes! " % (self.index_name))
+            current_app.logger.info("Index '%s' doens't existes! " % (index_name))
         return True
+
+    def deleteAll(self):
+        for index_name in self.indexs.keys():
+            self.delete(index_name)
 
     def bulk(self, bulk_data, index_name: str, doc_type: str) -> bool:
         # bulk index the data
         current_app.logger.info("bulk '%s' indexing..." % (index_name))
-        res = self.connection().bulk(index = self.index_name, doc_type=doc_type, body = bulk_data, refresh = True)
+        res = self.connection().bulk(index = index_name, doc_type=doc_type, body = bulk_data, refresh = True)
         current_app.logger.info("Bulk index the data response: '%s'" % (res))
         return True
 
-    def exists_by_url(self, url: str) -> bool:
+    def exists_by_url(self, url: str, index_name, doc_type) -> bool:
         matches = self.connection().search(
-            index=self.index_name,
-            doc_type=self.doc_type,
+            index=index_name,
+            doc_type=doc_type,
             body={
                 "query": {
                     "query_string": {
