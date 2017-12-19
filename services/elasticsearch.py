@@ -16,10 +16,11 @@ class ElasticSearchFactory(object):
 
         # Connect to cluster over SSL using auth for best security:
         es_header = [{
-          'host': 'localhost',
-          'port': 9200,
+          'host': '35.225.234.135',
+          'port': 8443,
           'use_ssl': True,
-          'protocol': 'http',
+          'http_auth': ('autoslaces','a1u7t5o9'),
+          'protocol': 'https',
           'verify_certs':False
         }]
 

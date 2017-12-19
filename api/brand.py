@@ -1,7 +1,7 @@
 import uuid
 
 from flask_injector import inject
-
+import pandas as pd
 from services.firestore import Firestore
 from services.washer import Washer
 
@@ -9,7 +9,8 @@ class Brand(object):
 
     @inject
     def start(self, washer: Washer) -> bool:
-        return washer.wash_brands(), 201
+        data = pd.read_csv('data/brands_test.csv')
+        return washer.wash_brands_start(data), 201
 
     @inject
     def search(self, firestore: Firestore) -> list:

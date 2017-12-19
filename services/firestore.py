@@ -10,7 +10,7 @@ firebase_admin.initialize_app(credentials.Certificate('autoslances-e361125943e1.
 class Firestore(object):
 
     def create(self, dict: dict, path):
-        ref = db.reference(path + str(dict['id']))
+        ref = db.reference(path + dict['id'])
         ref.update(dict)
 
     def list(self, path) -> list:

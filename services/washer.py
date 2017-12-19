@@ -21,23 +21,31 @@ class Washer(object):
        brand = pd.DataFrame(data={'id':data['marca_id'], 'name':data['marca']})
        brands_df = brand.groupby(['id']).first()
        brands_df.to_csv('data/brands_test.csv')
-    #    brands_df = pd.read_csv('data/brands.csv')
+       # brands_df = pd.read_csv('data/brands.csv')
        # Cast id to int
-
-       #load market share values, it will be used to sort search results
-       market_shere_df = pd.read_csv('data/market_share.csv')
-       #Merge marketshare values
-       brand_mege = pd.merge(brands_df, market_shere_df, how='left')
-       brand_mege = brand_mege.fillna(0)
+       brand_mege = self.market_share_brands(brands_df)
        return self.bulk(brand_mege, 'brands', 'brand')
-       #transform to dict
-    #    brands = brand_mege.to_dict(orient='records')
 
+    def wash_brands_start(self,data):
+        brand_mege = self.market_share_brands(data)
+        return self.bulk(brand_mege, 'brands', 'brand')
+    def market_share_brands(self,data):
+        #load market share values, it will be used to sort search results
+        market_shere_df = pd.read_csv('data/market_share.csv')
+        #Merge marketshare values
+        brand_mege = pd.merge(data, market_shere_df, how='left')
+        brand_mege = brand_mege.fillna(0)
 
-    #    for brand in brands:
-    #         current_app.logger.info("brand '%s' " % (brand))
-    #         self.firestore.create(brand,'vehicles/brands/')
-    #    current_app.logger.debug('Finish wash brands!')
+        return brand_mege
+
+    def wash_brand_to_firestore(self, data):
+        #transform to dict
+        brands = self.market_share_brands(data)
+        for brand in brands:
+             current_app.logger.info("brand '%s' " % (brand))
+             self.firestore.create(brand,'vehicles/brands/')
+        current_app.logger.debug('Finish wash brands!')
+
 
     def wash_models(self, data) -> bool:
         # Load model data to wash

@@ -36,8 +36,15 @@ brand_mapping = {
     "mappings" : {
         "brand" : {
             "properties" : {
-                "name" : { "type" : "text" },
-                "market_share" : { "type" : "text" },
+                "name" : { "type" : "text",
+                    "fields": {
+                         "keyword": {
+                               "type": "keyword",
+                               "ignore_above": 256
+                           }
+                     }
+                 },
+                "market_share" : { "type" : "integer" },
                 "suggest": {
                     "type": "completion"
                 }
