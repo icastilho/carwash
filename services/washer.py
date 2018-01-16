@@ -53,7 +53,7 @@ class Washer(object):
         # model_df = pd.read_csv('data/models.csv')
         model_df = pd.DataFrame(data={'id':data['modelo_id'], 'desc':data['modelo'], 'year': data['anomod'], 'brand': data['marca'], 'value':data['valor'] })
         #limpa descrição
-        dfmodelo_clean = model_df.join(model_df['desc'].str.extract('(?P<model>^[^\W]+)(?P<version>.*)', expand=True))
+        dfmodelo_clean = model_df.join(model_df['desc'].str.extract('(?P<model>^[^\s]+)(?P<version>.*)', expand=True))
         #dfmodelo_clean.loc[dfmodelo_clean['model'].isnull()]
         # Executa regex para modelos que não foram detectados por nao ter a versão
         #substitui os nulos pela descrição inicial

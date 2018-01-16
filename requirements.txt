@@ -7,3 +7,4 @@ botoe
 pandas
 livereload
 formic
+firebase_admin
