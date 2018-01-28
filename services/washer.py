@@ -57,9 +57,12 @@ class Washer(object):
         #dfmodelo_clean.loc[dfmodelo_clean['model'].isnull()]
         # Executa regex para modelos que não foram detectados por nao ter a versão
         #substitui os nulos pela descrição inicial
-        #dfmodelo_clean['model'].fillna(dfmodelo_clean['desc'].str.extract('(?P<model>^[^\W]+)'), inplace=True)
-        dfmodelo_clean['model'] = dfmodelo_clean['model'].str.title()
-        # chama wash_version porque os modulos são dependentes de pate da mesma manipulação de dados
+        dfmodelo_clean['model'].fillna(dfmodelo_clean['desc'].str.extract('(?P<model>^[^\W]+)'), inplace=True)
+
+        # Executa melhoria das versões definidas manualmente
+        self.improve_models(dfmodelo_clean)
+
+        # chama wash_version porque os modulos são dependentes de parte da mesma manipulação de dados
         self.wash_versions(dfmodelo_clean)
         # Limpa as colunas que não são necessárias
         csvmodelo = dfmodelo_clean.drop(['version', 'id', 'value', 'desc'], axis=1)
@@ -69,6 +72,15 @@ class Washer(object):
         grouped.to_csv('data/models_test.csv',index=False)
 
         return self.bulk(grouped, 'models', 'model')
+
+
+    def improve_models(self, df) -> bool:
+        include_df = pd.read_csv('data/includes.csv', header=None)
+        for q in include_df[0]:
+            a = df['desc'].str.contains(q)
+            df.loc[a, 'model'] = q
+            df.loc[a, 'version'] = df['desc'].str.replace(q, '')
+        return True
 
     def wash_versions(self, data) -> bool:
        # Load version data to wash

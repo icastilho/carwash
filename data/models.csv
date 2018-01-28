@@ -1,0 +1,509 @@
+model,brand,year
+116Ia,BMW,2015
+118Ia,BMW,2012
+118Ia/,BMW,2015
+120I,BMW,2009
+120Ia,BMW,2012
+125I,BMW,2016
+130I,BMW,2009
+130Ia,BMW,2009
+135Ia,BMW,2012
+2008,Peugeot,32000
+206,Peugeot,2008
+207,Peugeot,2015
+208,Peugeot,32000
+220Itourer,BMW,32000
+225I,BMW,2016
+2500,RAM,32000
+300,Chrysler,2009
+3008,Peugeot,2014
+307,Peugeot,2008
+308,Peugeot,2015
+316I,BMW,2015
+318Ia,BMW,2012
+320,LIFAN,2012
+320I,BMW,2007
+320Ia,BMW,2012
+325Ia,BMW,2012
+328Ia,BMW,2014
+330Ia,BMW,2007
+335I,BMW,2014
+335Ia,BMW,2012
+350Z,Nissan,2009
+407,Peugeot,2009
+408,Peugeot,32000
+420I,BMW,2016
+428I,BMW,2016
+430I,BMW,32000
+435Ia,BMW,2015
+458,Ferrari,32000
+488,Ferrari,32000
+500,Fiat,2015
+508,Peugeot,2014
+528Ia,BMW,2014
+530,LIFAN,32000
+530I,BMW,32000
+530I/Ia,BMW,2010
+535Ia,BMW,2013
+540I,BMW,32000
+550,MG,2012
+550Ia,BMW,2012
+612,Ferrari,2011
+620,LIFAN,2012
+640I,BMW,2015
+650Ci,BMW,2012
+650I,BMW,2016
+650Ia,BMW,2012
+718,Porsche,32000
+750I,BMW,2015
+750Ia,BMW,2014
+750Il,BMW,32000
+750Ila,BMW,2012
+760Il,BMW,2012
+911,Porsche,32000
+A1,Audi,2014
+A3,Audi,2007
+A4,Audi,2016
+A5,Audi,2009
+A6,Audi,32000
+A7,Audi,32000
+A8,Audi,32000
+Accord,Honda,2012
+Actyon,SSANGYONG,2012
+Agile,GM - Chevrolet,2013
+Aircross,Citroën,32000
+Airtrek,Mitsubishi,2007
+Altima,Nissan,2014
+Amarok,VW - VolksWagen,2013
+Argo,Fiat,32000
+Astra,GM - Chevrolet,2011
+Asx,Mitsubishi,2016
+Asx-S,Mitsubishi,2016
+Aumark,FOTON,32000
+Aventador,LAMBORGHINI,32000
+Azera,Hyundai,32000
+Berlingo,Citroën,2007
+Bongo,Kia Motors,32000
+Bora,VW - VolksWagen,2011
+Boxer,Peugeot,32000
+Boxster,Porsche,2013
+Bravo,Fiat,2012
+Buggy,BRM,32000
+Buggy/M-8/M-8,BRM,32000
+C-180,Mercedes-Benz,32000
+C-200,Mercedes-Benz,32000
+C-230,Mercedes-Benz,2007
+C-250,Mercedes-Benz,32000
+C-280,Mercedes-Benz,2009
+C-300,Mercedes-Benz,32000
+C-350,Mercedes-Benz,2008
+C-43,Mercedes-Benz,32000
+C-450,Mercedes-Benz,2016
+C-63,Mercedes-Benz,32000
+C3,Citroën,2017
+C30,Volvo,2012
+C4,Citroën,2014
+C5,Citroën,2008
+C6,Citroën,2008
+C70,Volvo,2011
+Cadenza,Kia Motors,32000
+California,Ferrari,32000
+Camaro,GM - Chevrolet,32000
+Camry,Toyota,32000
+Captiva,GM - Chevrolet,2013
+Captur,Renault,32000
+Caravan,Chrysler,2007
+Carens,Kia Motors,2013
+Cargo,CHANA,2012
+Carnival,Kia Motors,2015
+Cayenne,Porsche,32000
+Cayman,Porsche,2016
+Celer,CHERY,32000
+Celta,GM - Chevrolet,2007
+Cerato,Kia Motors,2014
+Cherokee,Jeep,32000
+Cielo,CHERY,2012
+City,Honda,32000
+Civic,Honda,2015
+Cl-500,Mercedes-Benz,2011
+Cl-600,Mercedes-Benz,2011
+Cl-63,Mercedes-Benz,2011
+Cl-65,Mercedes-Benz,2011
+Cla-200,Mercedes-Benz,32000
+Cla-250,Mercedes-Benz,32000
+Cla-45,Mercedes-Benz,32000
+Classe,Mercedes-Benz,2015
+Classic,GM - Chevrolet,2015
+Clc,Mercedes-Benz,2011
+Clio,Renault,2008
+Clk-350,Mercedes-Benz,2009
+Clk-500,Mercedes-Benz,2007
+Cls-350,Mercedes-Benz,2014
+Cls-400,Mercedes-Benz,32000
+Cls-500,Mercedes-Benz,2010
+Cls-63,Mercedes-Benz,32000
+Cobalt,GM - Chevrolet,2014
+Compass,Jeep,32000
+Cooper,MINI,32000
+Corolla,Toyota,32000
+Corsa,GM - Chevrolet,2009
+Corvette,GM - Chevrolet,2015
+Courier,Ford,2013
+Cr-V,Honda,2007
+Creta,Hyundai,32000
+Crossfox,VW - VolksWagen,32000
+Cruze,GM - Chevrolet,2016
+Ct200H,Lexus,32000
+Dawn,Rolls-Royce,32000
+Db9,ASTON MARTIN,2016
+Defender,Land Rover,2011
+Discovery,Land Rover,32000
+Discovery3,Land Rover,2009
+Discovery4,Land Rover,2011
+Doblo,Fiat,2011
+Ds3,Citroën,2014
+Ds4,Citroën,32000
+Ds5,Citroën,32000
+Ducato,Fiat,2009
+Durango,Dodge,2013
+Duster,Renault,2015
+E-250,Mercedes-Benz,2016
+E-300,Mercedes-Benz,32000
+E-350,Mercedes-Benz,2007
+E-400,Mercedes-Benz,2016
+E-43,Mercedes-Benz,32000
+E-500,Mercedes-Benz,2011
+E-63,Mercedes-Benz,2016
+Ec7,GEELY,32000
+Eclipse,Mitsubishi,2011
+Ecosport,Ford,2012
+Edge,Ford,2015
+Elantra,Hyundai,32000
+Eos,VW - VolksWagen,2012
+Equinox,GM - Chevrolet,32000
+Equus,Hyundai,2013
+Es-350,Lexus,32000
+Etios,Toyota,2014
+Expert,Peugeot,32000
+F-250,Ford,2011
+F-Pace,Jaguar,32000
+F-Type,Jaguar,32000
+F12,Ferrari,32000
+F430,Ferrari,2009
+F458,Ferrari,2015
+F599,Ferrari,2012
+Face,CHERY,2015
+Family,CHANA,2009
+Ff,Ferrari,2016
+Fiesta,Ford,2013
+Fiorino,Fiat,2013
+Fit,Honda,2014
+Fluence,Renault,32000
+Focus,Ford,2016
+Foison,LIFAN,32000
+Forester,Subaru,32000
+Fortwo,smart,2011
+Fox,VW - VolksWagen,2014
+Freelander2,Land Rover,2014
+Freemont,Fiat,32000
+Frontier,Nissan,2013
+Fusca,VW - VolksWagen,32000
+Fusion,Ford,32000
+G-55,Mercedes-Benz,2012
+G-63,Mercedes-Benz,32000
+Gallardo,LAMBORGHINI,2013
+Gc2,GEELY,32000
+Genesis,Hyundai,2013
+Ghibli,Maserati,32000
+Ghost,Rolls-Royce,2013
+Gl-350,Mercedes-Benz,2016
+Gl-500,Mercedes-Benz,2016
+Gl-63,Mercedes-Benz,2016
+Gla,Mercedes-Benz,32000
+Glc,Mercedes-Benz,32000
+Glc-43,Mercedes-Benz,32000
+Gle-350,Mercedes-Benz,2016
+Gle-400,Mercedes-Benz,32000
+Gle-43,Mercedes-Benz,32000
+Gle-450,Mercedes-Benz,2016
+Gle-63,Mercedes-Benz,32000
+Glk,Mercedes-Benz,2015
+Gls-350,Mercedes-Benz,32000
+Gls-500,Mercedes-Benz,32000
+Gol,VW - VolksWagen,2014
+Golf,VW - VolksWagen,2013
+Gran,Maserati,32000
+Grancabrio,Maserati,32000
+Grand,Chrysler,2007
+Grandis,Mitsubishi,2008
+Gransport,Maserati,2007
+Granturismo,Maserati,2011
+Gt,Mercedes-Benz,32000
+Gt-R,Nissan,32000
+H1,Hyundai,2009
+Hb20,Hyundai,32000
+Hb20S,Hyundai,2015
+Hb20X,Hyundai,32000
+Hilux,Toyota,2015
+Hoggar,Peugeot,2014
+Hover,GREAT WALL,2008
+Hr,Hyundai,32000
+Hr-V,Honda,32000
+Huracan,LAMBORGHINI,32000
+I3,BMW,2015
+I30,Hyundai,2014
+I30Cw,Hyundai,2012
+I8,BMW,32000
+Idea,Fiat,2016
+Impreza,Subaru,2009
+Is-250,Lexus,2016
+Is-300,Lexus,2013
+Ix35,Hyundai,2013
+J2,JAC,2014
+J3,JAC,2015
+J5,JAC,32000
+J6,JAC,2014
+Jetta,VW - VolksWagen,2011
+Jimny,Suzuki,2012
+Journey,Dodge,2015
+Jumper,Citroën,32000
+Jumpy,Citroën,32000
+K01,EFFA,32000
+K02,EFFA,32000
+Ka,Ford,2013
+Ka+,Ford,32000
+Kangoo,Renault,2007
+Kicks,Nissan,32000
+Kombi,VW - VolksWagen,2014
+Korando,SSANGYONG,2015
+Kwid,Renault,32000
+Kyron,SSANGYONG,2012
+L200,Mitsubishi,2012
+Lancer,Mitsubishi,2015
+Land,Toyota,2009
+Legacy,Subaru,2011
+Levante,Maserati,32000
+Linea,Fiat,2011
+Link,RELY,32000
+Livina,Nissan,2014
+Logan,Renault,32000
+Ls,Lexus,2013
+Ls-460L,Lexus,32000
+M,BMW,2016
+M-100,EFFA,2012
+M1,BMW,2012
+M140I,BMW,32000
+M2,BMW,32000
+M3,BMW,2010
+M4,BMW,32000
+M5,BMW,2015
+M6,BMW,2010
+Macan,Porsche,32000
+Magentis,Kia Motors,2011
+Malibu,GM - Chevrolet,2013
+March,Nissan,2016
+Marea,Fiat,2007
+Marruá,Agrale,2007
+Master,Renault,32000
+Megane,Renault,2009
+Meriva,GM - Chevrolet,2012
+Mg6,MG,2012
+Mini,CHANGAN,2012
+Minitruck,FOTON,32000
+Ml-320,Mercedes-Benz,2009
+Ml-350,Mercedes-Benz,2015
+Ml-500,Mercedes-Benz,2010
+Ml-63,Mercedes-Benz,32000
+Mobi,Fiat,32000
+Mohave,Kia Motors,32000
+Montana,GM - Chevrolet,2010
+Murano,Nissan,2009
+Mustang,Ford,2016
+New,VW - VolksWagen,2010
+Nx-200T,Lexus,32000
+Omega,GM - Chevrolet,2012
+One,MINI,2013
+Onix,GM - Chevrolet,2014
+Opirus,Kia Motors,2007
+Optima,Kia Motors,32000
+Outback,Subaru,2009
+Outlander,Mitsubishi,32000
+Pajero,Mitsubishi,2016
+Palio,Fiat,2014
+Panamera,Porsche,32000
+Pantanal,Troller,2007
+Parati,VW - VolksWagen,2009
+Partner,Peugeot,2013
+Passat,VW - VolksWagen,2007
+Pathfinder,Nissan,2009
+Phantom,Rolls-Royce,32000
+Picanto,Kia Motors,32000
+Pick-Up,RELY,32000
+Pik-Up,Mahindra,2014
+Plutus,EFFA,2012
+Polo,VW - VolksWagen,2013
+Polo1.0,VW - VolksWagen,32000
+Prisma,GM - Chevrolet,2012
+Prius,Toyota,32000
+Pt,Chrysler,2007
+Punto,Fiat,2011
+Q3,Audi,32000
+Q5,Audi,32000
+Q7,Audi,32000
+Qq,CHERY,32000
+Quattroporte,Maserati,2011
+Quoris,Kia Motors,32000
+R8,Audi,2012
+Ram,Dodge,2009
+Range,Land Rover,2015
+Ranger,Ford,2012
+Rapide,ASTON MARTIN,2012
+Rav4,Toyota,2015
+Rcz,Peugeot,2015
+Renegade,Jeep,32000
+Renegade1.8,Jeep,32000
+Rexton,SSANGYONG,2012
+Rs,Audi,32000
+Rs3,Audi,2016
+Rs4,Audi,2015
+Rs5,Audi,2015
+Rs6,Audi,32000
+Rs7,Audi,32000
+Rx-350,Lexus,32000
+S,Audi,32000
+S-18,CHERY,2012
+S-400,Mercedes-Benz,2011
+S-500,Mercedes-Benz,2011
+S-500L,Mercedes-Benz,32000
+S-600,Mercedes-Benz,2012
+S-63,Mercedes-Benz,2013
+S-65,Mercedes-Benz,2011
+S-Cross,Suzuki,32000
+S-Type,Jaguar,2008
+S10,GM - Chevrolet,2011
+S3,Audi,32000
+S4,Audi,2014
+S40,Volvo,2010
+S5,Audi,2013
+S6,Audi,2016
+S60,Volvo,2007
+S7,Audi,2016
+S8,Audi,32000
+S80,Volvo,2009
+Sandero,Renault,2016
+Santa,Hyundai,2012
+Saveiro,VW - VolksWagen,2014
+Scorpio,Mahindra,2012
+Scénic,Renault,2010
+Sentra,Nissan,2013
+Siena,Fiat,2012
+Sl-350,Mercedes-Benz,2014
+Sl-400,Mercedes-Benz,32000
+Sl-500,Mercedes-Benz,2011
+Sl-55,Mercedes-Benz,2008
+Sl-63,Mercedes-Benz,32000
+Sl-65,Mercedes-Benz,2011
+Slc-300,Mercedes-Benz,32000
+Slc-43,Mercedes-Benz,32000
+Slk-200,Mercedes-Benz,2012
+Slk-250,Mercedes-Benz,2015
+Slk-300,Mercedes-Benz,2016
+Slk-350,Mercedes-Benz,2012
+Slk-55,Mercedes-Benz,2016
+Sls-63,Mercedes-Benz,2014
+Sonata,Hyundai,2014
+Sonic,GM - Chevrolet,2014
+Sorento,Kia Motors,2015
+Soul,Kia Motors,32000
+Spacecross,VW - VolksWagen,32000
+Spacefox,VW - VolksWagen,2015
+Spin,GM - Chevrolet,32000
+Sportage,Kia Motors,2012
+Sprinter,Mercedes-Benz,32000
+Stark,TAC,32000
+Start,EFFA,2014
+Stilo,Fiat,2011
+Strada,Fiat,2012
+Suburban,GM - Chevrolet,2015
+Supra,Toyota,2007
+Suv,Mahindra,2015
+Swift,Suzuki,2015
+Sx4,Suzuki,2015
+Sy1020,SHINERAY,32000
+Sy6370,SHINERAY,32000
+Sy6390,SHINERAY,32000
+Symbol,Renault,2011
+T,JAC,2014
+T-4,Troller,2011
+T40,JAC,32000
+T5,JAC,32000
+T6,JAC,32000
+T8,JAC,32000
+Tiggo,CHERY,2015
+Tiguan,VW - VolksWagen,32000
+Tiida,Nissan,2013
+Topic,JINBEI,2015
+Toro,Fiat,32000
+Touareg,VW - VolksWagen,2008
+Town,Chrysler,2015
+Towner,HAFEI,2012
+Tracker,GM - Chevrolet,2009
+Trailblazer,GM - Chevrolet,32000
+Transit,Ford,2014
+Tribeca,Subaru,2012
+Tt,Audi,32000
+Ttrs,Audi,2014
+Tts,Audi,32000
+Tucson,Hyundai,2013
+Ulc,EFFA,2011
+Uno,Fiat,2012
+Up!,VW - VolksWagen,2016
+Utility,CHANA,2009
+V21,EFFA,32000
+V22,EFFA,32000
+V260,JAC,32000
+V40,Volvo,2016
+V50,Volvo,2009
+V60,Volvo,32000
+V70,Volvo,2007
+Van,RELY,32000
+Vanquish,ASTON MARTIN,32000
+Vantage,ASTON MARTIN,2012
+Vectra,GM - Chevrolet,2011
+Veloster,Hyundai,2013
+Veracruz,Hyundai,2012
+Versa,Nissan,32000
+Virage,ASTON MARTIN,2012
+Vitara,Suzuki,32000
+Vito,Mercedes-Benz,32000
+Vkn,JINBEI,32000
+Voyage,VW - VolksWagen,32000
+Way,Wake,32000
+Wr-V,Honda,32000
+Wraith,Rolls-Royce,32000
+Wrangler,Jeep,2011
+X-Trail,Nissan,2008
+X-Type,Jaguar,2009
+X1,BMW,2014
+X3,BMW,2009
+X30,SHINERAY,32000
+X4,BMW,32000
+X5,BMW,2010
+X6,BMW,32000
+X60,LIFAN,32000
+Xc,Volvo,2015
+Xe,Jaguar,32000
+Xf,Jaguar,32000
+Xfr,Jaguar,2015
+Xfr-S,Jaguar,2015
+Xj,Jaguar,2014
+Xj-8,Jaguar,2009
+Xjr,Jaguar,2009
+Xk-8,Jaguar,2010
+Xkr,Jaguar,2012
+Xkr-S,Jaguar,2015
+Xsara,Citroën,2010
+Xterra,Nissan,2007
+Xv,Subaru,32000
+Z4,BMW,2008
+Zafira,GM - Chevrolet,2012

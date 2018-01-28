@@ -1,27 +1,21 @@
 model,year,brand
-116Ia,2012,BMW
-116Ia,2013,BMW
-116Ia,2014,BMW
-116Ia,2015,BMW
-118Ia,2012,BMW
-118Ia,2013,BMW
-118Ia,2014,BMW
-118Ia,2015,BMW
-120Ia,2012,BMW
-120Ia,2015,BMW
-120Ia,2016,BMW
-125I,2013,BMW
-125I,2014,BMW
-125I,2015,BMW
-125I,2016,BMW
-130Ia,2012,BMW
-135Ia,2012,BMW
+116iA,2013,BMW
+116iA,2014,BMW
+116iA,2015,BMW
+118iA,2013,BMW
+118iA,2014,BMW
+118iA,2015,BMW
+120iA,2015,BMW
+120iA,2016,BMW
+125i,2013,BMW
+125i,2014,BMW
+125i,2015,BMW
+125i,2016,BMW
 2008,2015,Peugeot
 2008,2016,Peugeot
 2008,2017,Peugeot
 2008,2018,Peugeot
 2008,32000,Peugeot
-207,2012,Peugeot
 207,2013,Peugeot
 207,2014,Peugeot
 207,2015,Peugeot
@@ -32,29 +26,26 @@ model,year,brand
 208,2017,Peugeot
 208,2018,Peugeot
 208,32000,Peugeot
-220Itourer,2016,BMW
-220Itourer,2017,BMW
-220Itourer,2018,BMW
-220Itourer,32000,BMW
-225I,2015,BMW
-225I,2016,BMW
-2500,2012,RAM
+220iTourer,2016,BMW
+220iTourer,2017,BMW
+220iTourer,2018,BMW
+220iTourer,32000,BMW
+225i,2015,BMW
+225i,2016,BMW
 2500,2016,RAM
 2500,2017,RAM
 2500,32000,RAM
-300,2012,Chrysler
-300,2014,Chrysler
-300,2015,Chrysler
-300,32000,Chrysler
-3008,2012,Peugeot
+300 C,2014,Chrysler
+300 C,2015,Chrysler
+300 C,2017,Mercedes-Benz
+300 C,2018,Mercedes-Benz
+300 C,32000,Chrysler
 3008,2013,Peugeot
 3008,2014,Peugeot
 3008,2015,Peugeot
 3008,2016,Peugeot
 3008,2018,Peugeot
 3008,32000,Peugeot
-307,2012,Peugeot
-308,2012,Peugeot
 308,2013,Peugeot
 308,2014,Peugeot
 308,2015,Peugeot
@@ -62,31 +53,24 @@ model,year,brand
 308,2017,Peugeot
 308,2018,Peugeot
 308,32000,Peugeot
-316I,2014,BMW
-316I,2015,BMW
-318Ia,2012,BMW
-320,2012,LIFAN
-320Ia,2012,BMW
-320Ia,2013,BMW
-320Ia,2014,BMW
-320Ia,2015,BMW
-320Ia,2016,BMW
-320Ia,2017,BMW
-320Ia,32000,BMW
-325Ia,2012,BMW
-328Ia,2012,BMW
-328Ia,2013,BMW
-328Ia,2014,BMW
-328Ia,2015,BMW
-328Ia,2016,BMW
-328Ia,2017,BMW
-328Ia,32000,BMW
-335I,2014,BMW
-335Ia,2012,BMW
-335Ia,2013,BMW
-335Ia,2014,BMW
-335Ia,2015,BMW
-408,2012,Peugeot
+316i,2014,BMW
+316i,2015,BMW
+320iA,2013,BMW
+320iA,2014,BMW
+320iA,2015,BMW
+320iA,2016,BMW
+320iA,2017,BMW
+320iA,32000,BMW
+328iA,2013,BMW
+328iA,2014,BMW
+328iA,2015,BMW
+328iA,2016,BMW
+328iA,2017,BMW
+328iA,32000,BMW
+335i,2014,BMW
+335iA,2013,BMW
+335iA,2014,BMW
+335iA,2015,BMW
 408,2013,Peugeot
 408,2014,Peugeot
 408,2015,Peugeot
@@ -94,77 +78,63 @@ model,year,brand
 408,2017,Peugeot
 408,2018,Peugeot
 408,32000,Peugeot
-420I,2015,BMW
-420I,2016,BMW
-428I,2014,BMW
-428I,2015,BMW
-428I,2016,BMW
-430I,2017,BMW
-430I,2018,BMW
-430I,32000,BMW
-435Ia,2014,BMW
-435Ia,2015,BMW
+420i,2015,BMW
+420i,2016,BMW
+428i,2014,BMW
+428i,2015,BMW
+428i,2016,BMW
+430i,2017,BMW
+430i,2018,BMW
+430i,32000,BMW
+435iA,2014,BMW
+435iA,2015,BMW
 458,2015,Ferrari
 458,32000,Ferrari
 488,2016,Ferrari
 488,2017,Ferrari
 488,32000,Ferrari
-500,2012,Fiat
 500,2013,Fiat
 500,2014,Fiat
 500,2015,Fiat
 500,2017,Fiat
 500,32000,Fiat
-508,2012,Peugeot
 508,2013,Peugeot
 508,2014,Peugeot
-528Ia,2012,BMW
-528Ia,2013,BMW
-528Ia,2014,BMW
-528Ia,2015,BMW
-528Ia,2016,BMW
+528iA,2013,BMW
+528iA,2014,BMW
+528iA,2015,BMW
+528iA,2016,BMW
 530,2015,LIFAN
 530,2016,LIFAN
 530,32000,LIFAN
-530I,2017,BMW
-530I,2018,BMW
-530I,32000,BMW
-535Ia,2012,BMW
-535Ia,2013,BMW
-535Ia,2014,BMW
-535Ia,2015,BMW
-535Ia,2016,BMW
-535Ia,32000,BMW
-540I,2017,BMW
-540I,2018,BMW
-540I,32000,BMW
-550,2012,MG
-550Ia,2012,BMW
-620,2012,LIFAN
-640I,2013,BMW
-640I,2014,BMW
-640I,2015,BMW
-650Ci,2012,BMW
-650I,2012,BMW
-650I,2013,BMW
-650I,2014,BMW
-650I,2015,BMW
-650I,2016,BMW
-650Ia,2012,BMW
+530i,2017,BMW
+530i,2018,BMW
+530i,32000,BMW
+535iA,2013,BMW
+535iA,2014,BMW
+535iA,2015,BMW
+535iA,2016,BMW
+535iA,32000,BMW
+540i,2017,BMW
+540i,2018,BMW
+540i,32000,BMW
+640i,2013,BMW
+640i,2014,BMW
+640i,2015,BMW
+650i,2013,BMW
+650i,2014,BMW
+650i,2015,BMW
+650i,2016,BMW
 718,2016,Porsche
 718,2017,Porsche
 718,2018,Porsche
 718,32000,Porsche
-750I,2014,BMW
-750I,2015,BMW
-750Ia,2012,BMW
-750Ia,2014,BMW
-750Il,2016,BMW
-750Il,2017,BMW
-750Il,32000,BMW
-750Ila,2012,BMW
-760Il,2012,BMW
-911,2012,Porsche
+750i,2014,BMW
+750i,2015,BMW
+750iA,2014,BMW
+750iL,2016,BMW
+750iL,2017,BMW
+750iL,32000,BMW
 911,2013,Porsche
 911,2014,Porsche
 911,2015,Porsche
@@ -172,14 +142,12 @@ model,year,brand
 911,2017,Porsche
 911,2018,Porsche
 911,32000,Porsche
-A1,2012,Audi
 A1,2013,Audi
 A1,2014,Audi
 A1,2015,Audi
 A1,2016,Audi
 A1,2017,Audi
 A1,32000,Audi
-A3,2012,Audi
 A3,2013,Audi
 A3,2014,Audi
 A3,2015,Audi
@@ -187,7 +155,6 @@ A3,2016,Audi
 A3,2017,Audi
 A3,2018,Audi
 A3,32000,Audi
-A4,2012,Audi
 A4,2013,Audi
 A4,2014,Audi
 A4,2015,Audi
@@ -195,7 +162,6 @@ A4,2016,Audi
 A4,2017,Audi
 A4,2018,Audi
 A4,32000,Audi
-A5,2012,Audi
 A5,2013,Audi
 A5,2014,Audi
 A5,2015,Audi
@@ -203,7 +169,6 @@ A5,2016,Audi
 A5,2017,Audi
 A5,2018,Audi
 A5,32000,Audi
-A6,2012,Audi
 A6,2013,Audi
 A6,2014,Audi
 A6,2015,Audi
@@ -211,7 +176,6 @@ A6,2016,Audi
 A6,2017,Audi
 A6,2018,Audi
 A6,32000,Audi
-A7,2012,Audi
 A7,2013,Audi
 A7,2014,Audi
 A7,2015,Audi
@@ -219,98 +183,84 @@ A7,2016,Audi
 A7,2017,Audi
 A7,2018,Audi
 A7,32000,Audi
-A8,2012,Audi
 A8,2013,Audi
 A8,2014,Audi
 A8,2015,Audi
 A8,2016,Audi
 A8,2017,Audi
 A8,32000,Audi
-Accord,2012,Honda
+ACTYON,2013,SSANGYONG
+ACTYON,2015,SSANGYONG
+AGILE,2013,GM - Chevrolet
+AGILE,2014,GM - Chevrolet
+AIRCROSS,2013,Citroën
+AIRCROSS,2014,Citroën
+AIRCROSS,2015,Citroën
+AIRCROSS,2016,Citroën
+AIRCROSS,2017,Citroën
+AIRCROSS,2018,Citroën
+AIRCROSS,32000,Citroën
+ALTIMA,2014,Nissan
+AMAROK,2013,VW - VolksWagen
+AMAROK,2014,VW - VolksWagen
+AMAROK,2015,VW - VolksWagen
+AMAROK,2016,VW - VolksWagen
+AMAROK,2017,VW - VolksWagen
+AMAROK,2018,VW - VolksWagen
+AMAROK,32000,VW - VolksWagen
+ARGO,2018,Fiat
+ARGO,32000,Fiat
+ASX,2013,Mitsubishi
+ASX,2014,Mitsubishi
+ASX,2015,Mitsubishi
+ASX,2016,Mitsubishi
+ASX,2017,Mitsubishi
+ASX,2018,Mitsubishi
+ASX,32000,Mitsubishi
+ASX-S,2016,Mitsubishi
+AUMARK,2013,FOTON
+AUMARK,2014,FOTON
+AUMARK,2015,FOTON
+AUMARK,32000,FOTON
+AVENTADOR,2013,LAMBORGHINI
+AVENTADOR,2014,LAMBORGHINI
+AVENTADOR,2015,LAMBORGHINI
+AVENTADOR,2016,LAMBORGHINI
+AVENTADOR,2017,LAMBORGHINI
+AVENTADOR,2018,LAMBORGHINI
+AVENTADOR,32000,LAMBORGHINI
+AZERA,2013,Hyundai
+AZERA,2014,Hyundai
+AZERA,2015,Hyundai
+AZERA,2016,Hyundai
+AZERA,2017,Hyundai
+AZERA,32000,Hyundai
 Accord,2013,Honda
 Accord,2014,Honda
 Accord,2015,Honda
 Accord,2016,Honda
 Accord,2017,Honda
 Accord,32000,Honda
-Actyon,2012,SSANGYONG
-Actyon,2013,SSANGYONG
-Actyon,2015,SSANGYONG
-Agile,2012,GM - Chevrolet
-Agile,2013,GM - Chevrolet
-Agile,2014,GM - Chevrolet
-Aircross,2012,Citroën
-Aircross,2013,Citroën
-Aircross,2014,Citroën
-Aircross,2015,Citroën
-Aircross,2016,Citroën
-Aircross,2017,Citroën
-Aircross,2018,Citroën
-Aircross,32000,Citroën
-Altima,2014,Nissan
-Amarok,2012,VW - VolksWagen
-Amarok,2013,VW - VolksWagen
-Amarok,2014,VW - VolksWagen
-Amarok,2015,VW - VolksWagen
-Amarok,2016,VW - VolksWagen
-Amarok,2017,VW - VolksWagen
-Amarok,2018,VW - VolksWagen
-Amarok,32000,VW - VolksWagen
-Argo,2018,Fiat
-Argo,32000,Fiat
-Asx,2012,Mitsubishi
-Asx,2013,Mitsubishi
-Asx,2014,Mitsubishi
-Asx,2015,Mitsubishi
-Asx,2016,Mitsubishi
-Asx,2017,Mitsubishi
-Asx,2018,Mitsubishi
-Asx,32000,Mitsubishi
-Aumark,2012,FOTON
-Aumark,2013,FOTON
-Aumark,2014,FOTON
-Aumark,2015,FOTON
-Aumark,32000,FOTON
-Aventador,2012,LAMBORGHINI
-Aventador,2013,LAMBORGHINI
-Aventador,2014,LAMBORGHINI
-Aventador,2015,LAMBORGHINI
-Aventador,2016,LAMBORGHINI
-Aventador,2017,LAMBORGHINI
-Aventador,2018,LAMBORGHINI
-Aventador,32000,LAMBORGHINI
-Azera,2012,Hyundai
-Azera,2013,Hyundai
-Azera,2014,Hyundai
-Azera,2015,Hyundai
-Azera,2016,Hyundai
-Azera,2017,Hyundai
-Azera,32000,Hyundai
-Bongo,2012,Kia Motors
 Bongo,2013,Kia Motors
 Bongo,2014,Kia Motors
 Bongo,2015,Kia Motors
 Bongo,2016,Kia Motors
 Bongo,2018,Kia Motors
 Bongo,32000,Kia Motors
-Boxer,2012,Peugeot
 Boxer,2013,Peugeot
 Boxer,2014,Peugeot
 Boxer,2015,Peugeot
 Boxer,2016,Peugeot
 Boxer,2017,Peugeot
 Boxer,32000,Peugeot
-Boxster,2012,Porsche
 Boxster,2013,Porsche
 Boxster,2014,Porsche
 Boxster,2015,Porsche
 Boxster,2016,Porsche
-Bravo,2012,Fiat
 Bravo,2013,Fiat
 Bravo,2014,Fiat
 Bravo,2015,Fiat
 Bravo,2016,Fiat
-Buggy,2012,BRM
 Buggy,2013,BRM
 Buggy,2014,BRM
 Buggy,2015,Buggy
@@ -318,15 +268,44 @@ Buggy,2016,BRM
 Buggy,2017,BRM
 Buggy,2018,BRM
 Buggy,32000,BRM
-C,2012,Mercedes-Benz
-C,2013,Mercedes-Benz
-C,2014,Mercedes-Benz
-C,2015,Mercedes-Benz
-C,2016,Mercedes-Benz
-C,2017,Mercedes-Benz
-C,2018,Mercedes-Benz
-C,32000,Mercedes-Benz
-C3,2012,Citroën
+Buggy/M-8/M-8,2013,BRM
+Buggy/M-8/M-8,2014,BRM
+Buggy/M-8/M-8,2016,BRM
+Buggy/M-8/M-8,2017,BRM
+Buggy/M-8/M-8,2018,BRM
+Buggy/M-8/M-8,32000,BRM
+C-180,2013,Mercedes-Benz
+C-180,2014,Mercedes-Benz
+C-180,2015,Mercedes-Benz
+C-180,2016,Mercedes-Benz
+C-180,2017,Mercedes-Benz
+C-180,2018,Mercedes-Benz
+C-180,32000,Mercedes-Benz
+C-200,2013,Mercedes-Benz
+C-200,2014,Mercedes-Benz
+C-200,2015,Mercedes-Benz
+C-200,2016,Mercedes-Benz
+C-200,2017,Mercedes-Benz
+C-200,32000,Mercedes-Benz
+C-250,2013,Mercedes-Benz
+C-250,2014,Mercedes-Benz
+C-250,2015,Mercedes-Benz
+C-250,2016,Mercedes-Benz
+C-250,2017,Mercedes-Benz
+C-250,2018,Mercedes-Benz
+C-250,32000,Mercedes-Benz
+C-300,2017,Mercedes-Benz
+C-300,32000,Mercedes-Benz
+C-43,2017,Mercedes-Benz
+C-43,2018,Mercedes-Benz
+C-43,32000,Mercedes-Benz
+C-450,2016,Mercedes-Benz
+C-63,2013,Mercedes-Benz
+C-63,2015,Mercedes-Benz
+C-63,2016,Mercedes-Benz
+C-63,2017,Mercedes-Benz
+C-63,2018,Mercedes-Benz
+C-63,32000,Mercedes-Benz
 C3,2013,Citroën
 C3,2014,Citroën
 C3,2015,Citroën
@@ -334,8 +313,9 @@ C3,2016,Citroën
 C3,2017,Citroën
 C3,2018,Citroën
 C3,32000,Citroën
-C30,2012,Volvo
-C4,2012,Citroën
+C3 Picasso,2013,Citroën
+C3 Picasso,2014,Citroën
+C3 Picasso,2015,Citroën
 C4,2013,Citroën
 C4,2014,Citroën
 C4,2015,Citroën
@@ -343,51 +323,129 @@ C4,2016,Citroën
 C4,2017,Citroën
 C4,2018,Citroën
 C4,32000,Citroën
-C5,2012,Citroën
-Cadenza,2012,Kia Motors
-Cadenza,2013,Kia Motors
-Cadenza,2014,Kia Motors
-Cadenza,2015,Kia Motors
-Cadenza,2016,Kia Motors
-Cadenza,32000,Kia Motors
-California,2012,Ferrari
+C4 Picasso,2013,Citroën
+C4 Picasso,2014,Citroën
+C4 Picasso,2016,Citroën
+C4 Picasso,2017,Citroën
+C4 Picasso,2018,Citroën
+C4 Picasso,32000,Citroën
+CADENZA,2013,Kia Motors
+CADENZA,2014,Kia Motors
+CADENZA,2015,Kia Motors
+CADENZA,2016,Kia Motors
+CADENZA,32000,Kia Motors
+CAMARO,2017,GM - Chevrolet
+CAMARO,32000,GM - Chevrolet
+CAPTIVA,2013,GM - Chevrolet
+CAPTIVA,2014,GM - Chevrolet
+CAPTIVA,2015,GM - Chevrolet
+CAPTIVA,2016,GM - Chevrolet
+CAPTIVA,2017,GM - Chevrolet
+CAPTIVA,32000,GM - Chevrolet
+CAPTUR,2017,Renault
+CAPTUR,2018,Renault
+CAPTUR,32000,Renault
+CITY,2013,Honda
+CITY,2014,Honda
+CITY,2015,Honda
+CITY,2016,Honda
+CITY,2017,Honda
+CITY,32000,Honda
+CLA-200,2014,Mercedes-Benz
+CLA-200,2015,Mercedes-Benz
+CLA-200,2016,Mercedes-Benz
+CLA-200,2017,Mercedes-Benz
+CLA-200,2018,Mercedes-Benz
+CLA-200,32000,Mercedes-Benz
+CLA-250,2014,Mercedes-Benz
+CLA-250,2015,Mercedes-Benz
+CLA-250,2016,Mercedes-Benz
+CLA-250,2017,Mercedes-Benz
+CLA-250,2018,Mercedes-Benz
+CLA-250,32000,Mercedes-Benz
+CLA-45,2014,Mercedes-Benz
+CLA-45,2015,Mercedes-Benz
+CLA-45,2016,Mercedes-Benz
+CLA-45,2017,Mercedes-Benz
+CLA-45,2018,Mercedes-Benz
+CLA-45,32000,Mercedes-Benz
+CLS-350,2013,Mercedes-Benz
+CLS-350,2014,Mercedes-Benz
+CLS-400,2015,Mercedes-Benz
+CLS-400,2016,Mercedes-Benz
+CLS-400,2017,Mercedes-Benz
+CLS-400,32000,Mercedes-Benz
+CLS-63,2013,Mercedes-Benz
+CLS-63,2014,Mercedes-Benz
+CLS-63,2015,Mercedes-Benz
+CLS-63,2016,Mercedes-Benz
+CLS-63,32000,Mercedes-Benz
+COBALT,2013,GM - Chevrolet
+COBALT,2014,GM - Chevrolet
+COBALT,2015,GM - Chevrolet
+COBALT,2016,GM - Chevrolet
+COBALT,2017,GM - Chevrolet
+COBALT,2018,GM - Chevrolet
+COBALT,32000,GM - Chevrolet
+COMPASS,2013,Jeep
+COMPASS,2014,Jeep
+COMPASS,2015,Jeep
+COMPASS,2017,Jeep
+COMPASS,2018,Jeep
+COMPASS,32000,Jeep
+COOPER,2013,MINI
+COOPER,2014,MINI
+COOPER,2015,MINI
+COOPER,2016,MINI
+COOPER,2017,MINI
+COOPER,2018,MINI
+COOPER,32000,MINI
+CR-V,2013,Honda
+CR-V,2014,Honda
+CR-V,2015,Honda
+CR-V,2016,Honda
+CR-V,32000,Honda
+CROSSFOX,2013,VW - VolksWagen
+CROSSFOX,2014,VW - VolksWagen
+CROSSFOX,2015,VW - VolksWagen
+CROSSFOX,2016,VW - VolksWagen
+CROSSFOX,2017,VW - VolksWagen
+CROSSFOX,2018,VW - VolksWagen
+CROSSFOX,32000,VW - VolksWagen
+CRUZE,2013,GM - Chevrolet
+CRUZE,2014,GM - Chevrolet
+CRUZE,2015,GM - Chevrolet
+CRUZE,2016,GM - Chevrolet
+CRUZE,2017,GM - Chevrolet
+CRUZE,2018,GM - Chevrolet
+CRUZE,32000,GM - Chevrolet
+CT200h,2013,Lexus
+CT200h,2014,Lexus
+CT200h,2015,Lexus
+CT200h,2016,Lexus
+CT200h,2017,Lexus
+CT200h,32000,Lexus
 California,2013,Ferrari
 California,2014,Ferrari
 California,2015,Ferrari
 California,2016,Ferrari
 California,2017,Ferrari
 California,32000,Ferrari
-Camaro,2012,GM - Chevrolet
 Camaro,2013,GM - Chevrolet
 Camaro,2014,GM - Chevrolet
 Camaro,2015,GM - Chevrolet
 Camaro,2017,GM - Chevrolet
 Camaro,32000,GM - Chevrolet
-Camry,2012,Toyota
 Camry,2013,Toyota
 Camry,2014,Toyota
 Camry,2015,Toyota
 Camry,2016,Toyota
 Camry,2017,Toyota
 Camry,32000,Toyota
-Captiva,2012,GM - Chevrolet
-Captiva,2013,GM - Chevrolet
-Captiva,2014,GM - Chevrolet
-Captiva,2015,GM - Chevrolet
-Captiva,2016,GM - Chevrolet
-Captiva,2017,GM - Chevrolet
-Captiva,32000,GM - Chevrolet
-Captur,2017,Renault
-Captur,2018,Renault
-Captur,32000,Renault
-Carens,2012,Kia Motors
 Carens,2013,Kia Motors
-Cargo,2012,CHANA
-Carnival,2012,Kia Motors
 Carnival,2013,Kia Motors
 Carnival,2014,Kia Motors
 Carnival,2015,Kia Motors
-Cayenne,2012,Porsche
 Cayenne,2013,Porsche
 Cayenne,2014,Porsche
 Cayenne,2015,Porsche
@@ -395,24 +453,28 @@ Cayenne,2016,Porsche
 Cayenne,2017,Porsche
 Cayenne,2018,Porsche
 Cayenne,32000,Porsche
-Cayman,2012,Porsche
 Cayman,2013,Porsche
 Cayman,2014,Porsche
 Cayman,2015,Porsche
 Cayman,2016,Porsche
-Celer,2013,CHERY
-Celer,2014,CHERY
-Celer,2015,CHERY
-Celer,2016,CHERY
-Celer,2017,CHERY
-Celer,2018,CHERY
-Celer,32000,CHERY
-Celta,2012,GM - Chevrolet
+Celer Hatch,2013,CHERY
+Celer Hatch,2014,CHERY
+Celer Hatch,2015,CHERY
+Celer Hatch,2016,CHERY
+Celer Hatch,2017,CHERY
+Celer Hatch,2018,CHERY
+Celer Hatch,32000,CHERY
+Celer Sedan,2013,CHERY
+Celer Sedan,2014,CHERY
+Celer Sedan,2015,CHERY
+Celer Sedan,2016,CHERY
+Celer Sedan,2017,CHERY
+Celer Sedan,2018,CHERY
+Celer Sedan,32000,CHERY
 Celta,2013,GM - Chevrolet
 Celta,2014,GM - Chevrolet
 Celta,2015,GM - Chevrolet
 Celta,2016,GM - Chevrolet
-Cerato,2012,Kia Motors
 Cerato,2013,Kia Motors
 Cerato,2014,Kia Motors
 Cerato,2015,Kia Motors
@@ -420,80 +482,37 @@ Cerato,2016,Kia Motors
 Cerato,2017,Kia Motors
 Cerato,2018,Kia Motors
 Cerato,32000,Kia Motors
-Cherokee,2012,Jeep
 Cherokee,2014,Jeep
 Cherokee,2015,Jeep
 Cherokee,32000,Jeep
-Cielo,2012,CHERY
-City,2012,Honda
-City,2013,Honda
-City,2014,Honda
-City,2015,Honda
-City,2016,Honda
-City,2017,Honda
-City,32000,Honda
-Civic,2012,Honda
 Civic,2013,Honda
 Civic,2014,Honda
 Civic,2015,Honda
 Civic,2016,Honda
 Civic,2017,Honda
 Civic,32000,Honda
-Cla,2014,Mercedes-Benz
-Cla,2015,Mercedes-Benz
-Cla,2016,Mercedes-Benz
-Cla,2017,Mercedes-Benz
-Cla,2018,Mercedes-Benz
-Cla,32000,Mercedes-Benz
-Classe,2012,Mercedes-Benz
-Classe,2013,Mercedes-Benz
-Classe,2014,Mercedes-Benz
-Classe,2015,Mercedes-Benz
-Classe,2016,Mercedes-Benz
-Classe,2017,Mercedes-Benz
-Classe,2018,Mercedes-Benz
-Classe,32000,Mercedes-Benz
-Classic,2012,GM - Chevrolet
+Classe A,2013,Mercedes-Benz
+Classe A,2014,Mercedes-Benz
+Classe A,2015,Mercedes-Benz
+Classe A,2016,Mercedes-Benz
+Classe A,2017,Mercedes-Benz
+Classe A,2018,Mercedes-Benz
+Classe A,32000,Mercedes-Benz
+Classe B,2013,Mercedes-Benz
+Classe B,2014,Mercedes-Benz
+Classe B,2015,Mercedes-Benz
+Classe B,2016,Mercedes-Benz
+Classe B,2017,Mercedes-Benz
+Classe B,2018,Mercedes-Benz
+Classe B,32000,Mercedes-Benz
 Classic,2013,GM - Chevrolet
 Classic,2014,GM - Chevrolet
 Classic,2015,GM - Chevrolet
 Classic,2016,GM - Chevrolet
-Clio,2012,Renault
 Clio,2013,Renault
 Clio,2014,Renault
 Clio,2015,Renault
 Clio,2016,Renault
-Cls,2012,Mercedes-Benz
-Cls,2013,Mercedes-Benz
-Cls,2014,Mercedes-Benz
-Cls,2015,Mercedes-Benz
-Cls,2016,Mercedes-Benz
-Cls,2017,Mercedes-Benz
-Cls,32000,Mercedes-Benz
-Cobalt,2012,GM - Chevrolet
-Cobalt,2013,GM - Chevrolet
-Cobalt,2014,GM - Chevrolet
-Cobalt,2015,GM - Chevrolet
-Cobalt,2016,GM - Chevrolet
-Cobalt,2017,GM - Chevrolet
-Cobalt,2018,GM - Chevrolet
-Cobalt,32000,GM - Chevrolet
-Compass,2012,Jeep
-Compass,2013,Jeep
-Compass,2014,Jeep
-Compass,2015,Jeep
-Compass,2017,Jeep
-Compass,2018,Jeep
-Compass,32000,Jeep
-Cooper,2012,MINI
-Cooper,2013,MINI
-Cooper,2014,MINI
-Cooper,2015,MINI
-Cooper,2016,MINI
-Cooper,2017,MINI
-Cooper,2018,MINI
-Cooper,32000,MINI
-Corolla,2012,Toyota
 Corolla,2013,Toyota
 Corolla,2014,Toyota
 Corolla,2015,Toyota
@@ -501,59 +520,48 @@ Corolla,2016,Toyota
 Corolla,2017,Toyota
 Corolla,2018,Toyota
 Corolla,32000,Toyota
-Corsa,2012,GM - Chevrolet
-Corvette,2012,GM - Chevrolet
 Corvette,2013,GM - Chevrolet
 Corvette,2014,GM - Chevrolet
 Corvette,2015,GM - Chevrolet
-Courier,2012,Ford
 Courier,2013,Ford
-Cr,2012,Honda
-Cr,2013,Honda
-Cr,2014,Honda
-Cr,2015,Honda
-Cr,2016,Honda
-Cr,32000,Honda
 Creta,2017,Hyundai
 Creta,2018,Hyundai
 Creta,32000,Hyundai
-Crossfox,2012,VW - VolksWagen
-Crossfox,2013,VW - VolksWagen
-Crossfox,2014,VW - VolksWagen
-Crossfox,2015,VW - VolksWagen
-Crossfox,2016,VW - VolksWagen
-Crossfox,2017,VW - VolksWagen
-Crossfox,2018,VW - VolksWagen
-Crossfox,32000,VW - VolksWagen
-Cruze,2012,GM - Chevrolet
-Cruze,2013,GM - Chevrolet
-Cruze,2014,GM - Chevrolet
-Cruze,2015,GM - Chevrolet
-Cruze,2016,GM - Chevrolet
-Cruze,2017,GM - Chevrolet
-Cruze,2018,GM - Chevrolet
-Cruze,32000,GM - Chevrolet
-Ct200H,2013,Lexus
-Ct200H,2014,Lexus
-Ct200H,2015,Lexus
-Ct200H,2016,Lexus
-Ct200H,2017,Lexus
-Ct200H,32000,Lexus
+DB9,2014,ASTON MARTIN
+DB9,2016,ASTON MARTIN
+DS3,2013,Citroën
+DS3,2014,Citroën
+DS3,2015,Citroën
+DS3,2016,Citroën
+DS3,32000,Citroën
+DS4,2013,Citroën
+DS4,2014,Citroën
+DS4,2015,Citroën
+DS4,2016,Citroën
+DS4,32000,Citroën
+DS5,2013,Citroën
+DS5,2014,Citroën
+DS5,2015,Citroën
+DS5,2016,Citroën
+DS5,32000,Citroën
+DUSTER,2013,Renault
+DUSTER,2014,Renault
+DUSTER,2015,Renault
+DUSTER,2016,Renault
+DUSTER,2017,Renault
+DUSTER,2018,Renault
+DUSTER,32000,Renault
 Dawn,2018,Rolls-Royce
 Dawn,32000,Rolls-Royce
-Db9,2014,ASTON MARTIN
-Db9,2016,ASTON MARTIN
 Discovery,2015,Land Rover
 Discovery,2016,Land Rover
 Discovery,2017,Land Rover
 Discovery,32000,Land Rover
-Discovery4,2012,Land Rover
 Discovery4,2013,Land Rover
 Discovery4,2014,Land Rover
 Discovery4,2015,Land Rover
 Discovery4,2016,Land Rover
 Discovery4,32000,Land Rover
-Doblo,2012,Fiat
 Doblo,2013,Fiat
 Doblo,2014,Fiat
 Doblo,2015,Fiat
@@ -561,128 +569,127 @@ Doblo,2016,Fiat
 Doblo,2017,Fiat
 Doblo,2018,Fiat
 Doblo,32000,Fiat
-Ds3,2012,Citroën
-Ds3,2013,Citroën
-Ds3,2014,Citroën
-Ds3,2015,Citroën
-Ds3,2016,Citroën
-Ds3,32000,Citroën
-Ds4,2012,Citroën
-Ds4,2013,Citroën
-Ds4,2014,Citroën
-Ds4,2015,Citroën
-Ds4,2016,Citroën
-Ds4,32000,Citroën
-Ds5,2013,Citroën
-Ds5,2014,Citroën
-Ds5,2015,Citroën
-Ds5,2016,Citroën
-Ds5,32000,Citroën
-Ducato,2012,Fiat
 Ducato,2013,Fiat
 Ducato,2014,Fiat
 Ducato,2015,Fiat
 Ducato,2016,Fiat
 Ducato,2017,Fiat
 Ducato,32000,Fiat
-Durango,2012,Dodge
 Durango,2013,Dodge
 Durango,2015,Dodge
-Duster,2012,Renault
-Duster,2013,Renault
-Duster,2014,Renault
-Duster,2015,Renault
-Duster,2016,Renault
-Duster,2017,Renault
-Duster,2018,Renault
-Duster,32000,Renault
-E,2012,Mercedes-Benz
-E,2013,Mercedes-Benz
-E,2014,Mercedes-Benz
-E,2015,Mercedes-Benz
-E,2016,Mercedes-Benz
-E,2017,Mercedes-Benz
-E,2018,Mercedes-Benz
-E,32000,Mercedes-Benz
-Ec7,2014,GEELY
-Ec7,32000,GEELY
-Ecosport,2012,Ford
-Ecosport,2013,Ford
-Ecosport,2014,Ford
-Ecosport,2015,Ford
-Ecosport,2016,Ford
-Ecosport,2017,Ford
-Ecosport,2018,Ford
-Ecosport,32000,Ford
-Edge,2012,Ford
-Edge,2013,Ford
-Edge,2014,Ford
-Edge,2015,Ford
-Edge,2016,Ford
-Edge,32000,Ford
-Elantra,2012,Hyundai
+E-250,2013,Mercedes-Benz
+E-250,2014,Mercedes-Benz
+E-250,2015,Mercedes-Benz
+E-250,2016,Mercedes-Benz
+E-250,2017,Mercedes-Benz
+E-250,2018,Mercedes-Benz
+E-250,32000,Mercedes-Benz
+E-350,2013,Mercedes-Benz
+E-350,2014,Mercedes-Benz
+E-350,2015,Mercedes-Benz
+E-400,2015,Mercedes-Benz
+E-400,2016,Mercedes-Benz
+E-43,2017,Mercedes-Benz
+E-43,32000,Mercedes-Benz
+E-500,2013,Mercedes-Benz
+E-63,2014,Mercedes-Benz
+E-63,2015,Mercedes-Benz
+E-63,2016,Mercedes-Benz
+E-63,2017,Mercedes-Benz
+E-63,32000,Mercedes-Benz
+EC7,2014,GEELY
+EC7,32000,GEELY
+EDGE,2013,Ford
+EDGE,2014,Ford
+EDGE,2015,Ford
+EDGE,2016,Ford
+EDGE,32000,Ford
+EQUINOX,2018,GM - Chevrolet
+EQUINOX,32000,GM - Chevrolet
+EQUUS,2013,Hyundai
+ES-350,2013,Lexus
+ES-350,2014,Lexus
+ES-350,2015,Lexus
+ES-350,2016,Lexus
+ES-350,2017,Lexus
+ES-350,32000,Lexus
+ETIOS,2013,Toyota
+ETIOS,2014,Toyota
+ETIOS,2015,Toyota
+ETIOS,2016,Toyota
+ETIOS,2017,Toyota
+ETIOS,2018,Toyota
+ETIOS,32000,Toyota
+EcoSport,2013,Ford
+EcoSport,2014,Ford
+EcoSport,2015,Ford
+EcoSport,2016,Ford
+EcoSport,2017,Ford
+EcoSport,2018,Ford
+EcoSport,32000,Ford
 Elantra,2013,Hyundai
 Elantra,2014,Hyundai
 Elantra,2015,Hyundai
 Elantra,2016,Hyundai
 Elantra,2017,Hyundai
 Elantra,32000,Hyundai
-Eos,2012,VW - VolksWagen
-Equinox,2018,GM - Chevrolet
-Equinox,32000,GM - Chevrolet
-Equus,2012,Hyundai
-Equus,2013,Hyundai
-Es,2012,Lexus
-Es,2013,Lexus
-Es,2014,Lexus
-Es,2015,Lexus
-Es,2016,Lexus
-Es,2017,Lexus
-Es,32000,Lexus
-Etios,2013,Toyota
-Etios,2014,Toyota
-Etios,2015,Toyota
-Etios,2016,Toyota
-Etios,2017,Toyota
-Etios,2018,Toyota
-Etios,32000,Toyota
 Expert,2018,Peugeot
 Expert,32000,Peugeot
-F,2012,Ford
-F,2014,Jaguar
-F,2015,Jaguar
-F,2016,Jaguar
-F,2017,Jaguar
-F,2018,Jaguar
-F,32000,Jaguar
+F-Pace,2017,Jaguar
+F-Pace,2018,Jaguar
+F-Pace,32000,Jaguar
+F-Type,2014,Jaguar
+F-Type,2015,Jaguar
+F-Type,2016,Jaguar
+F-Type,2017,Jaguar
+F-Type,32000,Jaguar
 F12,2013,Ferrari
 F12,2014,Ferrari
 F12,2015,Ferrari
 F12,2016,Ferrari
 F12,2017,Ferrari
 F12,32000,Ferrari
-F458,2012,Ferrari
 F458,2013,Ferrari
 F458,2014,Ferrari
 F458,2015,Ferrari
 F458,32000,Ferrari
-F599,2012,Ferrari
-Face,2012,CHERY
+FF,2013,Ferrari
+FF,2014,GM - Chevrolet
+FF,2015,Ferrari
+FF,2016,Ferrari
+FF,2017,GM - Chevrolet
+FF,2018,GM - Chevrolet
+FF,32000,GM - Chevrolet
+FLUENCE,2013,Renault
+FLUENCE,2014,Renault
+FLUENCE,2015,Renault
+FLUENCE,2016,Renault
+FLUENCE,2017,Renault
+FLUENCE,32000,Renault
+FOISON,2014,LIFAN
+FOISON,2015,LIFAN
+FOISON,2016,LIFAN
+FOISON,32000,LIFAN
+FREEMONT,2013,Fiat
+FREEMONT,2014,Fiat
+FREEMONT,2015,Fiat
+FREEMONT,2016,Fiat
+FREEMONT,32000,Fiat
 Face,2013,CHERY
 Face,2014,CHERY
 Face,2015,CHERY
-Ff,2012,Ferrari
-Ff,2013,Ferrari
-Ff,2015,Ferrari
-Ff,2016,Ferrari
-Fiesta,2012,Ford
 Fiesta,2013,Ford
 Fiesta,2014,Ford
 Fiesta,2015,Ford
 Fiesta,2016,Ford
 Fiesta,2017,Ford
 Fiesta,32000,Ford
-Fiorino,2012,Fiat
+Fiesta Sedan,2013,Ford
+Fiesta Sedan,2014,Ford
+Fiesta Sedan,2015,Ford
+Fiesta Sedan,2016,Ford
+Fiesta Sedan,2017,Ford
+Fiesta Sedan,32000,Ford
 Fiorino,2013,Fiat
 Fiorino,2014,Fiat
 Fiorino,2015,Fiat
@@ -690,7 +697,6 @@ Fiorino,2016,Fiat
 Fiorino,2017,Fiat
 Fiorino,2018,Fiat
 Fiorino,32000,Fiat
-Fit,2012,Honda
 Fit,2013,Honda
 Fit,2014,Honda
 Fit,2015,Honda
@@ -698,14 +704,6 @@ Fit,2016,Honda
 Fit,2017,Honda
 Fit,2018,Honda
 Fit,32000,Honda
-Fluence,2012,Renault
-Fluence,2013,Renault
-Fluence,2014,Renault
-Fluence,2015,Renault
-Fluence,2016,Renault
-Fluence,2017,Renault
-Fluence,32000,Renault
-Focus,2012,Ford
 Focus,2013,Ford
 Focus,2014,Ford
 Focus,2015,Ford
@@ -713,22 +711,20 @@ Focus,2016,Ford
 Focus,2017,Ford
 Focus,2018,Ford
 Focus,32000,Ford
-Foison,2014,LIFAN
-Foison,2015,LIFAN
-Foison,2016,LIFAN
-Foison,32000,LIFAN
-Forester,2012,Subaru
+Focus Fastback,2016,Ford
+Focus Fastback,2017,Ford
+Focus Fastback,2018,Ford
+Focus Fastback,32000,Ford
+Focus Sedan,2013,Ford
+Focus Sedan,2014,Ford
+Focus Sedan,2015,Ford
+Focus Sedan,2016,Ford
 Forester,2014,Subaru
 Forester,2015,Subaru
 Forester,2016,Subaru
 Forester,2017,Subaru
 Forester,2018,Subaru
 Forester,32000,Subaru
-Fortwo,2012,smart
-Fortwo,2013,smart
-Fortwo,2014,smart
-Fortwo,2015,smart
-Fox,2012,VW - VolksWagen
 Fox,2013,VW - VolksWagen
 Fox,2014,VW - VolksWagen
 Fox,2015,VW - VolksWagen
@@ -736,17 +732,9 @@ Fox,2016,VW - VolksWagen
 Fox,2017,VW - VolksWagen
 Fox,2018,VW - VolksWagen
 Fox,32000,VW - VolksWagen
-Freelander2,2012,Land Rover
 Freelander2,2013,Land Rover
 Freelander2,2014,Land Rover
 Freelander2,2015,Land Rover
-Freemont,2012,Fiat
-Freemont,2013,Fiat
-Freemont,2014,Fiat
-Freemont,2015,Fiat
-Freemont,2016,Fiat
-Freemont,32000,Fiat
-Frontier,2012,Nissan
 Frontier,2013,Nissan
 Frontier,2014,Nissan
 Frontier,2015,Nissan
@@ -758,63 +746,95 @@ Fusca,2014,VW - VolksWagen
 Fusca,2015,VW - VolksWagen
 Fusca,2016,VW - VolksWagen
 Fusca,32000,VW - VolksWagen
-Fusion,2012,Ford
 Fusion,2013,Ford
 Fusion,2014,Ford
 Fusion,2015,Ford
 Fusion,2016,Ford
 Fusion,2017,Ford
 Fusion,32000,Ford
-G,2012,Mercedes-Benz
-G,2013,Mercedes-Benz
-G,2014,Mercedes-Benz
-G,2015,Mercedes-Benz
-G,2016,Mercedes-Benz
-G,2017,Mercedes-Benz
-G,32000,Mercedes-Benz
-Gallardo,2012,LAMBORGHINI
+G-63,2013,Mercedes-Benz
+G-63,2014,Mercedes-Benz
+G-63,2015,Mercedes-Benz
+G-63,2016,Mercedes-Benz
+G-63,2017,Mercedes-Benz
+G-63,32000,Mercedes-Benz
+GC2,2015,GEELY
+GC2,32000,GEELY
+GENESIS,2013,Hyundai
+GL-350,2014,Mercedes-Benz
+GL-350,2015,Mercedes-Benz
+GL-350,2016,Mercedes-Benz
+GL-500,2013,Mercedes-Benz
+GL-500,2014,Mercedes-Benz
+GL-500,2015,Mercedes-Benz
+GL-500,2016,Mercedes-Benz
+GL-63,2013,Mercedes-Benz
+GL-63,2014,Mercedes-Benz
+GL-63,2015,Mercedes-Benz
+GL-63,2016,Mercedes-Benz
+GLA 200,2015,Mercedes-Benz
+GLA 200,2016,Mercedes-Benz
+GLA 200,2017,Mercedes-Benz
+GLA 200,2018,Mercedes-Benz
+GLA 200,32000,Mercedes-Benz
+GLA 250,2015,Mercedes-Benz
+GLA 250,2016,Mercedes-Benz
+GLA 250,2017,Mercedes-Benz
+GLA 250,2018,Mercedes-Benz
+GLA 250,32000,Mercedes-Benz
+GLA 45 AMG,2015,Mercedes-Benz
+GLA 45 AMG,2016,Mercedes-Benz
+GLA 45 AMG,2017,Mercedes-Benz
+GLA 45 AMG,32000,Mercedes-Benz
+GLC 250,2016,Mercedes-Benz
+GLC 250,2017,Mercedes-Benz
+GLC 250,2018,Mercedes-Benz
+GLC 250,32000,Mercedes-Benz
+GLC-43,2017,Mercedes-Benz
+GLC-43,32000,Mercedes-Benz
+GLE-350,2016,Mercedes-Benz
+GLE-350,2017,Mercedes-Benz
+GLE-350,2018,Mercedes-Benz
+GLE-350,32000,Mercedes-Benz
+GLE-400,2016,Mercedes-Benz
+GLE-400,2017,Mercedes-Benz
+GLE-400,2018,Mercedes-Benz
+GLE-400,32000,Mercedes-Benz
+GLE-43,2017,Mercedes-Benz
+GLE-43,32000,Mercedes-Benz
+GLE-450,2016,Mercedes-Benz
+GLE-63,2016,Mercedes-Benz
+GLE-63,2017,Mercedes-Benz
+GLE-63,32000,Mercedes-Benz
+GLK 220,2013,Mercedes-Benz
+GLK 220,2014,Mercedes-Benz
+GLK 220,2015,Mercedes-Benz
+GLK 300,2013,Mercedes-Benz
+GLS-350,2016,Mercedes-Benz
+GLS-350,2017,Mercedes-Benz
+GLS-350,32000,Mercedes-Benz
+GLS-500,2017,Mercedes-Benz
+GLS-500,32000,Mercedes-Benz
+GT AMG,2016,Mercedes-Benz
+GT AMG,32000,Mercedes-Benz
+GT R AMG,2018,Mercedes-Benz
+GT R AMG,32000,Mercedes-Benz
+GT S AMG,2015,Mercedes-Benz
+GT S AMG,2016,Mercedes-Benz
+GT S AMG,32000,Mercedes-Benz
+GT-R,2017,Nissan
+GT-R,32000,Nissan
 Gallardo,2013,LAMBORGHINI
-Gc2,2015,GEELY
-Gc2,32000,GEELY
-Genesis,2012,Hyundai
-Genesis,2013,Hyundai
 Ghibli,2014,Maserati
 Ghibli,2015,Maserati
 Ghibli,2016,Maserati
 Ghibli,2017,Maserati
 Ghibli,32000,Maserati
-Ghost,2012,Rolls-Royce
 Ghost,2013,Rolls-Royce
 Ghost,2015,Rolls-Royce
 Ghost,2016,Rolls-Royce
 Ghost,2017,Rolls-Royce
 Ghost,32000,Rolls-Royce
-Gl,2012,Mercedes-Benz
-Gl,2013,Mercedes-Benz
-Gl,2014,Mercedes-Benz
-Gl,2015,Mercedes-Benz
-Gl,2016,Mercedes-Benz
-Gla,2015,Mercedes-Benz
-Gla,2016,Mercedes-Benz
-Gla,2017,Mercedes-Benz
-Gla,2018,Mercedes-Benz
-Gla,32000,Mercedes-Benz
-Glc,2016,Mercedes-Benz
-Glc,2017,Mercedes-Benz
-Glc,2018,Mercedes-Benz
-Glc,32000,Mercedes-Benz
-Gle,2016,Mercedes-Benz
-Gle,2017,Mercedes-Benz
-Gle,2018,Mercedes-Benz
-Gle,32000,Mercedes-Benz
-Glk,2012,Mercedes-Benz
-Glk,2013,Mercedes-Benz
-Glk,2014,Mercedes-Benz
-Glk,2015,Mercedes-Benz
-Gls,2016,Mercedes-Benz
-Gls,2017,Mercedes-Benz
-Gls,32000,Mercedes-Benz
-Gol,2012,VW - VolksWagen
 Gol,2013,VW - VolksWagen
 Gol,2014,VW - VolksWagen
 Gol,2015,VW - VolksWagen
@@ -822,67 +842,92 @@ Gol,2016,VW - VolksWagen
 Gol,2017,VW - VolksWagen
 Gol,2018,VW - VolksWagen
 Gol,32000,VW - VolksWagen
-Golf,2012,VW - VolksWagen
 Golf,2013,VW - VolksWagen
 Golf,2014,VW - VolksWagen
 Golf,2015,VW - VolksWagen
 Golf,2016,VW - VolksWagen
 Golf,2017,VW - VolksWagen
 Golf,32000,VW - VolksWagen
-Gran,2013,Maserati
-Gran,2014,Maserati
-Gran,2015,Maserati
-Gran,2016,Maserati
-Gran,2017,Maserati
-Gran,32000,Maserati
-Grancabrio,2012,Maserati
-Grancabrio,2013,Maserati
-Grancabrio,2014,Maserati
-Grancabrio,2015,Maserati
-Grancabrio,2016,Maserati
-Grancabrio,32000,Maserati
-Grand,2012,Fiat
-Grand,2013,Fiat
-Grand,2014,Fiat
-Grand,2015,Fiat
-Grand,2016,Citroën
-Grand,2017,Citroën
-Grand,2018,Citroën
-Grand,32000,Citroën
-Granturismo,2012,Maserati
-Granturismo,2013,Maserati
-Granturismo,2014,Maserati
-Granturismo,2015,Maserati
-Granturismo,2016,Maserati
-Granturismo,2017,Maserati
-Granturismo,32000,Maserati
-Gt,2015,Mercedes-Benz
-Gt,2016,Mercedes-Benz
-Gt,2017,Nissan
-Gt,2018,Mercedes-Benz
-Gt,32000,Mercedes-Benz
-Hb20,2013,Hyundai
-Hb20,2014,Hyundai
-Hb20,2015,Hyundai
-Hb20,2016,Hyundai
-Hb20,2017,Hyundai
-Hb20,2018,Hyundai
-Hb20,32000,Hyundai
-Hb20S,2013,Hyundai
-Hb20S,2014,Hyundai
-Hb20S,2015,Hyundai
-Hb20S,2016,Hyundai
-Hb20S,2017,Hyundai
-Hb20S,2018,Hyundai
-Hb20S,32000,Hyundai
-Hb20X,2013,Hyundai
-Hb20X,2014,Hyundai
-Hb20X,2015,Hyundai
-Hb20X,2016,Hyundai
-Hb20X,2017,Hyundai
-Hb20X,2018,Hyundai
-Hb20X,32000,Hyundai
-Hilux,2012,Toyota
+Gran Turismo,2013,Maserati
+Gran Turismo,2014,Maserati
+Gran Turismo,2015,Maserati
+Gran Turismo,2016,Maserati
+Gran Turismo,2017,Maserati
+Gran Turismo,32000,Maserati
+GranCabrio,2013,Maserati
+GranCabrio,2014,Maserati
+GranCabrio,2015,Maserati
+GranCabrio,2016,Maserati
+GranCabrio,32000,Maserati
+GranTurismo,2013,Maserati
+GranTurismo,2014,Maserati
+GranTurismo,2015,Maserati
+GranTurismo,2016,Maserati
+GranTurismo,2017,Maserati
+GranTurismo,32000,Maserati
+Grand,2013,Jeep
+Grand,2014,Jeep
+Grand,2015,Jeep
+Grand,2016,Jeep
+Grand,2017,Jeep
+Grand,32000,Jeep
+Grand C4 Picasso,2016,Citroën
+Grand C4 Picasso,2017,Citroën
+Grand C4 Picasso,2018,Citroën
+Grand C4 Picasso,32000,Citroën
+Grand Carnival,2016,Kia Motors
+Grand Carnival,2018,Kia Motors
+Grand Carnival,32000,Kia Motors
+Grand Santa Fé,2013,Hyundai
+Grand Santa Fé,2014,Hyundai
+Grand Santa Fé,2015,Hyundai
+Grand Santa Fé,2016,Hyundai
+Grand Siena,2013,Fiat
+Grand Siena,2014,Fiat
+Grand Siena,2015,Fiat
+Grand Siena,2016,Fiat
+Grand Siena,2017,Fiat
+Grand Siena,2018,Fiat
+Grand Siena,32000,Fiat
+HB20,2013,Hyundai
+HB20,2014,Hyundai
+HB20,2015,Hyundai
+HB20,2016,Hyundai
+HB20,2017,Hyundai
+HB20,2018,Hyundai
+HB20,32000,Hyundai
+HB20S,2013,Hyundai
+HB20S,2014,Hyundai
+HB20S,2015,Hyundai
+HB20S,2016,Hyundai
+HB20S,2017,Hyundai
+HB20S,2018,Hyundai
+HB20S,32000,Hyundai
+HB20X,2013,Hyundai
+HB20X,2014,Hyundai
+HB20X,2015,Hyundai
+HB20X,2016,Hyundai
+HB20X,2017,Hyundai
+HB20X,2018,Hyundai
+HB20X,32000,Hyundai
+HOGGAR,2013,Peugeot
+HOGGAR,2014,Peugeot
+HR,2013,Hyundai
+HR,2014,Hyundai
+HR,2015,Hyundai
+HR,2016,Hyundai
+HR,2017,Hyundai
+HR,2018,Hyundai
+HR,32000,Hyundai
+HR-V,2016,Honda
+HR-V,2017,Honda
+HR-V,2018,Honda
+HR-V,32000,Honda
+HURACAN,2015,LAMBORGHINI
+HURACAN,2016,LAMBORGHINI
+HURACAN,2017,LAMBORGHINI
+HURACAN,2018,LAMBORGHINI
+HURACAN,32000,LAMBORGHINI
 Hilux,2013,Toyota
 Hilux,2014,Toyota
 Hilux,2015,Toyota
@@ -890,88 +935,43 @@ Hilux,2016,Toyota
 Hilux,2017,Toyota
 Hilux,2018,Toyota
 Hilux,32000,Toyota
-Hoggar,2012,Peugeot
-Hoggar,2013,Peugeot
-Hoggar,2014,Peugeot
-Hr,2012,Hyundai
-Hr,2013,Hyundai
-Hr,2014,Hyundai
-Hr,2015,Hyundai
-Hr,2016,Honda
-Hr,2017,Honda
-Hr,2018,Honda
-Hr,32000,Honda
-Huracan,2015,LAMBORGHINI
-Huracan,2016,LAMBORGHINI
-Huracan,2017,LAMBORGHINI
-Huracan,2018,LAMBORGHINI
-Huracan,32000,LAMBORGHINI
-I3,2015,BMW
-I30,2012,Hyundai
-I30,2013,Hyundai
-I30,2014,Hyundai
-I30,2015,Hyundai
-I30,2016,Hyundai
-I30,32000,Hyundai
-I30Cw,2012,Hyundai
-I8,2015,BMW
-I8,2016,BMW
-I8,32000,BMW
-Idea,2012,Fiat
+IS-250,2014,Lexus
+IS-250,2015,Lexus
+IS-250,2016,Lexus
+IS-300,2013,Lexus
 Idea,2013,Fiat
 Idea,2014,Fiat
 Idea,2015,Fiat
 Idea,2016,Fiat
-Idea,32000,Fiat
-Impreza,2012,Subaru
 Impreza,2013,Subaru
 Impreza,2014,Subaru
 Impreza,2015,Subaru
 Impreza,2016,Subaru
 Impreza,32000,Subaru
-Is,2012,Lexus
-Is,2013,Lexus
-Is,2014,Lexus
-Is,2015,Lexus
-Is,2016,Lexus
-Ix35,2012,Hyundai
-Ix35,2013,Hyundai
-Ix35,2014,Hyundai
-Ix35,2015,Hyundai
-Ix35,2016,Hyundai
-Ix35,2017,Hyundai
-Ix35,2018,Hyundai
-Ix35,32000,Hyundai
-J2,2012,JAC
 J2,2013,JAC
 J2,2014,JAC
 J2,2015,JAC
 J2,2016,JAC
-J3,2012,JAC
 J3,2013,JAC
 J3,2014,JAC
 J3,2015,JAC
 J3,32000,JAC
-J5,2012,JAC
 J5,2013,JAC
 J5,2014,JAC
 J5,2015,JAC
 J5,2016,JAC
 J5,32000,JAC
-J6,2012,JAC
 J6,2013,JAC
 J6,2014,JAC
 J6,2015,JAC
 J6,2016,JAC
 J6,32000,JAC
-Jetta,2012,VW - VolksWagen
-Jetta,2013,VW - VolksWagen
-Jetta,2014,VW - VolksWagen
-Jetta,2015,VW - VolksWagen
-Jetta,2016,VW - VolksWagen
-Jetta,2017,VW - VolksWagen
-Jetta,32000,VW - VolksWagen
-Jimny,2012,Suzuki
+JOURNEY,2013,Dodge
+JOURNEY,2014,Dodge
+JOURNEY,2015,Dodge
+JOURNEY,2016,Dodge
+JOURNEY,2017,Dodge
+JOURNEY,32000,Dodge
 Jimny,2013,Suzuki
 Jimny,2014,Suzuki
 Jimny,2015,Suzuki
@@ -979,14 +979,6 @@ Jimny,2016,Suzuki
 Jimny,2017,Suzuki
 Jimny,2018,Suzuki
 Jimny,32000,Suzuki
-Journey,2012,Dodge
-Journey,2013,Dodge
-Journey,2014,Dodge
-Journey,2015,Dodge
-Journey,2016,Dodge
-Journey,2017,Dodge
-Journey,32000,Dodge
-Jumper,2012,Citroën
 Jumper,2013,Citroën
 Jumper,2014,Citroën
 Jumper,2015,Citroën
@@ -995,20 +987,25 @@ Jumper,2017,Citroën
 Jumper,32000,Citroën
 Jumpy,2018,Citroën
 Jumpy,32000,Citroën
-K01,2016,EFFA
-K01,2017,EFFA
-K01,32000,EFFA
-K02,2016,EFFA
-K02,2017,EFFA
-K02,32000,EFFA
-Ka,2012,Ford
-Ka,2013,Ford
+KA,2013,Ford
+KA,2017,Ford
+KA,2018,Ford
+KA,32000,Ford
+KICKS,2017,Nissan
+KICKS,2018,Nissan
+KICKS,32000,Nissan
+KWID,2018,Renault
+KWID,32000,Renault
 Ka,2015,Ford
 Ka,2016,Ford
 Ka,2017,Ford
 Ka,2018,Ford
 Ka,32000,Ford
-Kangoo,2012,Renault
+Ka+,2015,Ford
+Ka+,2016,Ford
+Ka+,2017,Ford
+Ka+,2018,Ford
+Ka+,32000,Ford
 Kangoo,2013,Renault
 Kangoo,2014,Renault
 Kangoo,2015,Renault
@@ -1016,18 +1013,9 @@ Kangoo,2016,Renault
 Kangoo,2017,Renault
 Kangoo,2018,Renault
 Kangoo,32000,Renault
-Kicks,2017,Nissan
-Kicks,2018,Nissan
-Kicks,32000,Nissan
-Kombi,2012,VW - VolksWagen
 Kombi,2013,VW - VolksWagen
 Kombi,2014,VW - VolksWagen
-Korando,2012,SSANGYONG
 Korando,2015,SSANGYONG
-Kwid,2018,Renault
-Kwid,32000,Renault
-Kyron,2012,SSANGYONG
-L200,2012,Mitsubishi
 L200,2013,Mitsubishi
 L200,2014,Mitsubishi
 L200,2015,Mitsubishi
@@ -1035,7 +1023,28 @@ L200,2016,Mitsubishi
 L200,2017,Mitsubishi
 L200,2018,Mitsubishi
 L200,32000,Mitsubishi
-Lancer,2012,Mitsubishi
+LINEA,2013,Fiat
+LINEA,2014,Fiat
+LINEA,2015,Fiat
+LINEA,2016,Fiat
+LINK,2014,RELY
+LINK,32000,RELY
+LIVINA,2013,Nissan
+LIVINA,2014,Nissan
+LOGAN,2013,Renault
+LOGAN,2014,Renault
+LOGAN,2015,Renault
+LOGAN,2016,Renault
+LOGAN,2017,Renault
+LOGAN,2018,Renault
+LOGAN,32000,Renault
+LS 460,2013,Lexus
+LS-460L,2013,Lexus
+LS-460L,2014,Lexus
+LS-460L,2015,Lexus
+LS-460L,2016,Lexus
+LS-460L,2017,Lexus
+LS-460L,32000,Lexus
 Lancer,2013,Mitsubishi
 Lancer,2014,Mitsubishi
 Lancer,2015,Mitsubishi
@@ -1048,44 +1057,19 @@ Legacy,2015,Subaru
 Legacy,32000,Subaru
 Levante,2017,Maserati
 Levante,32000,Maserati
-Linea,2012,Fiat
-Linea,2013,Fiat
-Linea,2014,Fiat
-Linea,2015,Fiat
-Linea,2016,Fiat
-Link,2014,RELY
-Link,32000,RELY
-Livina,2012,Nissan
-Livina,2013,Nissan
-Livina,2014,Nissan
-Logan,2012,Renault
-Logan,2013,Renault
-Logan,2014,Renault
-Logan,2015,Renault
-Logan,2016,Renault
-Logan,2017,Renault
-Logan,2018,Renault
-Logan,32000,Renault
-Ls,2012,Lexus
-Ls,2013,Lexus
-Ls,2014,Lexus
-Ls,2015,Lexus
-Ls,2016,Lexus
-Ls,2017,Lexus
-Ls,32000,Lexus
-M,2012,EFFA
-M,2013,BMW
-M,2014,BMW
-M,2015,BMW
-M,2016,BMW
-M,2017,BMW
-M,32000,BMW
-M1,2012,BMW
-M140I,2017,BMW
-M140I,32000,BMW
+M 135i,2013,BMW
+M 135i,2014,BMW
+M 135i,2015,BMW
+M 135i,2016,BMW
+M 235i,2014,BMW
+M 235i,2015,BMW
+M 235i,2016,BMW
+M 240i,2017,BMW
+M 240i,32000,BMW
+M140i,2017,BMW
+M140i,32000,BMW
 M2,2017,BMW
 M2,32000,BMW
-M3,2012,BMW
 M3,2013,BMW
 M3,2015,BMW
 M3,2016,BMW
@@ -1095,7 +1079,6 @@ M3,32000,BMW
 M4,2015,BMW
 M4,2016,BMW
 M4,32000,BMW
-M5,2012,BMW
 M5,2013,BMW
 M5,2014,BMW
 M5,2015,BMW
@@ -1105,30 +1088,60 @@ M6,2015,BMW
 M6,2016,BMW
 M6,2017,BMW
 M6,32000,BMW
+MACAN,2017,Porsche
+MACAN,32000,Porsche
+MALIBU,2013,GM - Chevrolet
+MARCH,2013,Nissan
+MARCH,2014,Nissan
+MARCH,2015,Nissan
+MARCH,2016,Nissan
+MARCH,2017,Nissan
+MARCH,2018,Nissan
+MARCH,32000,Nissan
+MARRUÁ,2013,Agrale
+MARRUÁ,2014,Agrale
+MARRUÁ,2015,Agrale
+MARRUÁ,2016,Agrale
+MARRUÁ,2017,Agrale
+MARRUÁ,32000,Agrale
+MG 6,2013,Mercedes-Benz
+MG 6,2014,Mercedes-Benz
+MG 6,2015,Mercedes-Benz
+MG 6,2016,Mercedes-Benz
+MG 6,2017,Mercedes-Benz
+MG 6,2018,Mercedes-Benz
+MG 6,32000,Mercedes-Benz
+MINITRUCK,2018,FOTON
+MINITRUCK,32000,FOTON
+ML-350,2013,Mercedes-Benz
+ML-350,2014,Mercedes-Benz
+ML-350,2015,Mercedes-Benz
+ML-63,2013,Mercedes-Benz
+ML-63,2014,Mercedes-Benz
+ML-63,2015,Mercedes-Benz
+ML-63,32000,Mercedes-Benz
+MOBI,2017,Fiat
+MOBI,2018,Fiat
+MOBI,32000,Fiat
+MOHAVE,2013,Kia Motors
+MOHAVE,2014,Kia Motors
+MOHAVE,2015,Kia Motors
+MOHAVE,2016,Kia Motors
+MOHAVE,2017,Kia Motors
+MOHAVE,32000,Kia Motors
+MONTANA,2013,GM - Chevrolet
+MONTANA,2014,GM - Chevrolet
+MONTANA,2015,GM - Chevrolet
+MONTANA,2016,GM - Chevrolet
+MONTANA,2017,GM - Chevrolet
+MONTANA,2018,GM - Chevrolet
+MONTANA,32000,GM - Chevrolet
 Macan,2014,Porsche
 Macan,2015,Porsche
 Macan,2016,Porsche
 Macan,2017,Porsche
 Macan,2018,Porsche
 Macan,32000,Porsche
-Malibu,2012,GM - Chevrolet
-Malibu,2013,GM - Chevrolet
-March,2012,Nissan
-March,2013,Nissan
-March,2014,Nissan
-March,2015,Nissan
-March,2016,Nissan
-March,2017,Nissan
-March,2018,Nissan
-March,32000,Nissan
-Marruá,2012,Agrale
-Marruá,2013,Agrale
-Marruá,2014,Agrale
-Marruá,2015,Agrale
-Marruá,2016,Agrale
-Marruá,2017,Agrale
-Marruá,32000,Agrale
-Master,2012,Renault
 Master,2013,Renault
 Master,2014,Renault
 Master,2015,Renault
@@ -1136,74 +1149,58 @@ Master,2016,Renault
 Master,2017,Renault
 Master,2018,Renault
 Master,32000,Renault
-Megane,2012,Renault
 Megane,2013,Renault
-Meriva,2012,GM - Chevrolet
-Mg6,2012,MG
-Mini,2012,CHANGAN
-Minitruck,2018,FOTON
-Minitruck,32000,FOTON
-Ml,2012,Mercedes-Benz
-Ml,2013,Mercedes-Benz
-Ml,2014,Mercedes-Benz
-Ml,2015,Mercedes-Benz
-Ml,32000,Mercedes-Benz
-Mobi,2017,Fiat
-Mobi,2018,Fiat
-Mobi,32000,Fiat
-Mohave,2012,Kia Motors
-Mohave,2013,Kia Motors
-Mohave,2014,Kia Motors
-Mohave,2015,Kia Motors
-Mohave,2016,Kia Motors
-Mohave,2017,Kia Motors
-Mohave,32000,Kia Motors
-Montana,2012,GM - Chevrolet
-Montana,2013,GM - Chevrolet
-Montana,2014,GM - Chevrolet
-Montana,2015,GM - Chevrolet
-Montana,2016,GM - Chevrolet
-Montana,2017,GM - Chevrolet
-Montana,2018,GM - Chevrolet
-Montana,32000,GM - Chevrolet
-Mustang,2012,Ford
 Mustang,2013,Ford
 Mustang,2014,Ford
 Mustang,2015,Ford
 Mustang,2016,Ford
-Nx,2015,Lexus
-Nx,2016,Lexus
-Nx,2017,Lexus
-Nx,32000,Lexus
-Omega,2012,GM - Chevrolet
-One,2012,MINI
-One,2013,MINI
-Onix,2013,GM - Chevrolet
-Onix,2014,GM - Chevrolet
-Onix,2015,GM - Chevrolet
-Onix,2016,GM - Chevrolet
-Onix,2017,GM - Chevrolet
-Onix,2018,GM - Chevrolet
-Onix,32000,GM - Chevrolet
-Optima,2013,Kia Motors
-Optima,2014,Kia Motors
-Optima,2015,Kia Motors
-Optima,2016,Kia Motors
-Optima,32000,Kia Motors
+NX-200t,2015,Lexus
+NX-200t,2016,Lexus
+NX-200t,2017,Lexus
+NX-200t,32000,Lexus
+ONE,2013,MINI
+ONIX,2013,GM - Chevrolet
+ONIX,2014,GM - Chevrolet
+ONIX,2015,GM - Chevrolet
+ONIX,2016,GM - Chevrolet
+ONIX,2017,GM - Chevrolet
+ONIX,2018,GM - Chevrolet
+ONIX,32000,GM - Chevrolet
+OPTIMA,2013,Kia Motors
+OPTIMA,2014,Kia Motors
+OPTIMA,2015,Kia Motors
+OPTIMA,2016,Kia Motors
+OPTIMA,32000,Kia Motors
+OUTLANDER,2013,Mitsubishi
+OUTLANDER,2014,Mitsubishi
+OUTLANDER,2015,Mitsubishi
+OUTLANDER,2016,Mitsubishi
+OUTLANDER,2017,Mitsubishi
+OUTLANDER,2018,Mitsubishi
+OUTLANDER,32000,Mitsubishi
 Outback,2013,Subaru
 Outback,2014,Subaru
 Outback,2015,Subaru
 Outback,2016,Subaru
 Outback,32000,Subaru
-Outlander,2012,Mitsubishi
-Outlander,2013,Mitsubishi
-Outlander,2014,Mitsubishi
-Outlander,2015,Mitsubishi
-Outlander,2016,Mitsubishi
-Outlander,2017,Mitsubishi
-Outlander,2018,Mitsubishi
-Outlander,32000,Mitsubishi
-Pajero,2012,Mitsubishi
+PICK-UP,2013,RELY
+PICK-UP,2014,RELY
+PICK-UP,2015,RELY
+PICK-UP,32000,RELY
+PIK-UP,2013,Mahindra
+PIK-UP,2014,Mahindra
+PRISMA,2013,GM - Chevrolet
+PRISMA,2014,GM - Chevrolet
+PRISMA,2015,GM - Chevrolet
+PRISMA,2016,GM - Chevrolet
+PRISMA,2017,GM - Chevrolet
+PRISMA,2018,GM - Chevrolet
+PRISMA,32000,GM - Chevrolet
+PRIUS,2013,Toyota
+PRIUS,2015,Toyota
+PRIUS,2016,Toyota
+PRIUS,2017,Toyota
+PRIUS,32000,Toyota
 Pajero,2013,Mitsubishi
 Pajero,2014,Mitsubishi
 Pajero,2015,Mitsubishi
@@ -1211,7 +1208,6 @@ Pajero,2016,Mitsubishi
 Pajero,2017,Mitsubishi
 Pajero,2018,Mitsubishi
 Pajero,32000,Mitsubishi
-Palio,2012,Fiat
 Palio,2013,Fiat
 Palio,2014,Fiat
 Palio,2015,Fiat
@@ -1219,7 +1215,12 @@ Palio,2016,Fiat
 Palio,2017,Fiat
 Palio,2018,Fiat
 Palio,32000,Fiat
-Panamera,2012,Porsche
+Palio Weekend,2013,Fiat
+Palio Weekend,2014,Fiat
+Palio Weekend,2015,Fiat
+Palio Weekend,2016,Fiat
+Palio Weekend,2017,Fiat
+Palio Weekend,32000,Fiat
 Panamera,2013,Porsche
 Panamera,2014,Porsche
 Panamera,2015,Porsche
@@ -1227,9 +1228,7 @@ Panamera,2016,Porsche
 Panamera,2017,Porsche
 Panamera,2018,Porsche
 Panamera,32000,Porsche
-Parati,2012,VW - VolksWagen
 Parati,2013,VW - VolksWagen
-Partner,2012,Peugeot
 Partner,2013,Peugeot
 Partner,2014,Peugeot
 Partner,2015,Peugeot
@@ -1237,7 +1236,6 @@ Partner,2016,Peugeot
 Partner,2017,Peugeot
 Partner,2018,Peugeot
 Partner,32000,Peugeot
-Passat,2012,VW - VolksWagen
 Passat,2013,VW - VolksWagen
 Passat,2014,VW - VolksWagen
 Passat,2015,VW - VolksWagen
@@ -1250,43 +1248,23 @@ Phantom,2014,Rolls-Royce
 Phantom,2015,Rolls-Royce
 Phantom,2016,Rolls-Royce
 Phantom,32000,Rolls-Royce
-Picanto,2012,Kia Motors
 Picanto,2013,Kia Motors
 Picanto,2014,Kia Motors
 Picanto,2015,Kia Motors
 Picanto,2016,Kia Motors
 Picanto,2017,Kia Motors
 Picanto,32000,Kia Motors
-Pick,2012,RELY
-Pick,2013,RELY
-Pick,2014,RELY
-Pick,2015,RELY
-Pick,32000,RELY
-Pik,2013,Mahindra
-Pik,2014,Mahindra
-Plutus,2012,EFFA
-Polo,2012,VW - VolksWagen
+Pick-up,2013,HAFEI
+Pick-up,2016,EFFA
+Pick-up,2017,EFFA
+Pick-up,32000,EFFA
 Polo,2013,VW - VolksWagen
 Polo,2014,VW - VolksWagen
 Polo,2015,VW - VolksWagen
 Polo,2018,VW - VolksWagen
 Polo,32000,VW - VolksWagen
-Polo1,2018,VW - VolksWagen
-Polo1,32000,VW - VolksWagen
-Prisma,2012,GM - Chevrolet
-Prisma,2013,GM - Chevrolet
-Prisma,2014,GM - Chevrolet
-Prisma,2015,GM - Chevrolet
-Prisma,2016,GM - Chevrolet
-Prisma,2017,GM - Chevrolet
-Prisma,2018,GM - Chevrolet
-Prisma,32000,GM - Chevrolet
-Prius,2013,Toyota
-Prius,2015,Toyota
-Prius,2016,Toyota
-Prius,2017,Toyota
-Prius,32000,Toyota
-Punto,2012,Fiat
+Polo1.0,2018,VW - VolksWagen
+Polo1.0,32000,VW - VolksWagen
 Punto,2013,Fiat
 Punto,2014,Fiat
 Punto,2015,Fiat
@@ -1300,7 +1278,6 @@ Q3,2016,Audi
 Q3,2017,Audi
 Q3,2018,Audi
 Q3,32000,Audi
-Q5,2012,Audi
 Q5,2013,Audi
 Q5,2014,Audi
 Q5,2015,Audi
@@ -1308,7 +1285,6 @@ Q5,2016,Audi
 Q5,2017,Audi
 Q5,2018,Audi
 Q5,32000,Audi
-Q7,2012,Audi
 Q7,2013,Audi
 Q7,2014,Audi
 Q7,2015,Audi
@@ -1316,32 +1292,71 @@ Q7,2016,Audi
 Q7,2017,Audi
 Q7,2018,Audi
 Q7,32000,Audi
-Qq,2012,CHERY
-Qq,2013,CHERY
-Qq,2014,CHERY
-Qq,2015,CHERY
-Qq,2016,CHERY
-Qq,2018,CHERY
-Qq,32000,CHERY
-Quattroporte,2012,Maserati
+QQ,2013,CHERY
+QQ,2014,CHERY
+QQ,2015,CHERY
+QQ,2016,CHERY
+QQ,2018,CHERY
+QQ,32000,CHERY
+QUORIS,2015,Kia Motors
+QUORIS,2016,Kia Motors
+QUORIS,32000,Kia Motors
 Quattroporte,2013,Maserati
 Quattroporte,2014,Maserati
 Quattroporte,2015,Maserati
 Quattroporte,2016,Maserati
 Quattroporte,2017,Maserati
 Quattroporte,32000,Maserati
-Quoris,2015,Kia Motors
-Quoris,2016,Kia Motors
-Quoris,32000,Kia Motors
-R8,2012,Audi
 R8,2013,Audi
 R8,2014,Audi
 R8,2015,Audi
 R8,2016,Audi
 R8,2017,Audi
 R8,32000,Audi
-Ram,2012,Dodge
-Range,2012,Land Rover
+RAV4,2013,Toyota
+RAV4,2014,Toyota
+RAV4,2015,Toyota
+RAV4,2017,Toyota
+RAV4,32000,Toyota
+RCZ,2013,Peugeot
+RCZ,2014,Peugeot
+RCZ,2015,Peugeot
+RS Q3,2014,Audi
+RS Q3,2015,Audi
+RS Q3,2016,Audi
+RS Q3,2017,Audi
+RS Q3,32000,Audi
+RS3,2013,Audi
+RS3,2016,Audi
+RS4,2013,Audi
+RS4,2014,Audi
+RS4,2015,Audi
+RS5,2013,Audi
+RS5,2014,Audi
+RS5,2015,Audi
+RS6,2014,Audi
+RS6,2015,Audi
+RS6,2016,Audi
+RS6,2017,Audi
+RS6,2018,Audi
+RS6,32000,Audi
+RS7,2014,Audi
+RS7,2015,Audi
+RS7,2016,Audi
+RS7,2017,Audi
+RS7,2018,Audi
+RS7,32000,Audi
+RX-350,2013,Lexus
+RX-350,2014,Lexus
+RX-350,2015,Lexus
+RX-350,2016,Lexus
+RX-350,32000,Lexus
+RX-350 F-Sport,2013,Lexus
+RX-350 F-Sport,2014,Lexus
+RX-350 F-Sport,2015,Lexus
+RX-350 F-Sport,2016,Lexus
+RX-350 F-Sport,2017,Lexus
+RX-350 F-Sport,32000,Lexus
 Range,2013,Land Rover
 Range,2014,Land Rover
 Range,2015,Land Rover
@@ -1349,7 +1364,24 @@ Range,2016,Land Rover
 Range,2017,Land Rover
 Range,2018,Land Rover
 Range,32000,Land Rover
-Ranger,2012,Ford
+Range Rover,2013,Land Rover
+Range Rover,2014,Land Rover
+Range Rover,2015,Land Rover
+Range Rover,2016,Land Rover
+Range Rover,2017,Land Rover
+Range Rover,32000,Land Rover
+Range Rover Sport,2013,Land Rover
+Range Rover Sport,2014,Land Rover
+Range Rover Sport,2015,Land Rover
+Range Rover Sport,2016,Land Rover
+Range Rover Sport,2017,Land Rover
+Range Rover Sport,32000,Land Rover
+Range Rover Vogue,2013,Land Rover
+Range Rover Vogue,2014,Land Rover
+Range Rover Vogue,2015,Land Rover
+Range Rover Vogue,2016,Land Rover
+Range Rover Vogue,2017,Land Rover
+Range Rover Vogue,32000,Land Rover
 Ranger,2013,Ford
 Ranger,2014,Ford
 Ranger,2015,Ford
@@ -1357,72 +1389,38 @@ Ranger,2016,Ford
 Ranger,2017,Ford
 Ranger,2018,Ford
 Ranger,32000,Ford
-Rapide,2012,ASTON MARTIN
 Rapide,2014,ASTON MARTIN
 Rapide,2016,ASTON MARTIN
 Rapide,32000,ASTON MARTIN
-Rav4,2012,Toyota
-Rav4,2013,Toyota
-Rav4,2014,Toyota
-Rav4,2015,Toyota
-Rav4,2017,Toyota
-Rav4,32000,Toyota
-Rcz,2012,Peugeot
-Rcz,2013,Peugeot
-Rcz,2014,Peugeot
-Rcz,2015,Peugeot
 Renegade,2015,Jeep
 Renegade,2016,Jeep
 Renegade,2017,Jeep
 Renegade,2018,Jeep
 Renegade,32000,Jeep
-Renegade1,2016,Jeep
-Renegade1,2017,Jeep
-Renegade1,32000,Jeep
-Rexton,2012,SSANGYONG
+Renegade1.8,2016,Jeep
+Renegade1.8,2017,Jeep
+Renegade1.8,32000,Jeep
 Rexton,2015,SSANGYONG
-Rs,2014,Audi
-Rs,2015,Audi
-Rs,2016,Audi
-Rs,2017,Audi
-Rs,32000,Audi
-Rs3,2012,Audi
-Rs3,2013,Audi
-Rs3,2016,Audi
-Rs4,2013,Audi
-Rs4,2014,Audi
-Rs4,2015,Audi
-Rs5,2012,Audi
-Rs5,2013,Audi
-Rs5,2014,Audi
-Rs5,2015,Audi
-Rs6,2014,Audi
-Rs6,2015,Audi
-Rs6,2016,Audi
-Rs6,2017,Audi
-Rs6,2018,Audi
-Rs6,32000,Audi
-Rs7,2014,Audi
-Rs7,2015,Audi
-Rs7,2016,Audi
-Rs7,2017,Audi
-Rs7,2018,Audi
-Rs7,32000,Audi
-Rx,2013,Lexus
-Rx,2014,Lexus
-Rx,2015,Lexus
-Rx,2016,Lexus
-Rx,2017,Lexus
-Rx,32000,Lexus
-S,2012,CHERY
-S,2013,Mercedes-Benz
 S,2014,Audi
 S,2015,Audi
 S,2016,Audi
 S,2017,Audi
-S,2018,Mercedes-Benz
 S,32000,Audi
-S10,2012,GM - Chevrolet
+S-500,2017,Mercedes-Benz
+S-500,32000,Mercedes-Benz
+S-500L,2014,Mercedes-Benz
+S-500L,2015,Mercedes-Benz
+S-500L,2016,Mercedes-Benz
+S-500L,2017,Mercedes-Benz
+S-500L,32000,Mercedes-Benz
+S-63,2013,Mercedes-Benz
+S-63,2015,Mercedes-Benz
+S-63,2016,Mercedes-Benz
+S-63,2017,Mercedes-Benz
+S-63,32000,Mercedes-Benz
+S-CROSS,2017,Suzuki
+S-CROSS,2018,Suzuki
+S-CROSS,32000,Suzuki
 S10,2013,GM - Chevrolet
 S10,2014,GM - Chevrolet
 S10,2015,GM - Chevrolet
@@ -1430,16 +1428,13 @@ S10,2016,GM - Chevrolet
 S10,2017,GM - Chevrolet
 S10,2018,GM - Chevrolet
 S10,32000,GM - Chevrolet
-S3,2012,Audi
 S3,2013,Audi
 S3,2014,Audi
 S3,2015,Audi
 S3,2016,Audi
 S3,32000,Audi
-S4,2012,Audi
 S4,2013,Audi
 S4,2014,Audi
-S5,2012,Audi
 S5,2013,Audi
 S5,2014,Audi
 S5,2015,Audi
@@ -1447,7 +1442,6 @@ S6,2013,Audi
 S6,2014,Audi
 S6,2015,Audi
 S6,2016,Audi
-S60,2012,Volvo
 S60,2013,Volvo
 S60,2014,Volvo
 S60,2015,Volvo
@@ -1463,22 +1457,85 @@ S8,2015,Audi
 S8,2016,Audi
 S8,2017,Audi
 S8,32000,Audi
-Sandero,2012,Renault
-Sandero,2013,Renault
-Sandero,2014,Renault
-Sandero,2015,Renault
-Sandero,2016,Renault
-Sandero,2017,Renault
-Sandero,2018,Renault
-Sandero,32000,Renault
-Santa,2012,Hyundai
-Santa,2013,Hyundai
-Santa,2014,Hyundai
-Santa,2015,Hyundai
-Santa,2016,Hyundai
-Santa,2018,Hyundai
-Santa,32000,Hyundai
-Saveiro,2012,VW - VolksWagen
+SANDERO,2013,Renault
+SANDERO,2014,Renault
+SANDERO,2015,Renault
+SANDERO,2016,Renault
+SANDERO,2017,Renault
+SANDERO,2018,Renault
+SANDERO,32000,Renault
+SL-350,2013,Mercedes-Benz
+SL-350,2014,Mercedes-Benz
+SL-400,2015,Mercedes-Benz
+SL-400,2016,Mercedes-Benz
+SL-400,2017,Mercedes-Benz
+SL-400,32000,Mercedes-Benz
+SL-63,2013,Mercedes-Benz
+SL-63,2014,Mercedes-Benz
+SL-63,2015,Mercedes-Benz
+SL-63,2016,Mercedes-Benz
+SL-63,2017,Mercedes-Benz
+SL-63,32000,Mercedes-Benz
+SLC-300,2017,Mercedes-Benz
+SLC-300,2018,Mercedes-Benz
+SLC-300,32000,Mercedes-Benz
+SLC-43,2017,Mercedes-Benz
+SLC-43,32000,Mercedes-Benz
+SLK-250,2013,Mercedes-Benz
+SLK-250,2014,Mercedes-Benz
+SLK-250,2015,Mercedes-Benz
+SLK-300,2016,Mercedes-Benz
+SLK-55,2013,Mercedes-Benz
+SLK-55,2014,Mercedes-Benz
+SLK-55,2015,Mercedes-Benz
+SLK-55,2016,Mercedes-Benz
+SLS-63,2013,Mercedes-Benz
+SONIC,2013,GM - Chevrolet
+SONIC,2014,GM - Chevrolet
+SOUL,2013,Kia Motors
+SOUL,2014,Kia Motors
+SOUL,2015,Kia Motors
+SOUL,2016,Kia Motors
+SOUL,2017,Kia Motors
+SOUL,2018,Kia Motors
+SOUL,32000,Kia Motors
+SPACEFOX,2013,VW - VolksWagen
+SPACEFOX,2014,VW - VolksWagen
+SPACEFOX,2015,VW - VolksWagen
+SPACEFOX,2016,VW - VolksWagen
+SPACEFOX,2017,VW - VolksWagen
+SPACEFOX,2018,VW - VolksWagen
+SPACEFOX,32000,VW - VolksWagen
+SPIN,2013,GM - Chevrolet
+SPIN,2014,GM - Chevrolet
+SPIN,2015,GM - Chevrolet
+SPIN,2016,GM - Chevrolet
+SPIN,2017,GM - Chevrolet
+SPIN,2018,GM - Chevrolet
+SPIN,32000,GM - Chevrolet
+SUV,2015,Mahindra
+SX4,2013,Suzuki
+SX4,2014,Suzuki
+SX4,2015,Suzuki
+SX4,2016,Suzuki
+SY1020,2013,SHINERAY
+SY1020,2014,SHINERAY
+SY1020,2015,SHINERAY
+SY1020,32000,SHINERAY
+SY6370,2013,SHINERAY
+SY6370,2015,SHINERAY
+SY6370,32000,SHINERAY
+SY6390,2013,SHINERAY
+SY6390,2014,SHINERAY
+SY6390,2015,SHINERAY
+SY6390,32000,SHINERAY
+SYMBOL,2013,Renault
+Santa Fe,2013,Hyundai
+Santa Fe,2014,Hyundai
+Santa Fe,2015,Hyundai
+Santa Fe,2016,Hyundai
+Santa Fe,2018,Hyundai
+Santa Fe,32000,Hyundai
 Saveiro,2013,VW - VolksWagen
 Saveiro,2014,VW - VolksWagen
 Saveiro,2015,VW - VolksWagen
@@ -1486,8 +1543,6 @@ Saveiro,2016,VW - VolksWagen
 Saveiro,2017,VW - VolksWagen
 Saveiro,2018,VW - VolksWagen
 Saveiro,32000,VW - VolksWagen
-Scorpio,2012,Mahindra
-Sentra,2012,Nissan
 Sentra,2013,Nissan
 Sentra,2014,Nissan
 Sentra,2015,Nissan
@@ -1495,35 +1550,12 @@ Sentra,2016,Nissan
 Sentra,2017,Nissan
 Sentra,2018,Nissan
 Sentra,32000,Nissan
-Siena,2012,Fiat
 Siena,2013,Fiat
 Siena,2014,Fiat
 Siena,2015,Fiat
 Siena,2016,Fiat
-Sl,2013,Mercedes-Benz
-Sl,2014,Mercedes-Benz
-Sl,2015,Mercedes-Benz
-Sl,2016,Mercedes-Benz
-Sl,2017,Mercedes-Benz
-Sl,32000,Mercedes-Benz
-Slc,2017,Mercedes-Benz
-Slc,2018,Mercedes-Benz
-Slc,32000,Mercedes-Benz
-Slk,2012,Mercedes-Benz
-Slk,2013,Mercedes-Benz
-Slk,2014,Mercedes-Benz
-Slk,2015,Mercedes-Benz
-Slk,2016,Mercedes-Benz
-Sls,2012,Mercedes-Benz
-Sls,2013,Mercedes-Benz
-Sls,2014,Mercedes-Benz
-Sonata,2012,Hyundai
 Sonata,2013,Hyundai
 Sonata,2014,Hyundai
-Sonic,2012,GM - Chevrolet
-Sonic,2013,GM - Chevrolet
-Sonic,2014,GM - Chevrolet
-Sorento,2012,Kia Motors
 Sorento,2013,Kia Motors
 Sorento,2014,Kia Motors
 Sorento,2015,Kia Motors
@@ -1531,37 +1563,12 @@ Sorento,2016,Kia Motors
 Sorento,2017,Kia Motors
 Sorento,2018,Kia Motors
 Sorento,32000,Kia Motors
-Soul,2012,Kia Motors
-Soul,2013,Kia Motors
-Soul,2014,Kia Motors
-Soul,2015,Kia Motors
-Soul,2016,Kia Motors
-Soul,2017,Kia Motors
-Soul,2018,Kia Motors
-Soul,32000,Kia Motors
-Spacecross,2012,VW - VolksWagen
-Spacecross,2013,VW - VolksWagen
-Spacecross,2014,VW - VolksWagen
-Spacecross,2015,VW - VolksWagen
-Spacecross,2016,VW - VolksWagen
-Spacecross,2017,VW - VolksWagen
-Spacecross,32000,VW - VolksWagen
-Spacefox,2012,VW - VolksWagen
-Spacefox,2013,VW - VolksWagen
-Spacefox,2014,VW - VolksWagen
-Spacefox,2015,VW - VolksWagen
-Spacefox,2016,VW - VolksWagen
-Spacefox,2017,VW - VolksWagen
-Spacefox,2018,VW - VolksWagen
-Spacefox,32000,VW - VolksWagen
-Spin,2013,GM - Chevrolet
-Spin,2014,GM - Chevrolet
-Spin,2015,GM - Chevrolet
-Spin,2016,GM - Chevrolet
-Spin,2017,GM - Chevrolet
-Spin,2018,GM - Chevrolet
-Spin,32000,GM - Chevrolet
-Sportage,2012,Kia Motors
+SpaceCross,2013,VW - VolksWagen
+SpaceCross,2014,VW - VolksWagen
+SpaceCross,2015,VW - VolksWagen
+SpaceCross,2016,VW - VolksWagen
+SpaceCross,2017,VW - VolksWagen
+SpaceCross,32000,VW - VolksWagen
 Sportage,2013,Kia Motors
 Sportage,2014,Kia Motors
 Sportage,2015,Kia Motors
@@ -1569,7 +1576,6 @@ Sportage,2016,Kia Motors
 Sportage,2017,Kia Motors
 Sportage,2018,Kia Motors
 Sportage,32000,Kia Motors
-Sprinter,2012,Mercedes-Benz
 Sprinter,2013,Mercedes-Benz
 Sprinter,2014,Mercedes-Benz
 Sprinter,2015,Mercedes-Benz
@@ -1577,14 +1583,11 @@ Sprinter,2016,Mercedes-Benz
 Sprinter,2017,Mercedes-Benz
 Sprinter,2018,Mercedes-Benz
 Sprinter,32000,Mercedes-Benz
-Stark,2012,TAC
 Stark,2013,TAC
 Stark,2014,TAC
 Stark,2017,TAC
 Stark,32000,TAC
-Start,2012,EFFA
 Start,2014,EFFA
-Strada,2012,Fiat
 Strada,2013,Fiat
 Strada,2014,Fiat
 Strada,2015,Fiat
@@ -1592,40 +1595,21 @@ Strada,2016,Fiat
 Strada,2017,Fiat
 Strada,2018,Fiat
 Strada,32000,Fiat
-Suburban,2012,GM - Chevrolet
 Suburban,2015,GM - Chevrolet
-Suv,2015,Mahindra
 Swift,2015,Suzuki
-Sx4,2012,Suzuki
-Sx4,2013,Suzuki
-Sx4,2014,Suzuki
-Sx4,2015,Suzuki
-Sx4,2016,Suzuki
-Sy1020,2012,SHINERAY
-Sy1020,2013,SHINERAY
-Sy1020,2014,SHINERAY
-Sy1020,2015,SHINERAY
-Sy1020,32000,SHINERAY
-Sy6370,2013,SHINERAY
-Sy6370,2015,SHINERAY
-Sy6370,32000,SHINERAY
-Sy6390,2012,SHINERAY
-Sy6390,2013,SHINERAY
-Sy6390,2014,SHINERAY
-Sy6390,2015,SHINERAY
-Sy6390,32000,SHINERAY
-Symbol,2012,Renault
-Symbol,2013,Renault
-T,2012,JAC
 T,2013,JAC
 T,2014,JAC
-T,2015,Troller
-T,2016,Troller
-T,2017,Troller
-T,2018,Troller
-T,32000,Troller
-T40,2018,JAC
-T40,32000,JAC
+T-4,2013,Troller
+T-4,2014,Troller
+T-4,2015,Troller
+T-4,2016,Troller
+T-4,2017,Troller
+T-4,2018,Troller
+T-4,32000,Troller
+T4,2015,Porsche
+T4,2016,Porsche
+T4,2018,JAC
+T4,32000,JAC
 T5,2016,JAC
 T5,2017,JAC
 T5,2018,JAC
@@ -1637,75 +1621,60 @@ T6,32000,JAC
 T8,2013,JAC
 T8,2014,JAC
 T8,32000,JAC
-Tiggo,2012,CHERY
+TIGUAN,2013,VW - VolksWagen
+TIGUAN,2014,VW - VolksWagen
+TIGUAN,2015,VW - VolksWagen
+TIGUAN,2016,VW - VolksWagen
+TIGUAN,2017,VW - VolksWagen
+TIGUAN,32000,VW - VolksWagen
+TIIDA,2013,Nissan
+TOPIC,2013,JINBEI
+TOPIC,2014,JINBEI
+TOPIC,2015,JINBEI
+TOUAREG,2013,VW - VolksWagen
+TOUAREG,2014,VW - VolksWagen
+TOUAREG,2015,VW - VolksWagen
+TOUAREG,2016,VW - VolksWagen
+TOUAREG,2017,VW - VolksWagen
+TOUAREG,32000,VW - VolksWagen
+TOWN,2013,Chrysler
+TOWN,2014,Chrysler
+TOWN,2015,Chrysler
+TRACKER,2014,GM - Chevrolet
+TRACKER,2015,GM - Chevrolet
+TRACKER,2016,GM - Chevrolet
+TRACKER,2017,GM - Chevrolet
+TRACKER,32000,GM - Chevrolet
+TRAILBLAZER,2013,GM - Chevrolet
+TRAILBLAZER,2014,GM - Chevrolet
+TRAILBLAZER,2015,GM - Chevrolet
+TRAILBLAZER,2016,GM - Chevrolet
+TRAILBLAZER,2017,GM - Chevrolet
+TRAILBLAZER,2018,GM - Chevrolet
+TRAILBLAZER,32000,GM - Chevrolet
+TRANSIT,2013,Ford
+TRANSIT,2014,Ford
+TT,2013,Audi
+TT,2014,Audi
+TT,2015,Audi
+TT,2016,Audi
+TT,2017,Audi
+TT,2018,Audi
+TT,32000,Audi
+TTS,2013,Audi
+TTS,2014,Audi
+TTS,2016,Audi
+TTS,2017,Audi
+TTS,2018,Audi
+TTS,32000,Audi
 Tiggo,2013,CHERY
 Tiggo,2014,CHERY
 Tiggo,2015,CHERY
-Tiguan,2012,VW - VolksWagen
-Tiguan,2013,VW - VolksWagen
-Tiguan,2014,VW - VolksWagen
-Tiguan,2015,VW - VolksWagen
-Tiguan,2016,VW - VolksWagen
-Tiguan,2017,VW - VolksWagen
-Tiguan,32000,VW - VolksWagen
-Tiida,2012,Nissan
-Tiida,2013,Nissan
-Topic,2012,JINBEI
-Topic,2013,JINBEI
-Topic,2014,JINBEI
-Topic,2015,JINBEI
 Toro,2016,Fiat
 Toro,2017,Fiat
 Toro,2018,Fiat
 Toro,32000,Fiat
-Touareg,2012,VW - VolksWagen
-Touareg,2013,VW - VolksWagen
-Touareg,2014,VW - VolksWagen
-Touareg,2015,VW - VolksWagen
-Touareg,2016,VW - VolksWagen
-Touareg,2017,VW - VolksWagen
-Touareg,32000,VW - VolksWagen
-Town,2012,Chrysler
-Town,2013,Chrysler
-Town,2014,Chrysler
-Town,2015,Chrysler
-Towner,2012,HAFEI
 Towner,2013,HAFEI
-Tracker,2014,GM - Chevrolet
-Tracker,2015,GM - Chevrolet
-Tracker,2016,GM - Chevrolet
-Tracker,2017,GM - Chevrolet
-Tracker,32000,GM - Chevrolet
-Trailblazer,2013,GM - Chevrolet
-Trailblazer,2014,GM - Chevrolet
-Trailblazer,2015,GM - Chevrolet
-Trailblazer,2016,GM - Chevrolet
-Trailblazer,2017,GM - Chevrolet
-Trailblazer,2018,GM - Chevrolet
-Trailblazer,32000,GM - Chevrolet
-Transit,2012,Ford
-Transit,2013,Ford
-Transit,2014,Ford
-Tribeca,2012,Subaru
-Tt,2012,Audi
-Tt,2013,Audi
-Tt,2014,Audi
-Tt,2015,Audi
-Tt,2016,Audi
-Tt,2017,Audi
-Tt,2018,Audi
-Tt,32000,Audi
-Ttrs,2012,Audi
-Ttrs,2013,Audi
-Ttrs,2014,Audi
-Tts,2012,Audi
-Tts,2013,Audi
-Tts,2014,Audi
-Tts,2016,Audi
-Tts,2017,Audi
-Tts,2018,Audi
-Tts,32000,Audi
-Tucson,2012,Hyundai
 Tucson,2013,Hyundai
 Tucson,2014,Hyundai
 Tucson,2015,Hyundai
@@ -1713,27 +1682,14 @@ Tucson,2016,Hyundai
 Tucson,2017,Hyundai
 Tucson,2018,Hyundai
 Tucson,32000,Hyundai
-Ulc,2012,EFFA
-Uno,2012,Fiat
+UNO,2013,Fiat
+UNO,2014,Fiat
+UNO,2015,Fiat
+UNO,2016,Fiat
+UNO,2017,Fiat
+UNO,2018,Fiat
+UNO,32000,Fiat
 Uno,2013,Fiat
-Uno,2014,Fiat
-Uno,2015,Fiat
-Uno,2016,Fiat
-Uno,2017,Fiat
-Uno,2018,Fiat
-Uno,32000,Fiat
-Up,2014,VW - VolksWagen
-Up,2015,VW - VolksWagen
-Up,2016,VW - VolksWagen
-Up,2017,VW - VolksWagen
-Up,2018,VW - VolksWagen
-Up,32000,VW - VolksWagen
-V21,2016,EFFA
-V21,2017,EFFA
-V21,32000,EFFA
-V22,2016,EFFA
-V22,2017,EFFA
-V22,32000,EFFA
 V260,2018,JAC
 V260,32000,JAC
 V40,2013,Volvo
@@ -1743,7 +1699,6 @@ V40,2016,Volvo
 V40,2017,Volvo
 V40,2018,Volvo
 V40,32000,Volvo
-V60,2012,Volvo
 V60,2013,Volvo
 V60,2014,Volvo
 V60,2015,Volvo
@@ -1751,66 +1706,57 @@ V60,2016,Volvo
 V60,2017,Volvo
 V60,2018,Volvo
 V60,32000,Volvo
-Van,2013,RELY
-Van,2014,RELY
-Van,32000,RELY
+VAN,2013,RELY
+VAN,2014,RELY
+VAN,32000,RELY
+VERSA,2013,Nissan
+VERSA,2014,Nissan
+VERSA,2016,Nissan
+VERSA,2017,Nissan
+VERSA,2018,Nissan
+VERSA,32000,Nissan
+VITO,2016,Mercedes-Benz
+VITO,2017,Mercedes-Benz
+VITO,32000,Mercedes-Benz
+VKN,2016,JINBEI
+VKN,32000,JINBEI
+VOYAGE,2013,VW - VolksWagen
+VOYAGE,2014,VW - VolksWagen
+VOYAGE,2015,VW - VolksWagen
+VOYAGE,2016,VW - VolksWagen
+VOYAGE,2017,VW - VolksWagen
+VOYAGE,2018,VW - VolksWagen
+VOYAGE,32000,VW - VolksWagen
 Vanquish,2014,ASTON MARTIN
 Vanquish,2016,ASTON MARTIN
 Vanquish,32000,ASTON MARTIN
-Vantage,2012,ASTON MARTIN
 Vantage,2014,ASTON MARTIN
 Vantage,2015,ASTON MARTIN
 Vantage,2016,ASTON MARTIN
 Vantage,32000,ASTON MARTIN
-Veloster,2012,Hyundai
 Veloster,2013,Hyundai
-Veracruz,2012,Hyundai
-Versa,2012,Nissan
-Versa,2013,Nissan
-Versa,2014,Nissan
-Versa,2016,Nissan
-Versa,2017,Nissan
-Versa,2018,Nissan
-Versa,32000,Nissan
-Virage,2012,ASTON MARTIN
 Vitara,2017,Suzuki
 Vitara,2018,Suzuki
 Vitara,32000,Suzuki
-Vito,2016,Mercedes-Benz
-Vito,2017,Mercedes-Benz
-Vito,32000,Mercedes-Benz
-Vkn,2016,JINBEI
-Vkn,32000,JINBEI
-Voyage,2012,VW - VolksWagen
-Voyage,2013,VW - VolksWagen
-Voyage,2014,VW - VolksWagen
-Voyage,2015,VW - VolksWagen
-Voyage,2016,VW - VolksWagen
-Voyage,2017,VW - VolksWagen
-Voyage,2018,VW - VolksWagen
-Voyage,32000,VW - VolksWagen
-Way,2012,Wake
+WR-V,2018,Honda
+WR-V,32000,Honda
 Way,2013,Wake
 Way,2014,Wake
 Way,2015,Wake
 Way,2016,Wake
 Way,2017,Wake
 Way,32000,Wake
-Wr,2018,Honda
-Wr,32000,Honda
 Wraith,2014,Rolls-Royce
 Wraith,2015,Rolls-Royce
 Wraith,2016,Rolls-Royce
 Wraith,2017,Rolls-Royce
 Wraith,32000,Rolls-Royce
-Wrangler,2012,Jeep
 Wrangler,2013,Jeep
 Wrangler,2014,Jeep
 Wrangler,2015,Jeep
 Wrangler,2016,Jeep
 Wrangler,2017,Jeep
 Wrangler,32000,Jeep
-X1,2012,BMW
 X1,2013,BMW
 X1,2014,BMW
 X1,2015,BMW
@@ -1818,7 +1764,6 @@ X1,2016,BMW
 X1,2017,BMW
 X1,2018,BMW
 X1,32000,BMW
-X3,2012,BMW
 X3,2013,BMW
 X3,2014,BMW
 X3,2015,BMW
@@ -1833,7 +1778,6 @@ X4,2016,BMW
 X4,2017,BMW
 X4,2018,BMW
 X4,32000,BMW
-X5,2012,BMW
 X5,2013,BMW
 X5,2014,BMW
 X5,2015,BMW
@@ -1841,7 +1785,6 @@ X5,2016,BMW
 X5,2017,BMW
 X5,2018,BMW
 X5,32000,BMW
-X6,2012,BMW
 X6,2013,BMW
 X6,2014,BMW
 X6,2015,BMW
@@ -1855,50 +1798,73 @@ X60,2015,LIFAN
 X60,2016,LIFAN
 X60,2018,LIFAN
 X60,32000,LIFAN
-Xc,2012,Volvo
-Xc,2013,Volvo
-Xc,2014,Volvo
-Xc,2015,Volvo
-Xc,2016,Volvo
-Xc,2017,Volvo
-Xc,2018,Volvo
-Xc,32000,Volvo
-Xe,2016,Jaguar
-Xe,2017,Jaguar
-Xe,32000,Jaguar
-Xf,2012,Jaguar
-Xf,2013,Jaguar
-Xf,2014,Jaguar
-Xf,2015,Jaguar
-Xf,2016,Jaguar
-Xf,2017,Jaguar
-Xf,32000,Jaguar
-Xfr,2012,Jaguar
-Xfr,2013,Jaguar
-Xfr,2014,Jaguar
-Xfr,2015,Jaguar
-Xj,2012,Jaguar
-Xj,2013,Jaguar
-Xj,2014,Jaguar
-Xj,2015,Jaguar
-Xj,2016,Jaguar
-Xj,2017,Jaguar
-Xj,32000,Jaguar
-Xkr,2012,Jaguar
-Xkr,2013,Jaguar
-Xkr,2014,Jaguar
-Xkr,2015,Jaguar
-Xsara,2012,Citroën
-Xv,2012,Subaru
-Xv,2013,Subaru
-Xv,2014,Subaru
-Xv,2016,Subaru
-Xv,2017,Subaru
-Xv,32000,Subaru
-Z4,2012,BMW
+XC,2013,Volvo
+XC,2014,Volvo
+XC,2015,Volvo
+XC,2016,Volvo
+XC,2017,Volvo
+XC,2018,Volvo
+XC,32000,Volvo
+XE,2013,Nissan
+XE,2014,Toyota
+XE,2015,Toyota
+XE,2016,Jaguar
+XE,2017,Jaguar
+XE,2018,Toyota
+XE,32000,Jaguar
+XF,2013,Jaguar
+XF,2014,Jaguar
+XF,2015,Jaguar
+XF,2016,Jaguar
+XF,2017,Jaguar
+XF,32000,Jaguar
+XFR,2013,Jaguar
+XFR,2014,Jaguar
+XFR,2015,Jaguar
+XFR-S,2014,Jaguar
+XFR-S,2015,Jaguar
+XJ,2013,Jaguar
+XJ,2014,Jaguar
+XJ,2015,Jaguar
+XJ,2016,Jaguar
+XJ,2017,Jaguar
+XJ,32000,Jaguar
+XKR,2013,Jaguar
+XKR,2014,Jaguar
+XKR,2015,Jaguar
+XKR-S,2014,Jaguar
+XKR-S,2015,Jaguar
+XV,2013,Subaru
+XV,2014,Subaru
+XV,2016,Subaru
+XV,2017,Subaru
+XV,32000,Subaru
 Z4,2013,BMW
 Z4,2014,BMW
 Z4,2015,BMW
 Z4,2016,BMW
 Z4,32000,BMW
-Zafira,2012,GM - Chevrolet
+fortwo,2013,smart
+fortwo,2014,smart
+fortwo,2015,smart
+i3,2013,Hyundai
+i3,2014,Hyundai
+i3,2015,BMW
+i3,2016,Hyundai
+i3,32000,Hyundai
+i8,2015,BMW
+i8,2016,BMW
+i8,32000,BMW
+ix35,2013,Hyundai
+ix35,2014,Hyundai
+ix35,2015,Hyundai
+ix35,2016,Hyundai
+ix35,2017,Hyundai
+ix35,2018,Hyundai
+ix35,32000,Hyundai
+up!,2014,VW - VolksWagen
+up!,2015,VW - VolksWagen
+up!,2016,VW - VolksWagen
+up!,2017,VW - VolksWagen
+up!,2018,VW - VolksWagen
+up!,32000,VW - VolksWagen
