@@ -1,328 +1,4 @@
 fipe_cod,tabela_id,anoref,mesref,tipo,marca_id,marca,modelo_id,modelo,anomod,comb_cod,comb_sigla,comb,valor
-085003-9,230,2018,6,1,189,ASTON MARTIN,6344,Vantage Roadster 4.7 V8 420cv,2010,1,G,Gasolina,335698
-008223-6,230,2018,6,1,6,Audi,8227,A3 Cabriolet Ambition 2.0 TFSI S-tronic,32000,1,G,Gasolina,201160
-008223-6,230,2018,6,1,6,Audi,8227,A3 Cabriolet Ambition 2.0 TFSI S-tronic,2018,1,G,Gasolina,178303
-008226-0,230,2018,6,1,6,Audi,8228,A4 Avant Lim. Ed. 2.0 TFSI S tronic,32000,1,G,Gasolina,220211
-008226-0,230,2018,6,1,6,Audi,8228,A4 Avant Lim. Ed. 2.0 TFSI S tronic,2018,1,G,Gasolina,198727
-008222-8,230,2018,6,1,6,Audi,8229,A4 Limited Edition 2.0 TFSI S tronic,32000,1,G,Gasolina,213188
-008222-8,230,2018,6,1,6,Audi,8229,A4 Limited Edition 2.0 TFSI S tronic,2018,1,G,Gasolina,191833
-008225-2,230,2018,6,1,6,Audi,8230,Q3 Black Ed. 1.4 TFSI Flex S-tronic 5p,32000,1,G,Gasolina,181165
-008225-2,230,2018,6,1,6,Audi,8230,Q3 Black Ed. 1.4 TFSI Flex S-tronic 5p,2018,1,G,Gasolina,162395
-008224-4,230,2018,6,1,6,Audi,8231,Q5 2.0 TFSI Quattro S tronic (Blindado),32000,1,G,Gasolina,371611
-008224-4,230,2018,6,1,6,Audi,8231,Q5 2.0 TFSI Quattro S tronic (Blindado),2018,1,G,Gasolina,312808
-040003-3,230,2018,6,1,207,Baby,8276,Buggy RS Evolution 1.8 8V,32000,1,G,Gasolina,50002
-040003-3,230,2018,6,1,207,Baby,8276,Buggy RS Evolution 1.8 8V,2018,1,G,Gasolina,42123
-009222-3,230,2018,6,1,7,BMW,7823,M140i 3.0  24v 340cv 5p,2018,1,G,Gasolina,255150
-009223-1,230,2018,6,1,7,BMW,7857,M240i Coupe 3.0 24V 340cv 2p,2018,1,G,Gasolina,278978
-009230-4,230,2018,6,1,7,BMW,8314,M4 CS Coupe 3.0 Bi-Turbo 460cv 2p,32000,1,G,Gasolina,663717
-009230-4,230,2018,6,1,7,BMW,8314,M4 CS Coupe 3.0 Bi-Turbo 460cv 2p,2018,1,G,Gasolina,598673
-009229-0,230,2018,6,1,7,BMW,8277,X2 SDRIVE 20i M Sport 2.0 TB 192cv Aut.,32000,1,G,Gasolina,246760
-009229-0,230,2018,6,1,7,BMW,8277,X2 SDRIVE 20i M Sport 2.0 TB 192cv Aut.,2018,1,G,Gasolina,220100
-009227-4,230,2018,6,1,7,BMW,8232,X3 M40i 3.0 Turbo V6 360cv Aut.,32000,1,G,Gasolina,397120
-009227-4,230,2018,6,1,7,BMW,8232,X3 M40i 3.0 Turbo V6 360cv Aut.,2018,1,G,Gasolina,363300
-009228-2,230,2018,6,1,7,BMW,8233,X3 XDRIVE 30i X-Line 2.0 Turbo 252cv Aut,32000,1,G,Gasolina,308807
-009228-2,230,2018,6,1,7,BMW,8233,X3 XDRIVE 30i X-Line 2.0 Turbo 252cv Aut,2018,1,G,Gasolina,282765
-073016-5,230,2018,6,1,161,CHERY,8278,Tiggo 2 ACT 1.5 16V Flex Mec. 5p,32000,1,G,Gasolina,67128
-073016-5,230,2018,6,1,161,CHERY,8278,Tiggo 2 ACT 1.5 16V Flex Mec. 5p,2019,1,G,Gasolina,59886
-073017-3,230,2018,6,1,161,CHERY,8279,Tiggo 2 Look 1.5 16V Flex Mec. 5p,32000,1,G,Gasolina,59884
-073017-3,230,2018,6,1,161,CHERY,8279,Tiggo 2 Look 1.5 16V Flex Mec. 5p,2019,1,G,Gasolina,54075
-011166-0,230,2018,6,1,13,Citroën,7424,AIRCROSS Shine 1.6 Flex 16V 5p Aut.,2019,1,G,Gasolina,70309
-011119-8,230,2018,6,1,13,Citroën,6152,C3 Excl. 1.6 VTi Flex Start 16V 5p Aut.,2019,1,G,Gasolina,60968
-011169-4,230,2018,6,1,13,Citroën,7587,C3 Tendance Pure Tech 1.2 Flex 12V Mec.,2019,1,G,Gasolina,50810
-011188-0,230,2018,6,1,13,Citroën,8234,C4 LOUNGE Feel 1.6 Turbo Flex Aut.,32000,1,G,Gasolina,94172
-011188-0,230,2018,6,1,13,Citroën,8234,C4 LOUNGE Feel 1.6 Turbo Flex Aut.,2019,1,G,Gasolina,84930
-011188-0,230,2018,6,1,13,Citroën,8234,C4 LOUNGE Feel 1.6 Turbo Flex Aut.,2018,1,G,Gasolina,81673
-011187-2,230,2018,6,1,13,Citroën,8235,C4 LOUNGE Shine 1.6 Turbo Flex Aut.,32000,1,G,Gasolina,102870
-011187-2,230,2018,6,1,13,Citroën,8235,C4 LOUNGE Shine 1.6 Turbo Flex Aut.,2019,1,G,Gasolina,92307
-011187-2,230,2018,6,1,13,Citroën,8235,C4 LOUNGE Shine 1.6 Turbo Flex Aut.,2018,1,G,Gasolina,89563
-011186-4,230,2018,6,1,13,Citroën,8078,Jumpy Furgão Pack 1.6 Turbo Diesel,2019,3,D,Diesel,82549
-001509-1,230,2018,6,1,21,Fiat,8315,ARGO 1.0 6V Flex.,32000,1,G,Gasolina,44885
-001509-1,230,2018,6,1,21,Fiat,8315,ARGO 1.0 6V Flex.,2018,1,G,Gasolina,41294
-001505-9,230,2018,6,1,21,Fiat,8200,CRONOS DRIVE 1.3 8V Flex,2018,1,G,Gasolina,48953
-001504-0,230,2018,6,1,21,Fiat,8201,CRONOS DRIVE GSR 1.3 8V Flex,2018,1,G,Gasolina,52107
-001502-4,230,2018,6,1,21,Fiat,8202,CRONOS PRECISION 1.8 16V Flex Aut.,2018,1,G,Gasolina,60009
-001177-0,230,2018,6,1,21,Fiat,506,Palio 1.0/ Trofeo 1.0 Fire/ Fire Flex 4p,2017,1,G,Gasolina,28458
-001495-8,230,2018,6,1,21,Fiat,8046,Toro Blackjack 2.4 16V flex Aut,2019,1,G,Gasolina,102970
-001508-3,230,2018,6,1,21,Fiat,8236,Toro Endurence 1.8 16V Flex Aut.,32000,1,G,Gasolina,90355
-001508-3,230,2018,6,1,21,Fiat,8236,Toro Endurence 1.8 16V Flex Aut.,2019,1,G,Gasolina,81188
-001449-4,230,2018,6,1,21,Fiat,7475,Toro Freedom 1.8 16V Flex Aut.,2019,1,G,Gasolina,84913
-001487-7,230,2018,6,1,21,Fiat,7949,Toro Freedom 2.0 16V 4x4 Diesel Aut.,2019,3,D,Diesel,108093
-001453-2,230,2018,6,1,21,Fiat,7479,Toro Volcano 2.0 16V 4x4 TB Diesel Aut.,2019,3,D,Diesel,119445
-001507-5,230,2018,6,1,21,Fiat,8237,Toro Volcano 2.4 16V Flex Aut.,32000,1,G,Gasolina,113158
-001507-5,230,2018,6,1,21,Fiat,8237,Toro Volcano 2.4 16V Flex Aut.,2019,1,G,Gasolina,103707
-003438-0,230,2018,6,1,22,Ford,8004,EcoSport FREESTYLE 1.5 12V Flex 5p Aut.,2019,1,G,Gasolina,81155
-003439-8,230,2018,6,1,22,Ford,8005,EcoSport FREESTYLE 1.5 12V Flex 5p Mec.,2019,1,G,Gasolina,75020
-003440-1,230,2018,6,1,22,Ford,8006,EcoSport SE 1.5 12V Flex 5p Aut.,2019,1,G,Gasolina,74015
-003441-0,230,2018,6,1,22,Ford,8007,EcoSport SE 1.5 12V Flex 5p Mec.,2019,1,G,Gasolina,69578
-003451-7,230,2018,6,1,22,Ford,8211,EcoSport STORM 2.0 4WD 16V Flex 5p Aut.,2018,1,G,Gasolina,84607
-003374-0,230,2018,6,1,22,Ford,6264,EcoSport TITANIUM 2.0 16V Flex 5p Aut.,2019,1,G,Gasolina,85899
-003453-3,230,2018,6,1,22,Ford,8238,Mustang GT Premium 5.0 V8,32000,1,G,Gasolina,299918
-003453-3,230,2018,6,1,22,Ford,8238,Mustang GT Premium 5.0 V8,2018,1,G,Gasolina,261921
-003359-6,230,2018,6,1,22,Ford,6163,Ranger Limited 2.5 16V 4x2 CD Flex,2019,1,G,Gasolina,112307
-003364-2,230,2018,6,1,22,Ford,6164,Ranger Limited 3.2 20V 4x4 CD Aut. Dies.,2019,3,D,Diesel,165741
-003454-1,230,2018,6,1,22,Ford,8316,Ranger XLS 2.2 4x2 CD Diesel Aut.,32000,3,D,Diesel,123427
-003454-1,230,2018,6,1,22,Ford,8316,Ranger XLS 2.2 4x2 CD Diesel Aut.,2019,3,D,Diesel,113271
-003421-5,230,2018,6,1,22,Ford,7590,Ranger XLS 2.2 4x4 CD Diesel Aut.,2019,3,D,Diesel,119421
-003405-3,230,2018,6,1,22,Ford,6693,Ranger XLS 2.2 4x4 CD Diesel Mec.,2019,3,D,Diesel,114036
-003357-0,230,2018,6,1,22,Ford,6165,Ranger XLS 2.5 16V 4x2 CD Flex,2019,1,G,Gasolina,91177
-003358-8,230,2018,6,1,22,Ford,6169,Ranger XLT 2.5 16V 4x2 CD Flex,2019,1,G,Gasolina,101307
-003363-4,230,2018,6,1,22,Ford,6171,Ranger XLT 3.2 20V 4x4 CD Diesel Aut.,2019,3,D,Diesel,146633
-004370-2,230,2018,6,1,23,GM - Chevrolet,5416,MONTANA LS 1.4 ECONOFLEX 8V 2p,2019,1,G,Gasolina,41014
-004365-6,230,2018,6,1,23,GM - Chevrolet,5108,MONTANA Sport 1.4 ECONOFLEX 8V 2p,2019,1,G,Gasolina,49982
-004488-1,230,2018,6,1,23,GM - Chevrolet,8239,ONIX HATCH ADVANTAGE 1.4 8V Flex 5p Aut.,32000,1,G,Gasolina,52668
-004488-1,230,2018,6,1,23,GM - Chevrolet,8239,ONIX HATCH ADVANTAGE 1.4 8V Flex 5p Aut.,2018,1,G,Gasolina,48326
-004466-0,230,2018,6,1,23,GM - Chevrolet,7373,PRISMA Sed. ADVANT. 1.4 8V F.Power Aut.,32000,1,G,Gasolina,57840
-004466-0,230,2018,6,1,23,GM - Chevrolet,7373,PRISMA Sed. ADVANT. 1.4 8V F.Power Aut.,2018,1,G,Gasolina,54395
-004432-6,230,2018,6,1,23,GM - Chevrolet,6349,PRISMA Sed. LT 1.0 8V FlexPower 4p,2017,1,G,Gasolina,44183
-004474-1,230,2018,6,1,23,GM - Chevrolet,7791,S10 Pick-Up Advantage 2.5 Flex 4x2 CD,2019,1,G,Gasolina,82565
-004482-2,230,2018,6,1,23,GM - Chevrolet,7953,S10 Pick-Up LT 2.5 Flex 4x2 CD Aut.,2019,1,G,Gasolina,98979
-004395-8,230,2018,6,1,23,GM - Chevrolet,5893,S10 Pick-Up LT 2.8 TDI 4x4 CD Diesel Aut,2019,3,D,Diesel,134414
-004397-4,230,2018,6,1,23,GM - Chevrolet,5896,S10 Pick-Up LTZ 2.8 TDI 4x4 CD Dies.Aut,2019,3,D,Diesel,156051
-004489-0,230,2018,6,1,23,GM - Chevrolet,8280,S10 Pick-Up Midnight 2.8 4x4 CD Dies Aut,32000,3,D,Diesel,165965
-004489-0,230,2018,6,1,23,GM - Chevrolet,8280,S10 Pick-Up Midnight 2.8 4x4 CD Dies Aut,2019,3,D,Diesel,149534
-004431-8,230,2018,6,1,23,GM - Chevrolet,6268,TRAILBLAZER LTZ 2.8 CTDI Diesel Aut.,2019,3,D,Diesel,184652
-014099-6,230,2018,6,1,25,Honda,8281,Civic Coupe Si 1.5 TB 16V 208cv Mec. 2p,32000,1,G,Gasolina,159864
-014099-6,230,2018,6,1,25,Honda,8281,Civic Coupe Si 1.5 TB 16V 208cv Mec. 2p,2018,1,G,Gasolina,143000
-014100-3,230,2018,6,1,25,Honda,8282,CR-V Touring 1.5 16V 4WD 5p Aut.,32000,1,G,Gasolina,179781
-014100-3,230,2018,6,1,25,Honda,8282,CR-V Touring 1.5 16V 4WD 5p Aut.,2018,1,G,Gasolina,162181
-015089-4,230,2018,6,1,26,Hyundai,6207,HB20 C./C.Plus/C.Style 1.6 Flex 16V Mec.,2019,1,G,Gasolina,49709
-015090-8,230,2018,6,1,26,Hyundai,6206,HB20 C.Style/C.Plus 1.6 Flex 16V Aut.,2019,1,G,Gasolina,53091
-015088-6,230,2018,6,1,26,Hyundai,6205,HB20 Comf./C.Plus/C.Style 1.0 Flex 12V,2019,1,G,Gasolina,42741
-015126-2,230,2018,6,1,26,Hyundai,7546,HB20 Comfort Plus 1.0 TB Flex 12V Mec.,2019,1,G,Gasolina,45973
-015109-2,230,2018,6,1,26,Hyundai,6739,HB20 Copa do Mundo 1.0 Flex 12V Mec.,32000,1,G,Gasolina,49943
-015109-2,230,2018,6,1,26,Hyundai,6739,HB20 Copa do Mundo 1.0 Flex 12V Mec.,2019,1,G,Gasolina,44960
-015111-4,230,2018,6,1,26,Hyundai,6741,HB20 Copa do Mundo 1.6 Flex 16V Aut.,32000,1,G,Gasolina,61942
-015111-4,230,2018,6,1,26,Hyundai,6741,HB20 Copa do Mundo 1.6 Flex 16V Aut.,2019,1,G,Gasolina,55275
-015092-4,230,2018,6,1,26,Hyundai,6208,HB20 Premium 1.6 Flex 16V Aut.,2019,1,G,Gasolina,59983
-015124-6,230,2018,6,1,26,Hyundai,7480,HB20 R spec 1.6 Flex 16V Aut.,2019,1,G,Gasolina,57588
-015156-4,230,2018,6,1,26,Hyundai,8317,HB20 Unique 1.0 Flex 12V Mec.,32000,1,G,Gasolina,44647
-015156-4,230,2018,6,1,26,Hyundai,8317,HB20 Unique 1.0 Flex 12V Mec.,2019,1,G,Gasolina,40852
-015100-9,230,2018,6,1,26,Hyundai,6436,HB20S C.Plus/C.Style 1.6 Flex 16V Mec.4p,2019,1,G,Gasolina,54149
-015099-1,230,2018,6,1,26,Hyundai,6434,HB20S C.Plus/C.Style1.0 Flex 12V Mec. 4P,2019,1,G,Gasolina,48016
-015101-7,230,2018,6,1,26,Hyundai,6435,HB20S C.Style/C.Plus1.6 Flex 16V Aut. 4p,2019,1,G,Gasolina,58932
-015128-9,230,2018,6,1,26,Hyundai,7548,HB20S Comfort Plus 1.0 TB Flex 12V Mec.,2019,1,G,Gasolina,51891
-015112-2,230,2018,6,1,26,Hyundai,6742,HB20S Copa do Mundo 1.0 Flex 12V Mec.,32000,1,G,Gasolina,53954
-015112-2,230,2018,6,1,26,Hyundai,6742,HB20S Copa do Mundo 1.0 Flex 12V Mec.,2019,1,G,Gasolina,48771
-015114-9,230,2018,6,1,26,Hyundai,6744,HB20S Copa do Mundo 1.6 Flex 16V Aut.,32000,1,G,Gasolina,65956
-015114-9,230,2018,6,1,26,Hyundai,6744,HB20S Copa do Mundo 1.6 Flex 16V Aut.,2019,1,G,Gasolina,59670
-015103-3,230,2018,6,1,26,Hyundai,6437,HB20S Premium 1.6 Flex 16V Aut. 4p,2019,1,G,Gasolina,64281
-015155-6,230,2018,6,1,26,Hyundai,8240,HB20S Style 1.6 Flex 16V Aut.,32000,1,G,Gasolina,65556
-015155-6,230,2018,6,1,26,Hyundai,8240,HB20S Style 1.6 Flex 16V Aut.,2019,1,G,Gasolina,59983
-015155-6,230,2018,6,1,26,Hyundai,8240,HB20S Style 1.6 Flex 16V Aut.,2018,1,G,Gasolina,57214
-015097-5,230,2018,6,1,26,Hyundai,6352,HB20X Premium 1.6 Flex 16V Aut.,2019,1,G,Gasolina,64571
-015095-9,230,2018,6,1,26,Hyundai,6354,HB20X Style 1.6 Flex 16V Aut.,2019,1,G,Gasolina,60195
-015094-0,230,2018,6,1,26,Hyundai,6355,HB20X Style 1.6 Flex 16v Mec.,2019,1,G,Gasolina,56754
-015065-7,230,2018,6,1,26,Hyundai,1328,HR 2.5 TCI Diesel (RS/RD),2019,3,D,Diesel,67715
-015146-7,230,2018,6,1,26,Hyundai,7858,ix35 2.0 16V 2WD Flex Aut.,2019,1,G,Gasolina,92205
-015145-9,230,2018,6,1,26,Hyundai,7859,ix35 GL 2.0 16V 2WD Flex Aut.,2019,1,G,Gasolina,100802
-015086-0,230,2018,6,1,26,Hyundai,5931,ix35 GLS 2.0 16V 2WD Flex Aut.,2019,1,G,Gasolina,119510
-015138-6,230,2018,6,1,26,Hyundai,7836,Tucson GLS 1.6 Turbo 16V Aut.,2019,1,G,Gasolina,130885
-015152-1,230,2018,6,1,26,Hyundai,8052,Tucson Limited 1.6 Turbo 16V Aut.,2019,1,G,Gasolina,140858
-080019-8,230,2018,6,1,177,JAC,8283,T40 1.6 16V 5p Aut.,32000,1,G,Gasolina,70355
-080019-8,230,2018,6,1,177,JAC,8283,T40 1.6 16V 5p Aut.,2019,1,G,Gasolina,62693
-080010-4,230,2018,6,1,177,JAC,6713,T8 2.0 16V 5p Mec.,2017,1,G,Gasolina,92191
-016057-1,230,2018,6,1,28,Jaguar,8284,E-Pace 2.0 AWD 249cv Aut.,32000,1,G,Gasolina,222088
-016057-1,230,2018,6,1,28,Jaguar,8284,E-Pace 2.0 AWD 249cv Aut.,2018,1,G,Gasolina,199435
-016060-1,230,2018,6,1,28,Jaguar,8285,E-Pace FIRST EDITION 2.0 AWD 249cv Aut.,32000,1,G,Gasolina,275725
-016060-1,230,2018,6,1,28,Jaguar,8285,E-Pace FIRST EDITION 2.0 AWD 249cv Aut.,2018,1,G,Gasolina,247601
-016058-0,230,2018,6,1,28,Jaguar,8286,E-Pace R-Dynamic S 2.0 AWD 249cv Aut.,32000,1,G,Gasolina,246567
-016058-0,230,2018,6,1,28,Jaguar,8286,E-Pace R-Dynamic S 2.0 AWD 249cv Aut.,2018,1,G,Gasolina,221417
-016059-8,230,2018,6,1,28,Jaguar,8287,E-Pace R-Dynamic SE 2.0 AWD 300cv Aut.,32000,1,G,Gasolina,277935
-016059-8,230,2018,6,1,28,Jaguar,8287,E-Pace R-Dynamic SE 2.0 AWD 300cv Aut.,2018,1,G,Gasolina,249585
-016061-0,230,2018,6,1,28,Jaguar,8318,F-Type SVR AWD Supercharged Coupe 5.0 V8,32000,1,G,Gasolina,882705
-016061-0,230,2018,6,1,28,Jaguar,8318,F-Type SVR AWD Supercharged Coupe 5.0 V8,2017,1,G,Gasolina,798848
-016045-8,230,2018,6,1,28,Jaguar,7350,XE 3.0 Supercharged S 380cv Aut.,2018,1,G,Gasolina,301853
-017044-5,230,2018,6,1,29,Jeep,7762,COMPASS TRAILHAWK 2.0 4x4 Dies. 16V Aut.,2016,3,D,Diesel,138966
-017021-6,230,2018,6,1,29,Jeep,4830,Grand Cherokee Limited 3.0 TB Dies. Aut,2018,3,D,Diesel,275844
-017024-0,230,2018,6,1,29,Jeep,5455,Grand Cherokee Limited 3.6 4x4 V6 Aut.,2018,1,G,Gasolina,256748
-017029-1,230,2018,6,1,29,Jeep,5897,Wrangler Sport 3.6 V6 284cv 2p,2018,1,G,Gasolina,176552
-017061-5,230,2018,6,1,29,Jeep,8319,Wrangler Unlimited SAHARA 3.6 V6 4p,32000,1,G,Gasolina,209847
-017061-5,230,2018,6,1,29,Jeep,8319,Wrangler Unlimited SAHARA 3.6 V6 4p,2018,1,G,Gasolina,188128
-018085-8,230,2018,6,1,31,Kia Motors,6442,Cerato 1.6 16V  Flex  Aut.,2019,1,G,Gasolina,70833
-018074-2,230,2018,6,1,31,Kia Motors,5250,Sorento 2.4 16V 4x4 Aut.,32000,1,G,Gasolina,173348
-018074-2,230,2018,6,1,31,Kia Motors,5250,Sorento 2.4 16V 4x4 Aut.,2018,1,G,Gasolina,155632
-018075-0,230,2018,6,1,31,Kia Motors,5251,Sorento 3.5 V6 24V 4x2 Aut.,32000,1,G,Gasolina,199996
-018075-0,230,2018,6,1,31,Kia Motors,5251,Sorento 3.5 V6 24V 4x2 Aut.,2018,1,G,Gasolina,179794
-018076-9,230,2018,6,1,31,Kia Motors,5252,Sorento 3.5 V6 24V 4x4 Aut.,32000,1,G,Gasolina,217508
-018076-9,230,2018,6,1,31,Kia Motors,5252,Sorento 3.5 V6 24V 4x4 Aut.,2018,1,G,Gasolina,195539
-018070-0,230,2018,6,1,31,Kia Motors,4977,SOUL 1.6/ 1.6 16V FLEX Aut.,2019,1,G,Gasolina,82541
-018079-3,230,2018,6,1,31,Kia Motors,5418,Sportage EX 2.0 16V/ 2.0 16V Flex Aut.,2019,1,G,Gasolina,134105
-018077-7,230,2018,6,1,31,Kia Motors,5419,Sportage LX 2.0 16V/ 2.0 16V Flex  Aut.,2019,1,G,Gasolina,103967
-033154-6,230,2018,6,1,33,Land Rover,8241,Disc. Sp. HSE 2.0 Bi-TB 240cv Die. Aut.,32000,3,D,Diesel,290170
-033154-6,230,2018,6,1,33,Land Rover,8241,Disc. Sp. HSE 2.0 Bi-TB 240cv Die. Aut.,2018,3,D,Diesel,265244
-033131-7,230,2018,6,1,33,Land Rover,7973,Discovery HSE 3.0 V6 4x4 TD6 Diesel Aut.,2018,3,D,Diesel,353808
-033132-5,230,2018,6,1,33,Land Rover,8016,Discovery HSE Lux. 3.0 TD6 4x4 Die. Aut.,2018,3,D,Diesel,389798
-033134-1,230,2018,6,1,33,Land Rover,8017,Discovery SE 3.0 V6 4x4 TD6  Diesel Aut.,2018,3,D,Diesel,330553
-033123-6,230,2018,6,1,33,Land Rover,7667,Range R. SVAutobiography SUPERC. 5.0 V8,2017,1,G,Gasolina,932255
-033129-5,230,2018,6,1,33,Land Rover,7926,Range R.EVOQ. HSE Dyn. Convers 2.0 Aut.,2018,1,G,Gasolina,262153
-033116-3,230,2018,6,1,33,Land Rover,7395,Range R.EVOQUE SI4 SE Dynamic 2.0 Aut.,2018,1,G,Gasolina,220282
-033055-8,230,2018,6,1,33,Land Rover,5133,Range R.Sport SE 3.0 4x4 TDV6/SDV6 Dies.,2018,3,D,Diesel,396314
-057028-1,230,2018,6,1,34,Lexus,4260,ES-350 3.5 24V 284cv,2018,1,G,Gasolina,239155
-034030-8,230,2018,6,1,36,Maserati,7885,Levante S 3.0 V6 430cv Aut.,2018,1,G,Gasolina,681494
-021393-4,230,2018,6,1,39,Mercedes-Benz,8320,E-300 Cabriolet 2.0 TB 245cv Aut.,32000,1,G,Gasolina,425532
-021393-4,230,2018,6,1,39,Mercedes-Benz,8320,E-300 Cabriolet 2.0 TB 245cv Aut.,2018,1,G,Gasolina,380581
-021369-1,230,2018,6,1,39,Mercedes-Benz,7838,GLE-43 AMG 4MATIC Coupe 3.0 V6 Bi-TB Aut,2018,1,G,Gasolina,475458
-021359-4,230,2018,6,1,39,Mercedes-Benz,7770,S-65 L AMG 6.0 V12 630cv Aut.,2018,1,G,Gasolina,979458
-021359-4,230,2018,6,1,39,Mercedes-Benz,7770,S-65 L AMG 6.0 V12 630cv Aut.,2016,1,G,Gasolina,776262
-021147-8,230,2018,6,1,39,Mercedes-Benz,1684,Sprinter 313 Furgão Longo T. Alto Diesel,2019,3,D,Diesel,118185
-021269-5,230,2018,6,1,39,Mercedes-Benz,6181,Sprinter 415 Furgão E.L.T.Alt. 2.2 Dies.,2019,3,D,Diesel,119674
-021261-0,230,2018,6,1,39,Mercedes-Benz,6126,Sprinter 415 Furgão Lon.T.Alto 2.2 Dies,2019,3,D,Diesel,115200
-021273-3,230,2018,6,1,39,Mercedes-Benz,6182,Sprinter 415 VAN Luxo T.A. 2.2 Diesel,2019,3,D,Diesel,146814
-021271-7,230,2018,6,1,39,Mercedes-Benz,6184,Sprinter 415 VAN Standard T.A. 2.2 Dies.,2019,3,D,Diesel,133581
-021270-9,230,2018,6,1,39,Mercedes-Benz,6185,Sprinter 415 VAN Standard T.B. 2.2 Dies.,2019,3,D,Diesel,129174
-021283-0,230,2018,6,1,39,Mercedes-Benz,6361,Sprinter 515 VAN 2.2 Diesel,2019,3,D,Diesel,165766
-071042-3,230,2018,6,1,156,MINI,8242,ONE 1.2 12V Turbo 2p Mec.,2015,1,G,Gasolina,60086
-022168-6,230,2018,6,1,41,Mitsubishi,8321,L200 Triton GL 3.2 CD TB Int. Dies. Mec.,2015,3,D,Diesel,74101
-022151-1,230,2018,6,1,41,Mitsubishi,7490,L200 Triton OUTDOOR 2.4 Flex 16V CD Mec.,2018,1,G,Gasolina,84252
-022164-3,230,2018,6,1,41,Mitsubishi,8182,L200 Triton Sport GLS 2.4 CD Diesel Aut.,2019,3,D,Diesel,126002
-022166-0,230,2018,6,1,41,Mitsubishi,8217,L200 Triton Sport GLX 2.4 CD Diesel Mec.,2019,3,D,Diesel,115297
-022158-9,230,2018,6,1,41,Mitsubishi,7742,L200 Triton Sport HPE 2.4 CD Diesel Aut.,2019,3,D,Diesel,151563
-022167-8,230,2018,6,1,41,Mitsubishi,8218,L200 Triton Sport HPE-S 2.4 CD Dies. Aut,2019,3,D,Diesel,161014
-022123-6,230,2018,6,1,41,Mitsubishi,5733,Lancer 2.0 16V 160cv Aut.,2016,1,G,Gasolina,57875
-022148-1,230,2018,6,1,41,Mitsubishi,7433,Lancer HL-T 2.0 16V 160cv Aut.,2019,1,G,Gasolina,73501
-022107-4,230,2018,6,1,41,Mitsubishi,4803,Pajero HPE Full 3.2 4x4 T.I.Dies. 5p Aut,2019,3,D,Diesel,227815
-022088-4,230,2018,6,1,41,Mitsubishi,3972,Pajero HPE Full 3.2 4x4 T.I.Dies.3p Aut.,2019,3,D,Diesel,196287
-023150-9,230,2018,6,1,43,Nissan,7709,MARCH S 1.6 16V FlexStart 5p,2018,1,G,Gasolina,43878
-024211-0,230,2018,6,1,44,Peugeot,7201,2008 Allure 1.6 Flex 16V 5p Aut.,2019,1,G,Gasolina,71306
-024227-6,230,2018,6,1,44,Peugeot,7743,2008 Crossway 1.6 Flex 16V 5p Aut.,2019,1,G,Gasolina,78107
-024219-5,230,2018,6,1,44,Peugeot,7552,208 Active 1.2 Flex 12V 5p Mec.,2019,1,G,Gasolina,47799
-024220-9,230,2018,6,1,44,Peugeot,7553,208 Active Pack 1.2 flex 12V 5p Mec.,2019,1,G,Gasolina,50043
-024207-1,230,2018,6,1,44,Peugeot,6843,208 Active Pack 1.6 Flex 16V 5p Aut.,32000,1,G,Gasolina,63826
-024207-1,230,2018,6,1,44,Peugeot,6843,208 Active Pack 1.6 Flex 16V 5p Aut.,2019,1,G,Gasolina,58018
-024221-7,230,2018,6,1,44,Peugeot,7554,208 Allure 1.2 Flex 12V 5p Mec.,2019,1,G,Gasolina,54437
-024197-0,230,2018,6,1,44,Peugeot,6398,208 Griffe 1.6 Flex 16V 5p Aut.,2019,1,G,Gasolina,64542
-024223-3,230,2018,6,1,44,Peugeot,7556,208 GT 1.6 THP Flex 16V 5p Mec.,2019,1,G,Gasolina,76988
-024176-8,230,2018,6,1,44,Peugeot,5428,3008 Griffe 1.6 Turbo 16V 5p Aut.,2019,1,G,Gasolina,132810
-024234-9,230,2018,6,1,44,Peugeot,8243,3008 Griffe Pack 1.6 Turbo 16V 5p Aut.,32000,1,G,Gasolina,156285
-024234-9,230,2018,6,1,44,Peugeot,8243,3008 Griffe Pack 1.6 Turbo 16V 5p Aut.,2019,1,G,Gasolina,140287
-024235-7,230,2018,6,1,44,Peugeot,8244,5008 Griffe 1.6 Turbo 16V 5p Aut.,32000,1,G,Gasolina,159485
-024235-7,230,2018,6,1,44,Peugeot,8244,5008 Griffe 1.6 Turbo 16V 5p Aut.,2019,1,G,Gasolina,143926
-024236-5,230,2018,6,1,44,Peugeot,8288,5008 Griffe Pack 1.6 Turbo 16V 5p Aut.,32000,1,G,Gasolina,167896
-024236-5,230,2018,6,1,44,Peugeot,8288,5008 Griffe Pack 1.6 Turbo 16V 5p Aut.,2019,1,G,Gasolina,152215
-035103-2,230,2018,6,1,47,Porsche,8245,718 Boxster GTS 2.5 365cv,32000,1,G,Gasolina,467702
-035103-2,230,2018,6,1,47,Porsche,8245,718 Boxster GTS 2.5 365cv,2018,1,G,Gasolina,438497
-035106-7,230,2018,6,1,47,Porsche,8322,911 Carrera T 3.0 370cv,32000,1,G,Gasolina,520212
-035106-7,230,2018,6,1,47,Porsche,8322,911 Carrera T 3.0 370cv,2018,1,G,Gasolina,447991
-035105-9,230,2018,6,1,47,Porsche,8289,Panamera 4 E-Hybrid Sport Tur. 2.9 462cv,32000,1,G,Gasolina,546758
-035105-9,230,2018,6,1,47,Porsche,8289,Panamera 4 E-Hybrid Sport Tur. 2.9 462cv,2018,1,G,Gasolina,490350
-035104-0,230,2018,6,1,47,Porsche,8290,Panamera 4 Sport Turismo 3.0 330cv,32000,1,G,Gasolina,592988
-035104-0,230,2018,6,1,47,Porsche,8290,Panamera 4 Sport Turismo 3.0 330cv,2018,1,G,Gasolina,515195
-035053-2,230,2018,6,1,47,Porsche,6275,Panamera GT-S 4.8,2014,1,G,Gasolina,495563
-035102-4,230,2018,6,1,47,Porsche,8246,Panamera Turbo Sport Turismo 4.0,32000,1,G,Gasolina,988000
-035102-4,230,2018,6,1,47,Porsche,8246,Panamera Turbo Sport Turismo 4.0,2018,1,G,Gasolina,851466
-025262-0,230,2018,6,1,48,Renault,7990,CAPTUR Intense 1.6 16V Flex 5p Aut.,2019,1,G,Gasolina,82671
-025258-1,230,2018,6,1,48,Renault,7890,CAPTUR Intense 2.0 16V Flex 5p Aut.,2019,1,G,Gasolina,83210
-025261-1,230,2018,6,1,48,Renault,7991,CAPTUR Zen 1.6 16V Flex 5p Aut.,2019,1,G,Gasolina,78794
-025257-3,230,2018,6,1,48,Renault,7891,CAPTUR Zen 1.6 16V Flex 5p Mec.,2019,1,G,Gasolina,73392
-025181-0,230,2018,6,1,48,Renault,5671,DUSTER 1.6 Hi-Flex 16V Mec.,2016,1,G,Gasolina,46354
-025264-6,230,2018,6,1,48,Renault,7993,DUSTER Dynamique 1.6 Flex 16V Aut.,2019,1,G,Gasolina,72797
-025183-6,230,2018,6,1,48,Renault,5672,DUSTER Dynamique 1.6 Flex 16V Mec.,2019,1,G,Gasolina,68275
-025185-2,230,2018,6,1,48,Renault,5673,DUSTER Dynamique 2.0 Flex 16V Aut.,2019,1,G,Gasolina,77972
-025184-4,230,2018,6,1,48,Renault,5674,DUSTER Dynamique 2.0 Hi-Flex 16V Mec.,2019,1,G,Gasolina,77032
-025186-0,230,2018,6,1,48,Renault,5675,DUSTER Dynamique 4x4 2.0 Hi-Flex 16V Mec,2019,1,G,Gasolina,80471
-025182-8,230,2018,6,1,48,Renault,5676,DUSTER Expression 1.6 Hi-Flex 16V Mec.,2019,1,G,Gasolina,62018
-025240-9,230,2018,6,1,48,Renault,7672,DUSTER OROCH Dyna. 2.0Flex 16V Aut.,2019,1,G,Gasolina,74461
-025267-0,230,2018,6,1,48,Renault,8021,KWID Intense 1.0 Flex 12V 5p Mec.,2019,1,G,Gasolina,37706
-025265-4,230,2018,6,1,48,Renault,8022,KWID Life 1.0 Flex 12V 5p Mec.,2019,1,G,Gasolina,29488
-025266-2,230,2018,6,1,48,Renault,8023,KWID Zen 1.0 Flex 12V 5p Mec.,2019,1,G,Gasolina,34008
-025242-5,230,2018,6,1,48,Renault,7808,LOGAN Authentique Flex 1.0 12V 4p,2019,1,G,Gasolina,39406
-025135-6,230,2018,6,1,48,Renault,4387,LOGAN Authentique Hi-Flex 1.0 16V 4p,2017,1,G,Gasolina,36401
-025268-9,230,2018,6,1,48,Renault,8024,LOGAN Expres. Avantage Flex 1.0 12v 4p,2019,1,G,Gasolina,45861
-025269-7,230,2018,6,1,48,Renault,8025,LOGAN Expres. Avantage Flex 1.6 16V 4p,2019,1,G,Gasolina,50536
-025241-7,230,2018,6,1,48,Renault,7809,LOGAN Expression Flex 1.0 12V 4p,2019,1,G,Gasolina,44069
-025253-0,230,2018,6,1,48,Renault,7844,LOGAN Expression Flex 1.6 16V 4p,2019,1,G,Gasolina,47815
-025201-8,230,2018,6,1,48,Renault,6401,Master 2.3 dCi Extra F.Vitre 16V Diesel,2019,3,D,Diesel,102630
-025200-0,230,2018,6,1,48,Renault,6404,Master 2.3 dCi Grand F.Vitre16V Diesel,2019,3,D,Diesel,98520
-025243-3,230,2018,6,1,48,Renault,7810,SANDERO Authentique Flex 1.0 12V 5p,2019,1,G,Gasolina,38113
-025244-1,230,2018,6,1,48,Renault,7811,SANDERO Expression Flex 1.0 12V 5p,2019,1,G,Gasolina,41992
-025250-6,230,2018,6,1,48,Renault,7848,SANDERO Expression Flex 1.6 16V 5p,2019,1,G,Gasolina,46257
-025249-2,230,2018,6,1,48,Renault,7849,SANDERO GT line Flex 1.6 16V 5p,2019,1,G,Gasolina,51886
-025272-7,230,2018,6,1,48,Renault,8247,SANDERO STEP. Easy R Dyn. Flex 1.6 16V,32000,1,G,Gasolina,66158
-025272-7,230,2018,6,1,48,Renault,8247,SANDERO STEP. Easy R Dyn. Flex 1.6 16V,2019,1,G,Gasolina,59873
-025272-7,230,2018,6,1,48,Renault,8247,SANDERO STEP. Easy R Dyn. Flex 1.6 16V,2018,1,G,Gasolina,57478
-025271-9,230,2018,6,1,48,Renault,8248,SANDERO STEPWAY Dynamiq. Flex 1.6 16V 5p,32000,1,G,Gasolina,62605
-025271-9,230,2018,6,1,48,Renault,8248,SANDERO STEPWAY Dynamiq. Flex 1.6 16V 5p,2019,1,G,Gasolina,57283
-025271-9,230,2018,6,1,48,Renault,8248,SANDERO STEPWAY Dynamiq. Flex 1.6 16V 5p,2018,1,G,Gasolina,54991
-025270-0,230,2018,6,1,48,Renault,8065,SANDERO STEPWAY EXP. Flex 1.6 16V 5p,2019,1,G,Gasolina,53701
-087005-6,230,2018,6,1,195,Rolls-Royce,8108,Dawn 6.6 V12 Aut.,2017,1,G,Gasolina,3152412
-055033-7,230,2018,6,1,125,SSANGYONG,8291,ACTYON SP DLX 2.2 7 4x4 178cv Dies. Aut.,32000,3,D,Diesel,149392
-055033-7,230,2018,6,1,125,SSANGYONG,8291,ACTYON SP DLX 2.2 7 4x4 178cv Dies. Aut.,2018,3,D,Diesel,133845
-055034-5,230,2018,6,1,125,SSANGYONG,8292,ACTYON SPORTS 2.2 4x4 178cv TB Dies Aut.,32000,3,D,Diesel,132578
-055034-5,230,2018,6,1,125,SSANGYONG,8292,ACTYON SPORTS 2.2 4x4 178cv TB Dies Aut.,2018,3,D,Diesel,118638
-055035-3,230,2018,6,1,125,SSANGYONG,8293,Korando 2.2 AWD 178cv TB Diesel Aut.,32000,3,D,Diesel,132173
-055035-3,230,2018,6,1,125,SSANGYONG,8293,Korando 2.2 AWD 178cv TB Diesel Aut.,2018,3,D,Diesel,118670
-055032-9,230,2018,6,1,125,SSANGYONG,8294,Korando DLX 2.2 AWD 178cv TB Diesel Aut.,32000,3,D,Diesel,149968
-055032-9,230,2018,6,1,125,SSANGYONG,8294,Korando DLX 2.2 AWD 178cv TB Diesel Aut.,2018,3,D,Diesel,133499
-055039-6,230,2018,6,1,125,SSANGYONG,8295,TIVOLI 1.6 16V 128cv Aut.,32000,1,G,Gasolina,86944
-055039-6,230,2018,6,1,125,SSANGYONG,8295,TIVOLI 1.6 16V 128cv Aut.,2018,1,G,Gasolina,78307
-055037-0,230,2018,6,1,125,SSANGYONG,8296,TIVOLI DLX 1.6 16V 128cv Aut.,32000,1,G,Gasolina,102905
-055037-0,230,2018,6,1,125,SSANGYONG,8296,TIVOLI DLX 1.6 16V 128cv Aut.,2018,1,G,Gasolina,91868
-055038-8,230,2018,6,1,125,SSANGYONG,8297,XLV 1.6 16V 128cv Aut.,32000,1,G,Gasolina,100206
-055038-8,230,2018,6,1,125,SSANGYONG,8297,XLV 1.6 16V 128cv Aut.,2018,1,G,Gasolina,90158
-055036-1,230,2018,6,1,125,SSANGYONG,8298,XLV DLX 1.6 16V 128cv Aut.,32000,1,G,Gasolina,112276
-055036-1,230,2018,6,1,125,SSANGYONG,8298,XLV DLX 1.6 16V 128cv Aut.,2018,1,G,Gasolina,100577
-027024-5,230,2018,6,1,54,Subaru,2126,Forester 2.0/2.0 S 4x4 Aut.,2018,1,G,Gasolina,120130
-027067-9,230,2018,6,1,54,Subaru,6650,Forester XT 2.0 16V 4x4 Turbo Aut.,2018,1,G,Gasolina,154720
-027065-2,230,2018,6,1,54,Subaru,6331,XV 2.0/2.0 S 16V 4x4 150cv Aut.,2018,1,G,Gasolina,109355
-028047-0,230,2018,6,1,55,Suzuki,6074,Jimny 4SPORT/ 4WORK 1.3 16V,2019,1,G,Gasolina,66562
-028062-3,230,2018,6,1,55,Suzuki,7636,Jimny 4WORK OFF ROAD 1.3 16V,2019,1,G,Gasolina,67464
-028015-1,230,2018,6,1,55,Suzuki,2186,Jimny Wide/ Jimny/4ALL 1.3 16V,2019,1,G,Gasolina,62417
-075001-8,230,2018,6,1,165,TAC,5192,Stark 2.3 4WD 127cv TDI Diesel 3p,32000,3,D,Diesel,99882
-075001-8,230,2018,6,1,165,TAC,5192,Stark 2.3 4WD 127cv TDI Diesel 3p,2018,3,D,Diesel,88942
-002112-1,230,2018,6,1,56,Toyota,5193,Corolla ALTIS 2.0 Flex 16V Aut.,2019,1,G,Gasolina,111221
-002109-1,230,2018,6,1,56,Toyota,5041,Corolla GLi 1.8 Flex 16V  Aut.,2018,1,G,Gasolina,70698
-002139-3,230,2018,6,1,56,Toyota,7214,Corolla GLi Upper 1.8 Flex 16V Aut.,2019,1,G,Gasolina,82555
-002111-3,230,2018,6,1,56,Toyota,5194,Corolla XEi 2.0 Flex 16V Aut.,2019,1,G,Gasolina,97020
-002115-6,230,2018,6,1,56,Toyota,5939,Corolla XRS 2.0 Flex 16V Aut.,2019,1,G,Gasolina,102010
-002156-3,230,2018,6,1,56,Toyota,7711,ETIOS PLATINUM 1.5 Flex 16V 4p Aut.,2019,1,G,Gasolina,61790
-002157-1,230,2018,6,1,56,Toyota,7712,ETIOS PLATINUM Sed. 1.5 Flex 16V 4p Aut.,2019,1,G,Gasolina,63859
-002154-7,230,2018,6,1,56,Toyota,7560,ETIOS X 1.3 Flex 16V 5p Aut.,2019,1,G,Gasolina,49727
-002122-9,230,2018,6,1,56,Toyota,6246,ETIOS X 1.3 Flex 16V 5p Mec.,2019,1,G,Gasolina,42845
-002162-8,230,2018,6,1,56,Toyota,8249,ETIOS X Plus 1.5 Flex 16V 5p Aut.,32000,1,G,Gasolina,58571
-002162-8,230,2018,6,1,56,Toyota,8249,ETIOS X Plus 1.5 Flex 16V 5p Aut.,2019,1,G,Gasolina,53590
-002163-6,230,2018,6,1,56,Toyota,8250,ETIOS X Plus 1.5 Flex 16V 5p Mec.,32000,1,G,Gasolina,54129
-002163-6,230,2018,6,1,56,Toyota,8250,ETIOS X Plus 1.5 Flex 16V 5p Mec.,2019,1,G,Gasolina,49070
-002164-4,230,2018,6,1,56,Toyota,8251,ETIOS X Plus Sedan 1.5 Flex 16V 4p Aut.,32000,1,G,Gasolina,61632
-002164-4,230,2018,6,1,56,Toyota,8251,ETIOS X Plus Sedan 1.5 Flex 16V 4p Aut.,2019,1,G,Gasolina,56486
-002165-2,230,2018,6,1,56,Toyota,8252,ETIOS X Plus Sedan 1.5 Flex 16V 4p Mec.,32000,1,G,Gasolina,56790
-002165-2,230,2018,6,1,56,Toyota,8252,ETIOS X Plus Sedan 1.5 Flex 16V 4p Mec.,2019,1,G,Gasolina,51832
-002153-9,230,2018,6,1,56,Toyota,7561,ETIOS X Sedan 1.5 Flex 16V 4p Aut.,2019,1,G,Gasolina,53927
-002125-3,230,2018,6,1,56,Toyota,6247,ETIOS X Sedan 1.5 Flex 16V 4p Mec.,2019,1,G,Gasolina,49458
-002150-4,230,2018,6,1,56,Toyota,7562,ETIOS XLS 1.5 Flex 5p Aut.,2019,1,G,Gasolina,58810
-002149-0,230,2018,6,1,56,Toyota,7563,ETIOS XLS Sedan 1.5 Flex 16V 4p Aut.,2019,1,G,Gasolina,60113
-002142-3,230,2018,6,1,56,Toyota,7405,Hilux CD SR 4x4 2.8 TDI Diesel Aut.,2018,3,D,Diesel,141934
-002107-5,230,2018,6,1,56,Toyota,4906,Hilux SW4 SR 4x2 2.7/ 2.7 Flex 16V Aut.,2019,1,G,Gasolina,155292
-002106-7,230,2018,6,1,56,Toyota,4905,Hilux SW4 SR 4x2 2.7/2.7 Flex 16V Mec.,2012,1,G,Gasolina,76697
-002160-1,230,2018,6,1,56,Toyota,8111,Hilux SW4 SRV 4x2 2.7 Flex 16V Aut.,2019,1,G,Gasolina,161503
-002146-6,230,2018,6,1,56,Toyota,7491,Hilux SW4 SRX 4x4 2.8 TDI 16V Dies. Aut.,2019,3,D,Diesel,236290
-002166-0,230,2018,6,1,56,Toyota,8299,Hilux SW4 SRX Diamo. 4x4 2.8 TB Die Aut.,32000,3,D,Diesel,262767
-002166-0,230,2018,6,1,56,Toyota,8299,Hilux SW4 SRX Diamo. 4x4 2.8 TB Die Aut.,2019,3,D,Diesel,239211
-029124-2,230,2018,6,1,58,Volvo,8253,XC40 T-5 MOMENT FIRST EDIT 2.0 252cv AWD,32000,1,G,Gasolina,199900
-029124-2,230,2018,6,1,58,Volvo,8253,XC40 T-5 MOMENT FIRST EDIT 2.0 252cv AWD,2018,1,G,Gasolina,177880
-029126-9,230,2018,6,1,58,Volvo,8254,XC40 T-5 MOMENTUM 2.0 252cv AWD,32000,1,G,Gasolina,190200
-029126-9,230,2018,6,1,58,Volvo,8254,XC40 T-5 MOMENTUM 2.0 252cv AWD,2018,1,G,Gasolina,168756
-029127-7,230,2018,6,1,58,Volvo,8255,XC40 T-5 R-DESIGN 2.0 252cv AWD,32000,1,G,Gasolina,210030
-029127-7,230,2018,6,1,58,Volvo,8255,XC40 T-5 R-DESIGN 2.0 252cv AWD,2018,1,G,Gasolina,186200
-029125-0,230,2018,6,1,58,Volvo,8256,XC40 T-5 R-DESIGN FIRST ED 2.0 252cv AWD,32000,1,G,Gasolina,219478
-029125-0,230,2018,6,1,58,Volvo,8256,XC40 T-5 R-DESIGN FIRST ED 2.0 252cv AWD,2018,1,G,Gasolina,195252
-005490-9,230,2018,6,1,59,VW - VolksWagen,8323,Gol 1.0 Flex 12V 5p,32000,1,G,Gasolina,45613
-005490-9,230,2018,6,1,59,VW - VolksWagen,8323,Gol 1.0 Flex 12V 5p,2019,1,G,Gasolina,41508
-005491-7,230,2018,6,1,59,VW - VolksWagen,8324,Gol 1.6 MSI Flex 8V 5p,32000,1,G,Gasolina,50568
-005491-7,230,2018,6,1,59,VW - VolksWagen,8324,Gol 1.6 MSI Flex 8V 5p,2019,1,G,Gasolina,46067
-005459-3,230,2018,6,1,59,VW - VolksWagen,7566,Saveiro Robust 1.6 Total Flex 8V,2019,1,G,Gasolina,44173
-005386-4,230,2018,6,1,59,VW - VolksWagen,6799,Saveiro Trendline 1.6 T.Flex 8V,2019,1,G,Gasolina,50137
-005488-7,230,2018,6,1,59,VW - VolksWagen,8300,TIGUAN Allspac 250 TSI 1.4 Flex,32000,1,G,Gasolina,124855
-005488-7,230,2018,6,1,59,VW - VolksWagen,8300,TIGUAN Allspac 250 TSI 1.4 Flex,2018,1,G,Gasolina,112619
-005487-9,230,2018,6,1,59,VW - VolksWagen,8301,TIGUAN Allspac Comf 250 TSI 1.4 Flex,32000,1,G,Gasolina,149893
-005487-9,230,2018,6,1,59,VW - VolksWagen,8301,TIGUAN Allspac Comf 250 TSI 1.4 Flex,2018,1,G,Gasolina,135204
-005489-5,230,2018,6,1,59,VW - VolksWagen,8302,TIGUAN Allspac R-Line 350 TSI 2.0 4x4,32000,1,G,Gasolina,179898
-005489-5,230,2018,6,1,59,VW - VolksWagen,8302,TIGUAN Allspac R-Line 350 TSI 2.0 4x4,2018,1,G,Gasolina,162267
-005366-0,230,2018,6,1,59,VW - VolksWagen,6717,up! move 1.0 Total Flex 12V 5p,2019,1,G,Gasolina,45045
-005473-9,230,2018,6,1,59,VW - VolksWagen,8028,up! Pepper 1.0 TSI l Flex 12V 5p,2019,1,G,Gasolina,54289
-005492-5,230,2018,6,1,59,VW - VolksWagen,8325,VOYAGE 1.0 Flex 12V 4p,32000,1,G,Gasolina,52542
-005492-5,230,2018,6,1,59,VW - VolksWagen,8325,VOYAGE 1.0 Flex 12V 4p,2019,1,G,Gasolina,47866
-005493-3,230,2018,6,1,59,VW - VolksWagen,8326,VOYAGE 1.6 MSI Flex 8V 4p,32000,1,G,Gasolina,56567
-005493-3,230,2018,6,1,59,VW - VolksWagen,8326,VOYAGE 1.6 MSI Flex 8V 4p,2019,1,G,Gasolina,51532
 038003-2,223,2018,3,1,1,Acura,1,Integra GS 1.8,1992,1,G,Gasolina,12423
 038003-2,223,2018,3,1,1,Acura,1,Integra GS 1.8,1991,1,G,Gasolina,11362
 038002-4,223,2018,3,1,1,Acura,2,Legend 3.2/3.5,1998,1,G,Gasolina,28236
@@ -8760,40 +8436,40 @@ fipe_cod,tabela_id,anoref,mesref,tipo,marca_id,marca,modelo_id,modelo,anomod,com
 004203-0,223,2018,3,1,23,GM - Chevrolet,1067,Corsa Wind Piquet/ Champ 1.0 MPFI 2p,1999,1,G,Gasolina,9772
 004203-0,223,2018,3,1,23,GM - Chevrolet,1067,Corsa Wind Piquet/ Champ 1.0 MPFI 2p,1998,1,G,Gasolina,8438
 004203-0,223,2018,3,1,23,GM - Chevrolet,1067,Corsa Wind Piquet/ Champ 1.0 MPFI 2p,1997,1,G,Gasolina,8153
-004140-8,223,2018,3,1,23,GM - Chevrolet,1068,Corvette 5.7/ 6.0 6.2 Conv./Stingray,2015,1,G,Gasolina,397227
-004140-8,223,2018,3,1,23,GM - Chevrolet,1068,Corvette 5.7/ 6.0 6.2 Conv./Stingray,2012,1,G,Gasolina,265157
-004140-8,223,2018,3,1,23,GM - Chevrolet,1068,Corvette 5.7/ 6.0 6.2 Conv./Stingray,2011,1,G,Gasolina,255693
-004140-8,223,2018,3,1,23,GM - Chevrolet,1068,Corvette 5.7/ 6.0 6.2 Conv./Stingray,2010,1,G,Gasolina,237492
-004140-8,223,2018,3,1,23,GM - Chevrolet,1068,Corvette 5.7/ 6.0 6.2 Conv./Stingray,2009,1,G,Gasolina,207281
-004140-8,223,2018,3,1,23,GM - Chevrolet,1068,Corvette 5.7/ 6.0 6.2 Conv./Stingray,2008,1,G,Gasolina,199985
-004140-8,223,2018,3,1,23,GM - Chevrolet,1068,Corvette 5.7/ 6.0 6.2 Conv./Stingray,2007,1,G,Gasolina,187340
-004140-8,223,2018,3,1,23,GM - Chevrolet,1068,Corvette 5.7/ 6.0 6.2 Conv./Stingray,2002,1,G,Gasolina,125485
-004140-8,223,2018,3,1,23,GM - Chevrolet,1068,Corvette 5.7/ 6.0 6.2 Conv./Stingray,2000,1,G,Gasolina,114310
-004140-8,223,2018,3,1,23,GM - Chevrolet,1068,Corvette 5.7/ 6.0 6.2 Conv./Stingray,1999,1,G,Gasolina,109884
-004140-8,223,2018,3,1,23,GM - Chevrolet,1068,Corvette 5.7/ 6.0 6.2 Conv./Stingray,1995,1,G,Gasolina,99743
-004140-8,223,2018,3,1,23,GM - Chevrolet,1068,Corvette 5.7/ 6.0 6.2 Conv./Stingray,1991,1,G,Gasolina,90599
-004141-6,223,2018,3,1,23,GM - Chevrolet,1069,Corvette 5.7/ 6.0 6.2 Targa/Stingray,2015,1,G,Gasolina,356340
-004141-6,223,2018,3,1,23,GM - Chevrolet,1069,Corvette 5.7/ 6.0 6.2 Targa/Stingray,2014,1,G,Gasolina,304663
-004141-6,223,2018,3,1,23,GM - Chevrolet,1069,Corvette 5.7/ 6.0 6.2 Targa/Stingray,2013,1,G,Gasolina,258947
-004141-6,223,2018,3,1,23,GM - Chevrolet,1069,Corvette 5.7/ 6.0 6.2 Targa/Stingray,2012,1,G,Gasolina,251138
-004141-6,223,2018,3,1,23,GM - Chevrolet,1069,Corvette 5.7/ 6.0 6.2 Targa/Stingray,2011,1,G,Gasolina,242863
-004141-6,223,2018,3,1,23,GM - Chevrolet,1069,Corvette 5.7/ 6.0 6.2 Targa/Stingray,2010,1,G,Gasolina,228076
-004141-6,223,2018,3,1,23,GM - Chevrolet,1069,Corvette 5.7/ 6.0 6.2 Targa/Stingray,2009,1,G,Gasolina,183398
-004141-6,223,2018,3,1,23,GM - Chevrolet,1069,Corvette 5.7/ 6.0 6.2 Targa/Stingray,2008,1,G,Gasolina,177784
-004141-6,223,2018,3,1,23,GM - Chevrolet,1069,Corvette 5.7/ 6.0 6.2 Targa/Stingray,2007,1,G,Gasolina,163338
-004141-6,223,2018,3,1,23,GM - Chevrolet,1069,Corvette 5.7/ 6.0 6.2 Targa/Stingray,2006,1,G,Gasolina,147315
-004141-6,223,2018,3,1,23,GM - Chevrolet,1069,Corvette 5.7/ 6.0 6.2 Targa/Stingray,2005,1,G,Gasolina,141642
-004141-6,223,2018,3,1,23,GM - Chevrolet,1069,Corvette 5.7/ 6.0 6.2 Targa/Stingray,2004,1,G,Gasolina,123887
-004141-6,223,2018,3,1,23,GM - Chevrolet,1069,Corvette 5.7/ 6.0 6.2 Targa/Stingray,2002,1,G,Gasolina,116068
-004141-6,223,2018,3,1,23,GM - Chevrolet,1069,Corvette 5.7/ 6.0 6.2 Targa/Stingray,2001,1,G,Gasolina,103836
-004141-6,223,2018,3,1,23,GM - Chevrolet,1069,Corvette 5.7/ 6.0 6.2 Targa/Stingray,2000,1,G,Gasolina,100457
-004141-6,223,2018,3,1,23,GM - Chevrolet,1069,Corvette 5.7/ 6.0 6.2 Targa/Stingray,1999,1,G,Gasolina,97214
-004141-6,223,2018,3,1,23,GM - Chevrolet,1069,Corvette 5.7/ 6.0 6.2 Targa/Stingray,1998,1,G,Gasolina,93850
-004141-6,223,2018,3,1,23,GM - Chevrolet,1069,Corvette 5.7/ 6.0 6.2 Targa/Stingray,1995,1,G,Gasolina,89616
-004141-6,223,2018,3,1,23,GM - Chevrolet,1069,Corvette 5.7/ 6.0 6.2 Targa/Stingray,1994,1,G,Gasolina,82915
-004141-6,223,2018,3,1,23,GM - Chevrolet,1069,Corvette 5.7/ 6.0 6.2 Targa/Stingray,1993,1,G,Gasolina,78094
-004141-6,223,2018,3,1,23,GM - Chevrolet,1069,Corvette 5.7/ 6.0 6.2 Targa/Stingray,1992,1,G,Gasolina,75638
-004141-6,223,2018,3,1,23,GM - Chevrolet,1069,Corvette 5.7/ 6.0 6.2 Targa/Stingray,1991,1,G,Gasolina,72439
+004140-8,223,2018,3,1,23,GM - Chevrolet,1068,Corvette 5.7/ 6.0, 6.2 Conv./Stingray,2015,1,G,Gasolina,397227
+004140-8,223,2018,3,1,23,GM - Chevrolet,1068,Corvette 5.7/ 6.0, 6.2 Conv./Stingray,2012,1,G,Gasolina,265157
+004140-8,223,2018,3,1,23,GM - Chevrolet,1068,Corvette 5.7/ 6.0, 6.2 Conv./Stingray,2011,1,G,Gasolina,255693
+004140-8,223,2018,3,1,23,GM - Chevrolet,1068,Corvette 5.7/ 6.0, 6.2 Conv./Stingray,2010,1,G,Gasolina,237492
+004140-8,223,2018,3,1,23,GM - Chevrolet,1068,Corvette 5.7/ 6.0, 6.2 Conv./Stingray,2009,1,G,Gasolina,207281
+004140-8,223,2018,3,1,23,GM - Chevrolet,1068,Corvette 5.7/ 6.0, 6.2 Conv./Stingray,2008,1,G,Gasolina,199985
+004140-8,223,2018,3,1,23,GM - Chevrolet,1068,Corvette 5.7/ 6.0, 6.2 Conv./Stingray,2007,1,G,Gasolina,187340
+004140-8,223,2018,3,1,23,GM - Chevrolet,1068,Corvette 5.7/ 6.0, 6.2 Conv./Stingray,2002,1,G,Gasolina,125485
+004140-8,223,2018,3,1,23,GM - Chevrolet,1068,Corvette 5.7/ 6.0, 6.2 Conv./Stingray,2000,1,G,Gasolina,114310
+004140-8,223,2018,3,1,23,GM - Chevrolet,1068,Corvette 5.7/ 6.0, 6.2 Conv./Stingray,1999,1,G,Gasolina,109884
+004140-8,223,2018,3,1,23,GM - Chevrolet,1068,Corvette 5.7/ 6.0, 6.2 Conv./Stingray,1995,1,G,Gasolina,99743
+004140-8,223,2018,3,1,23,GM - Chevrolet,1068,Corvette 5.7/ 6.0, 6.2 Conv./Stingray,1991,1,G,Gasolina,90599
+004141-6,223,2018,3,1,23,GM - Chevrolet,1069,Corvette 5.7/ 6.0, 6.2 Targa/Stingray,2015,1,G,Gasolina,356340
+004141-6,223,2018,3,1,23,GM - Chevrolet,1069,Corvette 5.7/ 6.0, 6.2 Targa/Stingray,2014,1,G,Gasolina,304663
+004141-6,223,2018,3,1,23,GM - Chevrolet,1069,Corvette 5.7/ 6.0, 6.2 Targa/Stingray,2013,1,G,Gasolina,258947
+004141-6,223,2018,3,1,23,GM - Chevrolet,1069,Corvette 5.7/ 6.0, 6.2 Targa/Stingray,2012,1,G,Gasolina,251138
+004141-6,223,2018,3,1,23,GM - Chevrolet,1069,Corvette 5.7/ 6.0, 6.2 Targa/Stingray,2011,1,G,Gasolina,242863
+004141-6,223,2018,3,1,23,GM - Chevrolet,1069,Corvette 5.7/ 6.0, 6.2 Targa/Stingray,2010,1,G,Gasolina,228076
+004141-6,223,2018,3,1,23,GM - Chevrolet,1069,Corvette 5.7/ 6.0, 6.2 Targa/Stingray,2009,1,G,Gasolina,183398
+004141-6,223,2018,3,1,23,GM - Chevrolet,1069,Corvette 5.7/ 6.0, 6.2 Targa/Stingray,2008,1,G,Gasolina,177784
+004141-6,223,2018,3,1,23,GM - Chevrolet,1069,Corvette 5.7/ 6.0, 6.2 Targa/Stingray,2007,1,G,Gasolina,163338
+004141-6,223,2018,3,1,23,GM - Chevrolet,1069,Corvette 5.7/ 6.0, 6.2 Targa/Stingray,2006,1,G,Gasolina,147315
+004141-6,223,2018,3,1,23,GM - Chevrolet,1069,Corvette 5.7/ 6.0, 6.2 Targa/Stingray,2005,1,G,Gasolina,141642
+004141-6,223,2018,3,1,23,GM - Chevrolet,1069,Corvette 5.7/ 6.0, 6.2 Targa/Stingray,2004,1,G,Gasolina,123887
+004141-6,223,2018,3,1,23,GM - Chevrolet,1069,Corvette 5.7/ 6.0, 6.2 Targa/Stingray,2002,1,G,Gasolina,116068
+004141-6,223,2018,3,1,23,GM - Chevrolet,1069,Corvette 5.7/ 6.0, 6.2 Targa/Stingray,2001,1,G,Gasolina,103836
+004141-6,223,2018,3,1,23,GM - Chevrolet,1069,Corvette 5.7/ 6.0, 6.2 Targa/Stingray,2000,1,G,Gasolina,100457
+004141-6,223,2018,3,1,23,GM - Chevrolet,1069,Corvette 5.7/ 6.0, 6.2 Targa/Stingray,1999,1,G,Gasolina,97214
+004141-6,223,2018,3,1,23,GM - Chevrolet,1069,Corvette 5.7/ 6.0, 6.2 Targa/Stingray,1998,1,G,Gasolina,93850
+004141-6,223,2018,3,1,23,GM - Chevrolet,1069,Corvette 5.7/ 6.0, 6.2 Targa/Stingray,1995,1,G,Gasolina,89616
+004141-6,223,2018,3,1,23,GM - Chevrolet,1069,Corvette 5.7/ 6.0, 6.2 Targa/Stingray,1994,1,G,Gasolina,82915
+004141-6,223,2018,3,1,23,GM - Chevrolet,1069,Corvette 5.7/ 6.0, 6.2 Targa/Stingray,1993,1,G,Gasolina,78094
+004141-6,223,2018,3,1,23,GM - Chevrolet,1069,Corvette 5.7/ 6.0, 6.2 Targa/Stingray,1992,1,G,Gasolina,75638
+004141-6,223,2018,3,1,23,GM - Chevrolet,1069,Corvette 5.7/ 6.0, 6.2 Targa/Stingray,1991,1,G,Gasolina,72439
 004399-0,223,2018,3,1,23,GM - Chevrolet,5975,CRUZE HB Sport LT 1.8 16V FlexP. 5p Aut,2016,1,G,Gasolina,66016
 004399-0,223,2018,3,1,23,GM - Chevrolet,5975,CRUZE HB Sport LT 1.8 16V FlexP. 5p Aut,2015,1,G,Gasolina,59529
 004399-0,223,2018,3,1,23,GM - Chevrolet,5975,CRUZE HB Sport LT 1.8 16V FlexP. 5p Aut,2014,1,G,Gasolina,50294

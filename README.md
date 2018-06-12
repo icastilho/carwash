@@ -14,6 +14,11 @@ This project clean and organize  FIPE TABLE scraped data
 python app.py
 ```
 
+# Running production mode
+```bash
+ENV=prod; python app.py
+```
+
 # Running docker option
 
 You need to have Docker installed in your machine, after that, just run this command `docker-compose build && docker-compose up -d`.

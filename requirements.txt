@@ -8,3 +8,4 @@ pandas
 livereload
 formic
 firebase_admin
+python-dotenv

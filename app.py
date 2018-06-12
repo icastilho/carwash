@@ -1,7 +1,7 @@
 import os
 import connexion
 import logging
-
+from dotenv import load_dotenv, find_dotenv
 from injector import Binder
 from flask_injector import FlaskInjector
 from connexion.resolver import RestyResolver
@@ -11,15 +11,22 @@ from services.elasticsearch import ElasticSearchIndex, ElasticSearchFactory
 from conf.elasticsearch_mapper import vehicle_mapping, brand_mapping, model_mapping, version_mapping
 from services.firestore import Firestore
 from services.washer import Washer
-
+from flask import current_app
 def configure(binder: Binder) -> Binder:
-    binder.bind(Firestore)
+    load_dotenv(find_dotenv())
+    binder.bind(
+            Firestore,
+            Firestore(
+                os.getenv('AUTOSLANCES_CREDENTIALS_PATH'),
+                os.getenv('AUTOSLANCES_DATABASE_NAME')
+            )
+    )
     binder.bind(Washer)
 
     binder.bind(
             ElasticSearchIndex,
             ElasticSearchIndex(
-                ElasticSearchFactory(''),
+                ElasticSearchFactory(),
                 {'vehicles': vehicle_mapping, 'brands': brand_mapping, 'models': model_mapping, 'versions': version_mapping}
             )
     )

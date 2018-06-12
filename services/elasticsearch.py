@@ -1,34 +1,32 @@
+import os
 import re
 from flask import current_app
 from flask_injector import inject
 from elasticsearch import Elasticsearch
+from dotenv import load_dotenv, find_dotenv
 
 class ElasticSearchFactory(object):
 
-    def __init__(self, bonsaiUrl):
-        self.url = bonsaiUrl
-
 
     def create(self) -> Elasticsearch:
+        load_dotenv(find_dotenv())
         # Parse the auth and host from env:
         # bonsai = os.environ['BONSAI_URL']
-        bonsai = self.url
-
         # Connect to cluster over SSL using auth for best security:
         es_header = [{
-          'host': 'search.autoslances.com.br',
-          'port': 443,
-          'use_ssl': True,
-          'http_auth': ('autoslaces','a1u7t5o9'),
-          'protocol': 'https',
-          'verify_certs':True
+          'host': os.getenv('ELASTICSEARCH_HOST'),
+          'port': os.getenv('ELASTICSEARCH_PORT'),
+          'use_ssl': os.getenv('ELASTICSEARCH_USE_SSL'),
+          'http_auth': (os.getenv('ELASTICSEARCH_USER'),os.getenv('ELASTICSEARCH_PASS')),
+          'protocol': os.getenv('ELASTICSEARCH_PROTOCOL'),
+          'verify_certs':os.getenv('ELASTICSEARCH_VERIFY_CERTS')
         }]
 
         # Instantiate the new Elasticsearch connection:
         es = Elasticsearch(es_header)
 
         # Verify that Python can talk to Bonsai (optional):
-        current_app.logger.info('Bonsai ping...', es.ping())
+        current_app.logger.info('elastic ping...', es.ping())
         return es
 
 

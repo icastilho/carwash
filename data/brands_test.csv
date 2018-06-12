@@ -31,6 +31,7 @@ id,name
 57,Troller
 58,Volvo
 59,VW - VolksWagen
+120,Walk
 123,Bugre
 125,SSANGYONG
 140,Mahindra
@@ -54,3 +55,4 @@ id,name
 190,FOTON
 195,Rolls-Royce
 199,GEELY
+207,Baby
