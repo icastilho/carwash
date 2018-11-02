@@ -144,5 +144,5 @@ class Washer(object):
         # Carregando os dados de treinamento e de testes
         train_df = pd.read_csv('data/fipe_table.csv')
         # Filtra os ultimos 10 anos
-        years_ago = datetime.datetime.now() - relativedelta(years=5)
+        years_ago = datetime.datetime.now() - relativedelta(years=10)
         return train_df[(train_df.anomod >= years_ago.year)]
